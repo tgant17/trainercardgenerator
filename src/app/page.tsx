@@ -258,9 +258,12 @@ export default function Home() {
   const [favoriteTypeChoice, setFavoriteTypeChoice] = useState("");
   const [favoritePokemonChoice, setFavoritePokemonChoice] = useState("");
   const [favoriteGameChoice, setFavoriteGameChoice] = useState("");
+  const [toastMessage, setToastMessage] = useState<string | null>(null);
+  const [isToastVisible, setIsToastVisible] = useState(false);
   const previewFrontRef = useRef<HTMLDivElement>(null);
   const exportFrontRef = useRef<HTMLDivElement>(null);
   const exportSheetRef = useRef<HTMLDivElement>(null);
+  const toastTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   const combinedAvatars = useMemo(() => {
     const map = new Map<string, TrainerAvatar>();
@@ -300,6 +303,17 @@ export default function Home() {
     [cardPattern, cardHasLightBackground, effectivePatternScale],
   );
   const pokemonBackOptions = useMemo(() => (pokemonNames.length ? pokemonNames : starterPokemon), [pokemonNames]);
+
+  const showToast = (message: string) => {
+    setToastMessage(message);
+    setIsToastVisible(true);
+    if (toastTimeoutRef.current) {
+      clearTimeout(toastTimeoutRef.current);
+    }
+    toastTimeoutRef.current = setTimeout(() => {
+      setIsToastVisible(false);
+    }, 2600);
+  };
 
   const CardSurface = ({ children }: { children: ReactNode }) => (
     <div
@@ -533,6 +547,7 @@ export default function Home() {
       setPokemonQuery("");
       setNameSuggestions([]);
       setStatusMessage(`${formattedPokemon.name} added to your party!`);
+      showToast(`${formattedPokemon.name} added to the front!`);
     } catch (error) {
       setStatusMessage(error instanceof Error ? error.message : "Something went wrong while fetching that Pokémon.");
     } finally {
@@ -571,12 +586,33 @@ export default function Home() {
     setAvatarQuery("");
     setAvatarSuggestions([]);
     setShowNoAvatarResults(false);
+    showToast(`${avatar.name} added to the front!`);
+  };
+
+  const handleAvatarSelect = (avatar: TrainerAvatar) => {
+    setSelectedAvatarId(avatar.id);
+    showToast(`${avatar.name} added to the front!`);
   };
 
   const handleFavoritePokemonInput = (value: string) => {
     const normalized = normalizePokemonName(value);
     setFavoritePokemonChoice(normalized);
   };
+
+  useEffect(() => {
+    if (!isToastVisible && toastMessage) {
+      const timeout = setTimeout(() => setToastMessage(null), 200);
+      return () => clearTimeout(timeout);
+    }
+  }, [isToastVisible, toastMessage]);
+
+  useEffect(() => {
+    return () => {
+      if (toastTimeoutRef.current) {
+        clearTimeout(toastTimeoutRef.current);
+      }
+    };
+  }, []);
 
   const captureNode = async (node: HTMLElement, backgroundColor: string) => {
     const previous = {
@@ -718,7 +754,7 @@ export default function Home() {
                         <button
                           key={avatar.id}
                           type="button"
-                          onClick={() => setSelectedAvatarId(avatar.id)}
+                          onClick={() => handleAvatarSelect(avatar)}
                           className={`flex flex-col items-center rounded-2xl border px-3 py-4 transition hover:border-indigo-300 ${
                             selectedAvatarId === avatar.id ? "border-indigo-300 bg-indigo-500/10" : "border-white/10 bg-white/5"
                           }`}
@@ -986,6 +1022,25 @@ export default function Home() {
           ))}
         </div>
       </div>
+      {toastMessage && (
+        <div
+          className={`fixed right-4 top-4 z-50 transform transition-all duration-300 ${
+            isToastVisible ? "translate-y-0 opacity-100" : "-translate-y-3 opacity-0"
+          }`}
+          role="status"
+          aria-live="polite"
+        >
+          <div className="flex items-start gap-3 rounded-2xl bg-emerald-500 px-4 py-3 text-white shadow-2xl shadow-emerald-500/40 ring-1 ring-white/30">
+            <span className="text-xl" aria-hidden>
+              ✓
+            </span>
+            <div className="space-y-1">
+              <p className="text-sm font-bold uppercase tracking-wide">Added to the card</p>
+              <p className="text-sm leading-snug text-emerald-50">{toastMessage}</p>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
