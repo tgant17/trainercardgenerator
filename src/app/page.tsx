@@ -335,14 +335,14 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="mt-2 flex-1">
-        <div className="grid h-full grid-cols-3 grid-rows-2 gap-1.5">
+      <div className="mt-2 flex-1 pb-1">
+        <div className="grid h-full grid-cols-3 grid-rows-2 gap-0.5">
           {selectedPokemon.map((pokemon) => (
             <div
               key={pokemon.id}
-              className={`flex h-full flex-col rounded-2xl p-1 text-center shadow-lg shadow-black/20 ${cardTileSurfaceClass}`}
+              className={`flex h-full flex-col rounded-xl p-0.5 text-center shadow-lg shadow-black/20 ${cardTileSurfaceClass}`}
             >
-              <div className="relative mx-auto h-12 w-12">
+              <div className="relative mx-auto h-8 w-8">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={pokemon.sprite}
@@ -353,13 +353,13 @@ export default function Home() {
                   crossOrigin="anonymous"
                 />
               </div>
-              <div className={`mt-1 flex items-center justify-between gap-1 text-[0.55rem] font-semibold uppercase tracking-wide ${cardTileTextClass}`}>
+              <div className={`mt-0.5 flex items-center justify-between gap-0.5 text-[0.46rem] font-semibold uppercase tracking-wide ${cardTileTextClass}`}>
                 <span className={`truncate text-left ${cardTileTextClass}`}>{pokemon.name}</span>
                 {!hideInteractive && (
                   <button
                     type="button"
                     onClick={() => removePokemon(pokemon.id)}
-                    className="rounded-full bg-black/20 px-1 text-[0.55rem] font-bold text-rose-100 transition hover:bg-black/40"
+                    className="rounded-full bg-black/20 px-1 text-[0.46rem] font-bold text-rose-100 transition hover:bg-black/40"
                     aria-label={`Remove ${pokemon.name}`}
                   >
                     ×
