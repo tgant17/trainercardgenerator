@@ -596,7 +596,32 @@ export default function Home() {
 
   const handleFavoritePokemonInput = (value: string) => {
     const normalized = normalizePokemonName(value);
-    setFavoritePokemonChoice(normalized);
+    setFavoritePokemonChoice((previous) => {
+      if (normalized && normalized !== previous) {
+        showToast(`${capitalize(normalized)} saved to the back!`);
+      }
+      return normalized;
+    });
+  };
+
+  const handleFavoriteTypeInput = (value: string) => {
+    const trimmed = value.trim();
+    setFavoriteTypeChoice((previous) => {
+      if (trimmed && trimmed !== previous) {
+        showToast(`${trimmed} saved to the back!`);
+      }
+      return trimmed;
+    });
+  };
+
+  const handleFavoriteGameInput = (value: string) => {
+    const trimmed = value.trim();
+    setFavoriteGameChoice((previous) => {
+      if (trimmed && trimmed !== previous) {
+        showToast(`${trimmed} saved to the back!`);
+      }
+      return trimmed;
+    });
   };
 
   useEffect(() => {
@@ -645,16 +670,28 @@ export default function Home() {
     return dataUrl;
   };
 
+  const triggerDownload = (dataUrl: string, filename: string) => {
+    const link = document.createElement("a");
+    const supportsDownloadAttribute = typeof link.download !== "undefined";
+    link.href = dataUrl;
+    link.download = filename;
+    link.rel = "noopener noreferrer";
+    link.target = "_blank";
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    if (!supportsDownloadAttribute) {
+      window.open(dataUrl, "_blank");
+    }
+  };
+
   const handleDownload = async () => {
     if (!exportFrontRef.current) return;
     try {
       setStatusMessage("Preparing your JPEG...");
       const dataUrl = await captureNode(exportFrontRef.current, "#ffffff");
-      const link = document.createElement("a");
       const printableName = trainerName.trim() ? trainerName.trim().toLowerCase().replace(/\s+/g, "-") : "trainer";
-      link.href = dataUrl;
-      link.download = `${printableName}-card.jpeg`;
-      link.click();
+      triggerDownload(dataUrl, `${printableName}-card.jpeg`);
       setStatusMessage("Card downloaded! Check your Downloads folder.");
     } catch {
       setStatusMessage("Unable to build the JPEG. Try again in a few seconds.");
@@ -666,11 +703,8 @@ export default function Home() {
     try {
       setStatusMessage("Building your print sheet...");
       const dataUrl = await captureNode(exportSheetRef.current, "#ffffff");
-      const link = document.createElement("a");
       const printableName = trainerName.trim() ? trainerName.trim().toLowerCase().replace(/\s+/g, "-") : "trainer";
-      link.href = dataUrl;
-      link.download = `${printableName}-card-sheet.jpeg`;
-      link.click();
+      triggerDownload(dataUrl, `${printableName}-card-sheet.jpeg`);
       setStatusMessage("Triple sheet downloaded! Check your Downloads folder.");
     } catch {
       setStatusMessage("Unable to build the sheet. Try again in a few seconds.");
@@ -941,7 +975,7 @@ export default function Home() {
                     <input
                       list="favorite-type-options"
                       value={favoriteTypeChoice}
-                      onChange={(event) => setFavoriteTypeChoice(event.target.value)}
+                      onChange={(event) => handleFavoriteTypeInput(event.target.value)}
                       className="mt-2 w-full rounded-2xl border border-white/10 bg-slate-900/60 px-3 py-2 text-sm text-white outline-none focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/40"
                       placeholder="Search type"
                     />
@@ -956,7 +990,7 @@ export default function Home() {
                     <input
                       list="favorite-game-options"
                       value={favoriteGameChoice}
-                      onChange={(event) => setFavoriteGameChoice(event.target.value)}
+                      onChange={(event) => handleFavoriteGameInput(event.target.value)}
                       className="mt-2 w-full rounded-2xl border border-white/10 bg-slate-900/60 px-3 py-2 text-sm text-white outline-none focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/40"
                       placeholder="Search games"
                     />
