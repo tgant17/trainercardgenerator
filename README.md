@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Pokémon Trainer Card Generator
 
-## Getting Started
+This app lets you design a personalized Pokémon Trainer Card to share online or print. Mix and match trainer avatars, choose your team, and pick colors or background patterns to style your badge-worthy profile.
 
-First, run the development server:
+### Key features
+- Search the Pokédex to add up to six Pokémon with type badges and official artwork.
+- Browse a curated trainer avatar library (plus remote sprites) to match your vibe.
+- Customize card colors, apply underprint patterns, and add favorite Pokémon, type, and game details for the back.
+- Export a high-resolution JPEG of the card front/back or a triple-sheet layout for printing.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Getting started
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+3. Open [http://localhost:3000](http://localhost:3000) to build your card. The page auto-refreshes as you tweak the UI.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### How it works
+- Pokémon data and sprites are fetched live from the PokéAPI, while cached name lists speed up autocomplete suggestions.
+- Trainer avatars come from local sprites plus a remote list in `public/trainer-avatars.json`.
+- Card exports rely on `html-to-image` to generate the downloadable JPEGs at 2× resolution.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Project structure
+- `src/app/page.tsx`: Main UI and card logic.
+- `src/app/globals.css`: Global styles and Tailwind setup.
+- `public/`: Static assets, cached Pokémon list, and trainer avatar sprites.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Deployment
+Deploy like any other Next.js app (e.g., Vercel). The project was bootstrapped with `create-next-app` and uses the App Router.
