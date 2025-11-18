@@ -18,6 +18,7 @@ type PokemonApiResponse = {
 };
 
 type PokemonPick = {
+  slotId: string;
   id: number;
   name: string;
   sprite: string;
@@ -123,6 +124,7 @@ const getPokemonSprite = (pokemon: PokemonApiResponse): string => {
 };
 
 const normalizePokemonName = (value: string) => value.trim().toLowerCase();
+const createSlotId = () => `${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 8)}`;
 
 const isHexColorLight = (hexColor: string) => {
   let normalized = hexColor.replace("#", "").trim();
@@ -236,9 +238,7 @@ const waitForImages = async (container: HTMLElement) => {
 
 export default function Home() {
   const [trainerName, setTrainerName] = useState("Trainer");
-  const [selectedAvatarId, setSelectedAvatarId] = useState(
-    () => defaultTrainerAvatars[Math.floor(Math.random() * defaultTrainerAvatars.length)].id,
-  );
+  const [selectedAvatarId, setSelectedAvatarId] = useState(defaultTrainerAvatars[0].id);
   const [cardColor, setCardColor] = useState(presetColors[0]);
   const [selectedPokemon, setSelectedPokemon] = useState<PokemonPick[]>([]);
   const [pokemonQuery, setPokemonQuery] = useState("");
@@ -276,6 +276,11 @@ export default function Home() {
   const selectedAvatar = useMemo(() => {
     return combinedAvatars.find((avatar) => avatar.id === selectedAvatarId) ?? combinedAvatars[0] ?? defaultTrainerAvatars[0];
   }, [combinedAvatars, selectedAvatarId]);
+
+  useEffect(() => {
+    const randomAvatar = defaultTrainerAvatars[Math.floor(Math.random() * defaultTrainerAvatars.length)];
+    setSelectedAvatarId(randomAvatar.id);
+  }, []);
 
   const cardHasLightBackground = useMemo(() => isHexColorLight(cardColor), [cardColor]);
   const cardPrimaryTextClass = cardHasLightBackground ? "text-slate-900" : "text-white";
@@ -337,11 +342,11 @@ export default function Home() {
 
       <div className="mt-2 flex-1 pb-1">
         <div className="grid h-full grid-cols-3 grid-rows-2 gap-0.5">
-          {selectedPokemon.map((pokemon) => (
-            <div
-              key={pokemon.id}
-              className={`flex h-full flex-col rounded-xl p-0.5 text-center shadow-lg shadow-black/20 ${cardTileSurfaceClass}`}
-            >
+                    {selectedPokemon.map((pokemon) => (
+                      <div
+                        key={pokemon.slotId}
+                        className={`flex h-full flex-col rounded-xl p-0.5 text-center shadow-lg shadow-black/20 ${cardTileSurfaceClass}`}
+                      >
               <div className="relative mx-auto h-8 w-8">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
@@ -358,7 +363,7 @@ export default function Home() {
                 {!hideInteractive && (
                   <button
                     type="button"
-                    onClick={() => removePokemon(pokemon.id)}
+                    onClick={() => removePokemon(pokemon.slotId)}
                     className="rounded-full bg-black/20 px-1 text-[0.46rem] font-bold text-rose-100 transition hover:bg-black/40"
                     aria-label={`Remove ${pokemon.name}`}
                   >
@@ -389,7 +394,7 @@ export default function Home() {
         <div>
           <p className={`text-[0.6rem] uppercase tracking-[0.4em] ${cardSecondaryTextClass}`}>Trainer Journal</p>
           <p className={`mt-1 text-2xl font-bold ${cardPrimaryTextClass}`}>{trainerName.trim() || "Trainer"}</p>
-          <p className={`text-sm uppercase tracking-[0.3em] ${cardSecondaryTextClass}`}>League profile back</p>
+          <p className={`text-xs uppercase tracking-[0.3em] ${cardSecondaryTextClass}`}>League profile</p>
         </div>
         {showDetails ? (
           <div className={`mt-4 space-y-3 rounded-2xl p-4 ${cardAccentSurfaceClass}`}>
@@ -518,6 +523,7 @@ export default function Home() {
         throw new Error("No artwork was returned for that Pokémon.");
       }
       const formattedPokemon: PokemonPick = {
+        slotId: createSlotId(),
         id: data.id,
         name: capitalize(data.name),
         sprite,
@@ -534,8 +540,8 @@ export default function Home() {
     }
   };
 
-  const removePokemon = (id: number) => {
-    setSelectedPokemon((prev) => prev.filter((pokemon) => pokemon.id !== id));
+  const removePokemon = (slotId: string) => {
+    setSelectedPokemon((prev) => prev.filter((pokemon) => pokemon.slotId !== slotId));
   };
 
   const handlePokemonSubmit = async (event: FormEvent<HTMLFormElement>) => {
