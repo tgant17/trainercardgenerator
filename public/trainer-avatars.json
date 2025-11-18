@@ -1,0 +1,7199 @@
+{
+  "avatars": [
+    {
+      "id": "aaron",
+      "name": "Aaron",
+      "sprite": "aaron.png"
+    },
+    {
+      "id": "aarune",
+      "name": "Aarune",
+      "sprite": "aarune.png"
+    },
+    {
+      "id": "acerola",
+      "name": "Acerola",
+      "sprite": "acerola.png"
+    },
+    {
+      "id": "acerola-masters",
+      "name": "Acerola Masters",
+      "sprite": "acerola-masters.png"
+    },
+    {
+      "id": "acerola-masters2",
+      "name": "Acerola Masters2",
+      "sprite": "acerola-masters2.png"
+    },
+    {
+      "id": "acerola-masters3",
+      "name": "Acerola Masters3",
+      "sprite": "acerola-masters3.png"
+    },
+    {
+      "id": "acetrainer",
+      "name": "Acetrainer",
+      "sprite": "acetrainer.png"
+    },
+    {
+      "id": "acetrainer-gen1",
+      "name": "Acetrainer Gen1",
+      "sprite": "acetrainer-gen1.png"
+    },
+    {
+      "id": "acetrainer-gen1rb",
+      "name": "Acetrainer Gen1rb",
+      "sprite": "acetrainer-gen1rb.png"
+    },
+    {
+      "id": "acetrainer-gen2",
+      "name": "Acetrainer Gen2",
+      "sprite": "acetrainer-gen2.png"
+    },
+    {
+      "id": "acetrainer-gen3",
+      "name": "Acetrainer Gen3",
+      "sprite": "acetrainer-gen3.png"
+    },
+    {
+      "id": "acetrainer-gen3jp",
+      "name": "Acetrainer Gen3jp",
+      "sprite": "acetrainer-gen3jp.png"
+    },
+    {
+      "id": "acetrainer-gen3rs",
+      "name": "Acetrainer Gen3rs",
+      "sprite": "acetrainer-gen3rs.png"
+    },
+    {
+      "id": "acetrainer-gen4",
+      "name": "Acetrainer Gen4",
+      "sprite": "acetrainer-gen4.png"
+    },
+    {
+      "id": "acetrainer-gen4dp",
+      "name": "Acetrainer Gen4dp",
+      "sprite": "acetrainer-gen4dp.png"
+    },
+    {
+      "id": "acetrainer-gen6",
+      "name": "Acetrainer Gen6",
+      "sprite": "acetrainer-gen6.png"
+    },
+    {
+      "id": "acetrainer-gen6xy",
+      "name": "Acetrainer Gen6xy",
+      "sprite": "acetrainer-gen6xy.png"
+    },
+    {
+      "id": "acetrainer-gen7",
+      "name": "Acetrainer Gen7",
+      "sprite": "acetrainer-gen7.png"
+    },
+    {
+      "id": "acetrainercouple",
+      "name": "Acetrainercouple",
+      "sprite": "acetrainercouple.png"
+    },
+    {
+      "id": "acetrainercouple-gen3",
+      "name": "Acetrainercouple Gen3",
+      "sprite": "acetrainercouple-gen3.png"
+    },
+    {
+      "id": "acetrainerf",
+      "name": "Acetrainerf",
+      "sprite": "acetrainerf.png"
+    },
+    {
+      "id": "acetrainerf-gen1",
+      "name": "Acetrainerf Gen1",
+      "sprite": "acetrainerf-gen1.png"
+    },
+    {
+      "id": "acetrainerf-gen1rb",
+      "name": "Acetrainerf Gen1rb",
+      "sprite": "acetrainerf-gen1rb.png"
+    },
+    {
+      "id": "acetrainerf-gen2",
+      "name": "Acetrainerf Gen2",
+      "sprite": "acetrainerf-gen2.png"
+    },
+    {
+      "id": "acetrainerf-gen3",
+      "name": "Acetrainerf Gen3",
+      "sprite": "acetrainerf-gen3.png"
+    },
+    {
+      "id": "acetrainerf-gen3rs",
+      "name": "Acetrainerf Gen3rs",
+      "sprite": "acetrainerf-gen3rs.png"
+    },
+    {
+      "id": "acetrainerf-gen4",
+      "name": "Acetrainerf Gen4",
+      "sprite": "acetrainerf-gen4.png"
+    },
+    {
+      "id": "acetrainerf-gen4dp",
+      "name": "Acetrainerf Gen4dp",
+      "sprite": "acetrainerf-gen4dp.png"
+    },
+    {
+      "id": "acetrainerf-gen6",
+      "name": "Acetrainerf Gen6",
+      "sprite": "acetrainerf-gen6.png"
+    },
+    {
+      "id": "acetrainerf-gen6xy",
+      "name": "Acetrainerf Gen6xy",
+      "sprite": "acetrainerf-gen6xy.png"
+    },
+    {
+      "id": "acetrainerf-gen7",
+      "name": "Acetrainerf Gen7",
+      "sprite": "acetrainerf-gen7.png"
+    },
+    {
+      "id": "acetrainersnow",
+      "name": "Acetrainersnow",
+      "sprite": "acetrainersnow.png"
+    },
+    {
+      "id": "acetrainersnowf",
+      "name": "Acetrainersnowf",
+      "sprite": "acetrainersnowf.png"
+    },
+    {
+      "id": "adaman",
+      "name": "Adaman",
+      "sprite": "adaman.png"
+    },
+    {
+      "id": "adaman-masters",
+      "name": "Adaman Masters",
+      "sprite": "adaman-masters.png"
+    },
+    {
+      "id": "aetheremployee",
+      "name": "Aetheremployee",
+      "sprite": "aetheremployee.png"
+    },
+    {
+      "id": "aetheremployeef",
+      "name": "Aetheremployeef",
+      "sprite": "aetheremployeef.png"
+    },
+    {
+      "id": "aetherfoundation",
+      "name": "Aetherfoundation",
+      "sprite": "aetherfoundation.png"
+    },
+    {
+      "id": "aetherfoundation2",
+      "name": "Aetherfoundation2",
+      "sprite": "aetherfoundation2.png"
+    },
+    {
+      "id": "aetherfoundationf",
+      "name": "Aetherfoundationf",
+      "sprite": "aetherfoundationf.png"
+    },
+    {
+      "id": "agatha-gen1",
+      "name": "Agatha Gen1",
+      "sprite": "agatha-gen1.png"
+    },
+    {
+      "id": "agatha-gen1rb",
+      "name": "Agatha Gen1rb",
+      "sprite": "agatha-gen1rb.png"
+    },
+    {
+      "id": "agatha-gen3",
+      "name": "Agatha Gen3",
+      "sprite": "agatha-gen3.png"
+    },
+    {
+      "id": "agatha-lgpe",
+      "name": "Agatha Lgpe",
+      "sprite": "agatha-lgpe.png"
+    },
+    {
+      "id": "akari",
+      "name": "Akari",
+      "sprite": "akari.png"
+    },
+    {
+      "id": "akari-isekai",
+      "name": "Akari Isekai",
+      "sprite": "akari-isekai.png"
+    },
+    {
+      "id": "alain",
+      "name": "Alain",
+      "sprite": "alain.png"
+    },
+    {
+      "id": "alder",
+      "name": "Alder",
+      "sprite": "alder.png"
+    },
+    {
+      "id": "alec-anime",
+      "name": "Alec Anime",
+      "sprite": "alec-anime.png"
+    },
+    {
+      "id": "allister",
+      "name": "Allister",
+      "sprite": "allister.png"
+    },
+    {
+      "id": "allister-masters",
+      "name": "Allister Masters",
+      "sprite": "allister-masters.png"
+    },
+    {
+      "id": "allister-unmasked",
+      "name": "Allister Unmasked",
+      "sprite": "allister-unmasked.png"
+    },
+    {
+      "id": "amarys",
+      "name": "Amarys",
+      "sprite": "amarys.png"
+    },
+    {
+      "id": "amelia-shuffle",
+      "name": "Amelia Shuffle",
+      "sprite": "amelia-shuffle.png"
+    },
+    {
+      "id": "anabel",
+      "name": "Anabel",
+      "sprite": "anabel.png"
+    },
+    {
+      "id": "anabel-gen3",
+      "name": "Anabel Gen3",
+      "sprite": "anabel-gen3.png"
+    },
+    {
+      "id": "anabel-gen7",
+      "name": "Anabel Gen7",
+      "sprite": "anabel-gen7.png"
+    },
+    {
+      "id": "anthe",
+      "name": "Anthe",
+      "sprite": "anthe.png"
+    },
+    {
+      "id": "anthea",
+      "name": "Anthea",
+      "sprite": "anthea.png"
+    },
+    {
+      "id": "anvin",
+      "name": "Anvin",
+      "sprite": "anvin.png"
+    },
+    {
+      "id": "aquagrunt",
+      "name": "Aquagrunt",
+      "sprite": "aquagrunt.png"
+    },
+    {
+      "id": "aquagrunt-rse",
+      "name": "Aquagrunt Rse",
+      "sprite": "aquagrunt-rse.png"
+    },
+    {
+      "id": "aquagruntf",
+      "name": "Aquagruntf",
+      "sprite": "aquagruntf.png"
+    },
+    {
+      "id": "aquagruntf-rse",
+      "name": "Aquagruntf Rse",
+      "sprite": "aquagruntf-rse.png"
+    },
+    {
+      "id": "aquasuit",
+      "name": "Aquasuit",
+      "sprite": "aquasuit.png"
+    },
+    {
+      "id": "archer",
+      "name": "Archer",
+      "sprite": "archer.png"
+    },
+    {
+      "id": "archie-gen3",
+      "name": "Archie Gen3",
+      "sprite": "archie-gen3.png"
+    },
+    {
+      "id": "archie-gen6",
+      "name": "Archie Gen6",
+      "sprite": "archie-gen6.png"
+    },
+    {
+      "id": "archie-usum",
+      "name": "Archie Usum",
+      "sprite": "archie-usum.png"
+    },
+    {
+      "id": "arezu",
+      "name": "Arezu",
+      "sprite": "arezu.png"
+    },
+    {
+      "id": "argenta",
+      "name": "Argenta",
+      "sprite": "argenta.png"
+    },
+    {
+      "id": "ariana",
+      "name": "Ariana",
+      "sprite": "ariana.png"
+    },
+    {
+      "id": "arlo",
+      "name": "Arlo",
+      "sprite": "arlo.png"
+    },
+    {
+      "id": "aromalady",
+      "name": "Aromalady",
+      "sprite": "aromalady.png"
+    },
+    {
+      "id": "aromalady-gen3",
+      "name": "Aromalady Gen3",
+      "sprite": "aromalady-gen3.png"
+    },
+    {
+      "id": "aromalady-gen3rs",
+      "name": "Aromalady Gen3rs",
+      "sprite": "aromalady-gen3rs.png"
+    },
+    {
+      "id": "aromalady-gen6",
+      "name": "Aromalady Gen6",
+      "sprite": "aromalady-gen6.png"
+    },
+    {
+      "id": "artist",
+      "name": "Artist",
+      "sprite": "artist.png"
+    },
+    {
+      "id": "artist-gen4",
+      "name": "Artist Gen4",
+      "sprite": "artist-gen4.png"
+    },
+    {
+      "id": "artist-gen6",
+      "name": "Artist Gen6",
+      "sprite": "artist-gen6.png"
+    },
+    {
+      "id": "artist-gen8",
+      "name": "Artist Gen8",
+      "sprite": "artist-gen8.png"
+    },
+    {
+      "id": "artist-gen9",
+      "name": "Artist Gen9",
+      "sprite": "artist-gen9.png"
+    },
+    {
+      "id": "artistf-gen6",
+      "name": "Artistf Gen6",
+      "sprite": "artistf-gen6.png"
+    },
+    {
+      "id": "arven-s",
+      "name": "Arven S",
+      "sprite": "arven-s.png"
+    },
+    {
+      "id": "arven-v",
+      "name": "Arven V",
+      "sprite": "arven-v.png"
+    },
+    {
+      "id": "ash",
+      "name": "Ash",
+      "sprite": "ash.png"
+    },
+    {
+      "id": "ash-alola",
+      "name": "Ash Alola",
+      "sprite": "ash-alola.png"
+    },
+    {
+      "id": "ash-capbackward",
+      "name": "Ash Capbackward",
+      "sprite": "ash-capbackward.png"
+    },
+    {
+      "id": "ash-hoenn",
+      "name": "Ash Hoenn",
+      "sprite": "ash-hoenn.png"
+    },
+    {
+      "id": "ash-johto",
+      "name": "Ash Johto",
+      "sprite": "ash-johto.png"
+    },
+    {
+      "id": "ash-kalos",
+      "name": "Ash Kalos",
+      "sprite": "ash-kalos.png"
+    },
+    {
+      "id": "ash-sinnoh",
+      "name": "Ash Sinnoh",
+      "sprite": "ash-sinnoh.png"
+    },
+    {
+      "id": "ash-unova",
+      "name": "Ash Unova",
+      "sprite": "ash-unova.png"
+    },
+    {
+      "id": "atticus",
+      "name": "Atticus",
+      "sprite": "atticus.png"
+    },
+    {
+      "id": "avery",
+      "name": "Avery",
+      "sprite": "avery.png"
+    },
+    {
+      "id": "az",
+      "name": "Az",
+      "sprite": "az.png"
+    },
+    {
+      "id": "az-lza",
+      "name": "Az Lza",
+      "sprite": "az-lza.png"
+    },
+    {
+      "id": "backers",
+      "name": "Backers",
+      "sprite": "backers.png"
+    },
+    {
+      "id": "backersf",
+      "name": "Backersf",
+      "sprite": "backersf.png"
+    },
+    {
+      "id": "backpacker",
+      "name": "Backpacker",
+      "sprite": "backpacker.png"
+    },
+    {
+      "id": "backpacker-gen6",
+      "name": "Backpacker Gen6",
+      "sprite": "backpacker-gen6.png"
+    },
+    {
+      "id": "backpacker-gen8",
+      "name": "Backpacker Gen8",
+      "sprite": "backpacker-gen8.png"
+    },
+    {
+      "id": "backpacker-gen9",
+      "name": "Backpacker Gen9",
+      "sprite": "backpacker-gen9.png"
+    },
+    {
+      "id": "backpackerf",
+      "name": "Backpackerf",
+      "sprite": "backpackerf.png"
+    },
+    {
+      "id": "baker",
+      "name": "Baker",
+      "sprite": "baker.png"
+    },
+    {
+      "id": "ballguy",
+      "name": "Ballguy",
+      "sprite": "ballguy.png"
+    },
+    {
+      "id": "baoba",
+      "name": "Baoba",
+      "sprite": "baoba.png"
+    },
+    {
+      "id": "barry",
+      "name": "Barry",
+      "sprite": "barry.png"
+    },
+    {
+      "id": "barry-masters",
+      "name": "Barry Masters",
+      "sprite": "barry-masters.png"
+    },
+    {
+      "id": "battlegirl",
+      "name": "Battlegirl",
+      "sprite": "battlegirl.png"
+    },
+    {
+      "id": "battlegirl-gen3",
+      "name": "Battlegirl Gen3",
+      "sprite": "battlegirl-gen3.png"
+    },
+    {
+      "id": "battlegirl-gen4",
+      "name": "Battlegirl Gen4",
+      "sprite": "battlegirl-gen4.png"
+    },
+    {
+      "id": "battlegirl-gen6",
+      "name": "Battlegirl Gen6",
+      "sprite": "battlegirl-gen6.png"
+    },
+    {
+      "id": "battlegirl-gen6xy",
+      "name": "Battlegirl Gen6xy",
+      "sprite": "battlegirl-gen6xy.png"
+    },
+    {
+      "id": "bea",
+      "name": "Bea",
+      "sprite": "bea.png"
+    },
+    {
+      "id": "bea-masters",
+      "name": "Bea Masters",
+      "sprite": "bea-masters.png"
+    },
+    {
+      "id": "beauty",
+      "name": "Beauty",
+      "sprite": "beauty.png"
+    },
+    {
+      "id": "beauty-gen1",
+      "name": "Beauty Gen1",
+      "sprite": "beauty-gen1.png"
+    },
+    {
+      "id": "beauty-gen1rb",
+      "name": "Beauty Gen1rb",
+      "sprite": "beauty-gen1rb.png"
+    },
+    {
+      "id": "beauty-gen2",
+      "name": "Beauty Gen2",
+      "sprite": "beauty-gen2.png"
+    },
+    {
+      "id": "beauty-gen2jp",
+      "name": "Beauty Gen2jp",
+      "sprite": "beauty-gen2jp.png"
+    },
+    {
+      "id": "beauty-gen3",
+      "name": "Beauty Gen3",
+      "sprite": "beauty-gen3.png"
+    },
+    {
+      "id": "beauty-gen3rs",
+      "name": "Beauty Gen3rs",
+      "sprite": "beauty-gen3rs.png"
+    },
+    {
+      "id": "beauty-gen4dp",
+      "name": "Beauty Gen4dp",
+      "sprite": "beauty-gen4dp.png"
+    },
+    {
+      "id": "beauty-gen5bw2",
+      "name": "Beauty Gen5bw2",
+      "sprite": "beauty-gen5bw2.png"
+    },
+    {
+      "id": "beauty-gen6",
+      "name": "Beauty Gen6",
+      "sprite": "beauty-gen6.png"
+    },
+    {
+      "id": "beauty-gen6xy",
+      "name": "Beauty Gen6xy",
+      "sprite": "beauty-gen6xy.png"
+    },
+    {
+      "id": "beauty-gen7",
+      "name": "Beauty Gen7",
+      "sprite": "beauty-gen7.png"
+    },
+    {
+      "id": "beauty-gen8",
+      "name": "Beauty Gen8",
+      "sprite": "beauty-gen8.png"
+    },
+    {
+      "id": "beauty-gen9",
+      "name": "Beauty Gen9",
+      "sprite": "beauty-gen9.png"
+    },
+    {
+      "id": "beauty-masters",
+      "name": "Beauty Masters",
+      "sprite": "beauty-masters.png"
+    },
+    {
+      "id": "bede",
+      "name": "Bede",
+      "sprite": "bede.png"
+    },
+    {
+      "id": "bede-leader",
+      "name": "Bede Leader",
+      "sprite": "bede-leader.png"
+    },
+    {
+      "id": "bede-masters",
+      "name": "Bede Masters",
+      "sprite": "bede-masters.png"
+    },
+    {
+      "id": "bellelba",
+      "name": "Bellelba",
+      "sprite": "bellelba.png"
+    },
+    {
+      "id": "bellepa",
+      "name": "Bellepa",
+      "sprite": "bellepa.png"
+    },
+    {
+      "id": "bellhop",
+      "name": "Bellhop",
+      "sprite": "bellhop.png"
+    },
+    {
+      "id": "bellis",
+      "name": "Bellis",
+      "sprite": "bellis.png"
+    },
+    {
+      "id": "benga",
+      "name": "Benga",
+      "sprite": "benga.png"
+    },
+    {
+      "id": "beni",
+      "name": "Beni",
+      "sprite": "beni.png"
+    },
+    {
+      "id": "beni-ninja",
+      "name": "Beni Ninja",
+      "sprite": "beni-ninja.png"
+    },
+    {
+      "id": "bertha",
+      "name": "Bertha",
+      "sprite": "bertha.png"
+    },
+    {
+      "id": "bianca",
+      "name": "Bianca",
+      "sprite": "bianca.png"
+    },
+    {
+      "id": "bianca-masters",
+      "name": "Bianca Masters",
+      "sprite": "bianca-masters.png"
+    },
+    {
+      "id": "bianca-pwt",
+      "name": "Bianca Pwt",
+      "sprite": "bianca-pwt.png"
+    },
+    {
+      "id": "biker",
+      "name": "Biker",
+      "sprite": "biker.png"
+    },
+    {
+      "id": "biker-gen1",
+      "name": "Biker Gen1",
+      "sprite": "biker-gen1.png"
+    },
+    {
+      "id": "biker-gen1rb",
+      "name": "Biker Gen1rb",
+      "sprite": "biker-gen1rb.png"
+    },
+    {
+      "id": "biker-gen2",
+      "name": "Biker Gen2",
+      "sprite": "biker-gen2.png"
+    },
+    {
+      "id": "biker-gen3",
+      "name": "Biker Gen3",
+      "sprite": "biker-gen3.png"
+    },
+    {
+      "id": "biker-gen4",
+      "name": "Biker Gen4",
+      "sprite": "biker-gen4.png"
+    },
+    {
+      "id": "bill",
+      "name": "Bill",
+      "sprite": "bill.png"
+    },
+    {
+      "id": "bill-gen3",
+      "name": "Bill Gen3",
+      "sprite": "bill-gen3.png"
+    },
+    {
+      "id": "birch",
+      "name": "Birch",
+      "sprite": "birch.png"
+    },
+    {
+      "id": "birch-gen3",
+      "name": "Birch Gen3",
+      "sprite": "birch-gen3.png"
+    },
+    {
+      "id": "birdkeeper",
+      "name": "Birdkeeper",
+      "sprite": "birdkeeper.png"
+    },
+    {
+      "id": "birdkeeper-gen1",
+      "name": "Birdkeeper Gen1",
+      "sprite": "birdkeeper-gen1.png"
+    },
+    {
+      "id": "birdkeeper-gen1rb",
+      "name": "Birdkeeper Gen1rb",
+      "sprite": "birdkeeper-gen1rb.png"
+    },
+    {
+      "id": "birdkeeper-gen2",
+      "name": "Birdkeeper Gen2",
+      "sprite": "birdkeeper-gen2.png"
+    },
+    {
+      "id": "birdkeeper-gen3",
+      "name": "Birdkeeper Gen3",
+      "sprite": "birdkeeper-gen3.png"
+    },
+    {
+      "id": "birdkeeper-gen3rs",
+      "name": "Birdkeeper Gen3rs",
+      "sprite": "birdkeeper-gen3rs.png"
+    },
+    {
+      "id": "birdkeeper-gen4dp",
+      "name": "Birdkeeper Gen4dp",
+      "sprite": "birdkeeper-gen4dp.png"
+    },
+    {
+      "id": "birdkeeper-gen6",
+      "name": "Birdkeeper Gen6",
+      "sprite": "birdkeeper-gen6.png"
+    },
+    {
+      "id": "blackbelt",
+      "name": "Blackbelt",
+      "sprite": "blackbelt.png"
+    },
+    {
+      "id": "blackbelt-gen1",
+      "name": "Blackbelt Gen1",
+      "sprite": "blackbelt-gen1.png"
+    },
+    {
+      "id": "blackbelt-gen1rb",
+      "name": "Blackbelt Gen1rb",
+      "sprite": "blackbelt-gen1rb.png"
+    },
+    {
+      "id": "blackbelt-gen2",
+      "name": "Blackbelt Gen2",
+      "sprite": "blackbelt-gen2.png"
+    },
+    {
+      "id": "blackbelt-gen3",
+      "name": "Blackbelt Gen3",
+      "sprite": "blackbelt-gen3.png"
+    },
+    {
+      "id": "blackbelt-gen3rs",
+      "name": "Blackbelt Gen3rs",
+      "sprite": "blackbelt-gen3rs.png"
+    },
+    {
+      "id": "blackbelt-gen4",
+      "name": "Blackbelt Gen4",
+      "sprite": "blackbelt-gen4.png"
+    },
+    {
+      "id": "blackbelt-gen4dp",
+      "name": "Blackbelt Gen4dp",
+      "sprite": "blackbelt-gen4dp.png"
+    },
+    {
+      "id": "blackbelt-gen6",
+      "name": "Blackbelt Gen6",
+      "sprite": "blackbelt-gen6.png"
+    },
+    {
+      "id": "blackbelt-gen7",
+      "name": "Blackbelt Gen7",
+      "sprite": "blackbelt-gen7.png"
+    },
+    {
+      "id": "blackbelt-gen8",
+      "name": "Blackbelt Gen8",
+      "sprite": "blackbelt-gen8.png"
+    },
+    {
+      "id": "blackbelt-gen9",
+      "name": "Blackbelt Gen9",
+      "sprite": "blackbelt-gen9.png"
+    },
+    {
+      "id": "blaine",
+      "name": "Blaine",
+      "sprite": "blaine.png"
+    },
+    {
+      "id": "blaine-gen1",
+      "name": "Blaine Gen1",
+      "sprite": "blaine-gen1.png"
+    },
+    {
+      "id": "blaine-gen1rb",
+      "name": "Blaine Gen1rb",
+      "sprite": "blaine-gen1rb.png"
+    },
+    {
+      "id": "blaine-gen2",
+      "name": "Blaine Gen2",
+      "sprite": "blaine-gen2.png"
+    },
+    {
+      "id": "blaine-gen3",
+      "name": "Blaine Gen3",
+      "sprite": "blaine-gen3.png"
+    },
+    {
+      "id": "blaine-lgpe",
+      "name": "Blaine Lgpe",
+      "sprite": "blaine-lgpe.png"
+    },
+    {
+      "id": "blanche",
+      "name": "Blanche",
+      "sprite": "blanche.png"
+    },
+    {
+      "id": "blanche-casual",
+      "name": "Blanche Casual",
+      "sprite": "blanche-casual.png"
+    },
+    {
+      "id": "blue",
+      "name": "Blue",
+      "sprite": "blue.png"
+    },
+    {
+      "id": "blue-gen1",
+      "name": "Blue Gen1",
+      "sprite": "blue-gen1.png"
+    },
+    {
+      "id": "blue-gen1champion",
+      "name": "Blue Gen1champion",
+      "sprite": "blue-gen1champion.png"
+    },
+    {
+      "id": "blue-gen1rb",
+      "name": "Blue Gen1rb",
+      "sprite": "blue-gen1rb.png"
+    },
+    {
+      "id": "blue-gen1rbchampion",
+      "name": "Blue Gen1rbchampion",
+      "sprite": "blue-gen1rbchampion.png"
+    },
+    {
+      "id": "blue-gen1rbtwo",
+      "name": "Blue Gen1rbtwo",
+      "sprite": "blue-gen1rbtwo.png"
+    },
+    {
+      "id": "blue-gen1two",
+      "name": "Blue Gen1two",
+      "sprite": "blue-gen1two.png"
+    },
+    {
+      "id": "blue-gen2",
+      "name": "Blue Gen2",
+      "sprite": "blue-gen2.png"
+    },
+    {
+      "id": "blue-gen3",
+      "name": "Blue Gen3",
+      "sprite": "blue-gen3.png"
+    },
+    {
+      "id": "blue-gen3champion",
+      "name": "Blue Gen3champion",
+      "sprite": "blue-gen3champion.png"
+    },
+    {
+      "id": "blue-gen3two",
+      "name": "Blue Gen3two",
+      "sprite": "blue-gen3two.png"
+    },
+    {
+      "id": "blue-gen7",
+      "name": "Blue Gen7",
+      "sprite": "blue-gen7.png"
+    },
+    {
+      "id": "blue-lgpe",
+      "name": "Blue Lgpe",
+      "sprite": "blue-lgpe.png"
+    },
+    {
+      "id": "blue-masters",
+      "name": "Blue Masters",
+      "sprite": "blue-masters.png"
+    },
+    {
+      "id": "blue-masters2",
+      "name": "Blue Masters2",
+      "sprite": "blue-masters2.png"
+    },
+    {
+      "id": "boarder",
+      "name": "Boarder",
+      "sprite": "boarder.png"
+    },
+    {
+      "id": "boarder-gen2",
+      "name": "Boarder Gen2",
+      "sprite": "boarder-gen2.png"
+    },
+    {
+      "id": "bodybuilder-gen9",
+      "name": "Bodybuilder Gen9",
+      "sprite": "bodybuilder-gen9.png"
+    },
+    {
+      "id": "bodybuilderf-gen9",
+      "name": "Bodybuilderf Gen9",
+      "sprite": "bodybuilderf-gen9.png"
+    },
+    {
+      "id": "brandon",
+      "name": "Brandon",
+      "sprite": "brandon.png"
+    },
+    {
+      "id": "brandon-gen3",
+      "name": "Brandon Gen3",
+      "sprite": "brandon-gen3.png"
+    },
+    {
+      "id": "brassius",
+      "name": "Brassius",
+      "sprite": "brassius.png"
+    },
+    {
+      "id": "brawly",
+      "name": "Brawly",
+      "sprite": "brawly.png"
+    },
+    {
+      "id": "brawly-gen3",
+      "name": "Brawly Gen3",
+      "sprite": "brawly-gen3.png"
+    },
+    {
+      "id": "brawly-gen6",
+      "name": "Brawly Gen6",
+      "sprite": "brawly-gen6.png"
+    },
+    {
+      "id": "brendan",
+      "name": "Brendan",
+      "sprite": "brendan.png"
+    },
+    {
+      "id": "brendan-contest",
+      "name": "Brendan Contest",
+      "sprite": "brendan-contest.png"
+    },
+    {
+      "id": "brendan-e",
+      "name": "Brendan E",
+      "sprite": "brendan-e.png"
+    },
+    {
+      "id": "brendan-gen3",
+      "name": "Brendan Gen3",
+      "sprite": "brendan-gen3.png"
+    },
+    {
+      "id": "brendan-gen3rs",
+      "name": "Brendan Gen3rs",
+      "sprite": "brendan-gen3rs.png"
+    },
+    {
+      "id": "brendan-masters",
+      "name": "Brendan Masters",
+      "sprite": "brendan-masters.png"
+    },
+    {
+      "id": "brendan-masters2",
+      "name": "Brendan Masters2",
+      "sprite": "brendan-masters2.png"
+    },
+    {
+      "id": "brendan-rs",
+      "name": "Brendan Rs",
+      "sprite": "brendan-rs.png"
+    },
+    {
+      "id": "briar",
+      "name": "Briar",
+      "sprite": "briar.png"
+    },
+    {
+      "id": "brigette",
+      "name": "Brigette",
+      "sprite": "brigette.png"
+    },
+    {
+      "id": "brock",
+      "name": "Brock",
+      "sprite": "brock.png"
+    },
+    {
+      "id": "brock-gen1",
+      "name": "Brock Gen1",
+      "sprite": "brock-gen1.png"
+    },
+    {
+      "id": "brock-gen1rb",
+      "name": "Brock Gen1rb",
+      "sprite": "brock-gen1rb.png"
+    },
+    {
+      "id": "brock-gen2",
+      "name": "Brock Gen2",
+      "sprite": "brock-gen2.png"
+    },
+    {
+      "id": "brock-gen3",
+      "name": "Brock Gen3",
+      "sprite": "brock-gen3.png"
+    },
+    {
+      "id": "brock-lgpe",
+      "name": "Brock Lgpe",
+      "sprite": "brock-lgpe.png"
+    },
+    {
+      "id": "brock-masters",
+      "name": "Brock Masters",
+      "sprite": "brock-masters.png"
+    },
+    {
+      "id": "bruno",
+      "name": "Bruno",
+      "sprite": "bruno.png"
+    },
+    {
+      "id": "bruno-gen1",
+      "name": "Bruno Gen1",
+      "sprite": "bruno-gen1.png"
+    },
+    {
+      "id": "bruno-gen1rb",
+      "name": "Bruno Gen1rb",
+      "sprite": "bruno-gen1rb.png"
+    },
+    {
+      "id": "bruno-gen2",
+      "name": "Bruno Gen2",
+      "sprite": "bruno-gen2.png"
+    },
+    {
+      "id": "bruno-gen3",
+      "name": "Bruno Gen3",
+      "sprite": "bruno-gen3.png"
+    },
+    {
+      "id": "brycen",
+      "name": "Brycen",
+      "sprite": "brycen.png"
+    },
+    {
+      "id": "brycenman",
+      "name": "Brycenman",
+      "sprite": "brycenman.png"
+    },
+    {
+      "id": "bryony",
+      "name": "Bryony",
+      "sprite": "bryony.png"
+    },
+    {
+      "id": "buck",
+      "name": "Buck",
+      "sprite": "buck.png"
+    },
+    {
+      "id": "bugcatcher",
+      "name": "Bugcatcher",
+      "sprite": "bugcatcher.png"
+    },
+    {
+      "id": "bugcatcher-gen1",
+      "name": "Bugcatcher Gen1",
+      "sprite": "bugcatcher-gen1.png"
+    },
+    {
+      "id": "bugcatcher-gen1rb",
+      "name": "Bugcatcher Gen1rb",
+      "sprite": "bugcatcher-gen1rb.png"
+    },
+    {
+      "id": "bugcatcher-gen2",
+      "name": "Bugcatcher Gen2",
+      "sprite": "bugcatcher-gen2.png"
+    },
+    {
+      "id": "bugcatcher-gen3",
+      "name": "Bugcatcher Gen3",
+      "sprite": "bugcatcher-gen3.png"
+    },
+    {
+      "id": "bugcatcher-gen3rs",
+      "name": "Bugcatcher Gen3rs",
+      "sprite": "bugcatcher-gen3rs.png"
+    },
+    {
+      "id": "bugcatcher-gen4dp",
+      "name": "Bugcatcher Gen4dp",
+      "sprite": "bugcatcher-gen4dp.png"
+    },
+    {
+      "id": "bugcatcher-gen6",
+      "name": "Bugcatcher Gen6",
+      "sprite": "bugcatcher-gen6.png"
+    },
+    {
+      "id": "bugmaniac-gen3",
+      "name": "Bugmaniac Gen3",
+      "sprite": "bugmaniac-gen3.png"
+    },
+    {
+      "id": "bugmaniac-gen6",
+      "name": "Bugmaniac Gen6",
+      "sprite": "bugmaniac-gen6.png"
+    },
+    {
+      "id": "bugsy",
+      "name": "Bugsy",
+      "sprite": "bugsy.png"
+    },
+    {
+      "id": "bugsy-gen2",
+      "name": "Bugsy Gen2",
+      "sprite": "bugsy-gen2.png"
+    },
+    {
+      "id": "bugsy-masters",
+      "name": "Bugsy Masters",
+      "sprite": "bugsy-masters.png"
+    },
+    {
+      "id": "burgh",
+      "name": "Burgh",
+      "sprite": "burgh.png"
+    },
+    {
+      "id": "burgh-masters",
+      "name": "Burgh Masters",
+      "sprite": "burgh-masters.png"
+    },
+    {
+      "id": "burglar",
+      "name": "Burglar",
+      "sprite": "burglar.png"
+    },
+    {
+      "id": "burglar-gen1",
+      "name": "Burglar Gen1",
+      "sprite": "burglar-gen1.png"
+    },
+    {
+      "id": "burglar-gen1rb",
+      "name": "Burglar Gen1rb",
+      "sprite": "burglar-gen1rb.png"
+    },
+    {
+      "id": "burglar-gen2",
+      "name": "Burglar Gen2",
+      "sprite": "burglar-gen2.png"
+    },
+    {
+      "id": "burglar-gen3",
+      "name": "Burglar Gen3",
+      "sprite": "burglar-gen3.png"
+    },
+    {
+      "id": "burglar-lgpe",
+      "name": "Burglar Lgpe",
+      "sprite": "burglar-lgpe.png"
+    },
+    {
+      "id": "burnet",
+      "name": "Burnet",
+      "sprite": "burnet.png"
+    },
+    {
+      "id": "burnet-radar",
+      "name": "Burnet Radar",
+      "sprite": "burnet-radar.png"
+    },
+    {
+      "id": "butler",
+      "name": "Butler",
+      "sprite": "butler.png"
+    },
+    {
+      "id": "byron",
+      "name": "Byron",
+      "sprite": "byron.png"
+    },
+    {
+      "id": "cabbie",
+      "name": "Cabbie",
+      "sprite": "cabbie.png"
+    },
+    {
+      "id": "cabbie-gen9",
+      "name": "Cabbie Gen9",
+      "sprite": "cabbie-gen9.png"
+    },
+    {
+      "id": "cafemaster",
+      "name": "Cafemaster",
+      "sprite": "cafemaster.png"
+    },
+    {
+      "id": "caitlin",
+      "name": "Caitlin",
+      "sprite": "caitlin.png"
+    },
+    {
+      "id": "caitlin-gen4",
+      "name": "Caitlin Gen4",
+      "sprite": "caitlin-gen4.png"
+    },
+    {
+      "id": "caitlin-masters",
+      "name": "Caitlin Masters",
+      "sprite": "caitlin-masters.png"
+    },
+    {
+      "id": "calaba",
+      "name": "Calaba",
+      "sprite": "calaba.png"
+    },
+    {
+      "id": "calem",
+      "name": "Calem",
+      "sprite": "calem.png"
+    },
+    {
+      "id": "calem-masters",
+      "name": "Calem Masters",
+      "sprite": "calem-masters.png"
+    },
+    {
+      "id": "cameraman",
+      "name": "Cameraman",
+      "sprite": "cameraman.png"
+    },
+    {
+      "id": "cameraman-gen6",
+      "name": "Cameraman Gen6",
+      "sprite": "cameraman-gen6.png"
+    },
+    {
+      "id": "cameraman-gen8",
+      "name": "Cameraman Gen8",
+      "sprite": "cameraman-gen8.png"
+    },
+    {
+      "id": "camper",
+      "name": "Camper",
+      "sprite": "camper.png"
+    },
+    {
+      "id": "camper-gen2",
+      "name": "Camper Gen2",
+      "sprite": "camper-gen2.png"
+    },
+    {
+      "id": "camper-gen3",
+      "name": "Camper Gen3",
+      "sprite": "camper-gen3.png"
+    },
+    {
+      "id": "camper-gen3rs",
+      "name": "Camper Gen3rs",
+      "sprite": "camper-gen3rs.png"
+    },
+    {
+      "id": "camper-gen6",
+      "name": "Camper Gen6",
+      "sprite": "camper-gen6.png"
+    },
+    {
+      "id": "candela",
+      "name": "Candela",
+      "sprite": "candela.png"
+    },
+    {
+      "id": "candela-casual",
+      "name": "Candela Casual",
+      "sprite": "candela-casual.png"
+    },
+    {
+      "id": "candice",
+      "name": "Candice",
+      "sprite": "candice.png"
+    },
+    {
+      "id": "candice-masters",
+      "name": "Candice Masters",
+      "sprite": "candice-masters.png"
+    },
+    {
+      "id": "caraliss",
+      "name": "Caraliss",
+      "sprite": "caraliss.png"
+    },
+    {
+      "id": "caretaker",
+      "name": "Caretaker",
+      "sprite": "caretaker.png"
+    },
+    {
+      "id": "carmine",
+      "name": "Carmine",
+      "sprite": "carmine.png"
+    },
+    {
+      "id": "carmine-festival",
+      "name": "Carmine Festival",
+      "sprite": "carmine-festival.png"
+    },
+    {
+      "id": "cedricjuniper",
+      "name": "Cedricjuniper",
+      "sprite": "cedricjuniper.png"
+    },
+    {
+      "id": "celio",
+      "name": "Celio",
+      "sprite": "celio.png"
+    },
+    {
+      "id": "channeler-gen1",
+      "name": "Channeler Gen1",
+      "sprite": "channeler-gen1.png"
+    },
+    {
+      "id": "channeler-gen1rb",
+      "name": "Channeler Gen1rb",
+      "sprite": "channeler-gen1rb.png"
+    },
+    {
+      "id": "channeler-gen3",
+      "name": "Channeler Gen3",
+      "sprite": "channeler-gen3.png"
+    },
+    {
+      "id": "channeler-lgpe",
+      "name": "Channeler Lgpe",
+      "sprite": "channeler-lgpe.png"
+    },
+    {
+      "id": "charm",
+      "name": "Charm",
+      "sprite": "charm.png"
+    },
+    {
+      "id": "charon",
+      "name": "Charon",
+      "sprite": "charon.png"
+    },
+    {
+      "id": "chase",
+      "name": "Chase",
+      "sprite": "chase.png"
+    },
+    {
+      "id": "chef",
+      "name": "Chef",
+      "sprite": "chef.png"
+    },
+    {
+      "id": "cheren",
+      "name": "Cheren",
+      "sprite": "cheren.png"
+    },
+    {
+      "id": "cheren-gen5bw2",
+      "name": "Cheren Gen5bw2",
+      "sprite": "cheren-gen5bw2.png"
+    },
+    {
+      "id": "cheren-masters",
+      "name": "Cheren Masters",
+      "sprite": "cheren-masters.png"
+    },
+    {
+      "id": "cheryl",
+      "name": "Cheryl",
+      "sprite": "cheryl.png"
+    },
+    {
+      "id": "chili",
+      "name": "Chili",
+      "sprite": "chili.png"
+    },
+    {
+      "id": "choy",
+      "name": "Choy",
+      "sprite": "choy.png"
+    },
+    {
+      "id": "christoph",
+      "name": "Christoph",
+      "sprite": "christoph.png"
+    },
+    {
+      "id": "chuck",
+      "name": "Chuck",
+      "sprite": "chuck.png"
+    },
+    {
+      "id": "chuck-gen2",
+      "name": "Chuck Gen2",
+      "sprite": "chuck-gen2.png"
+    },
+    {
+      "id": "cilan",
+      "name": "Cilan",
+      "sprite": "cilan.png"
+    },
+    {
+      "id": "clair",
+      "name": "Clair",
+      "sprite": "clair.png"
+    },
+    {
+      "id": "clair-gen2",
+      "name": "Clair Gen2",
+      "sprite": "clair-gen2.png"
+    },
+    {
+      "id": "clair-masters",
+      "name": "Clair Masters",
+      "sprite": "clair-masters.png"
+    },
+    {
+      "id": "clavell-s",
+      "name": "Clavell S",
+      "sprite": "clavell-s.png"
+    },
+    {
+      "id": "clay",
+      "name": "Clay",
+      "sprite": "clay.png"
+    },
+    {
+      "id": "clemont",
+      "name": "Clemont",
+      "sprite": "clemont.png"
+    },
+    {
+      "id": "clerk",
+      "name": "Clerk",
+      "sprite": "clerk.png"
+    },
+    {
+      "id": "clerk-boss",
+      "name": "Clerk Boss",
+      "sprite": "clerk-boss.png"
+    },
+    {
+      "id": "clerk-gen8",
+      "name": "Clerk Gen8",
+      "sprite": "clerk-gen8.png"
+    },
+    {
+      "id": "clerk-unite",
+      "name": "Clerk Unite",
+      "sprite": "clerk-unite.png"
+    },
+    {
+      "id": "clerkf",
+      "name": "Clerkf",
+      "sprite": "clerkf.png"
+    },
+    {
+      "id": "clerkf-gen8",
+      "name": "Clerkf Gen8",
+      "sprite": "clerkf-gen8.png"
+    },
+    {
+      "id": "cliff",
+      "name": "Cliff",
+      "sprite": "cliff.png"
+    },
+    {
+      "id": "clive-v",
+      "name": "Clive V",
+      "sprite": "clive-v.png"
+    },
+    {
+      "id": "clover",
+      "name": "Clover",
+      "sprite": "clover.png"
+    },
+    {
+      "id": "clown",
+      "name": "Clown",
+      "sprite": "clown.png"
+    },
+    {
+      "id": "cogita",
+      "name": "Cogita",
+      "sprite": "cogita.png"
+    },
+    {
+      "id": "coin",
+      "name": "Coin",
+      "sprite": "coin.png"
+    },
+    {
+      "id": "collector",
+      "name": "Collector",
+      "sprite": "collector.png"
+    },
+    {
+      "id": "collector-gen3",
+      "name": "Collector Gen3",
+      "sprite": "collector-gen3.png"
+    },
+    {
+      "id": "collector-gen6",
+      "name": "Collector Gen6",
+      "sprite": "collector-gen6.png"
+    },
+    {
+      "id": "collector-gen7",
+      "name": "Collector Gen7",
+      "sprite": "collector-gen7.png"
+    },
+    {
+      "id": "collector-masters",
+      "name": "Collector Masters",
+      "sprite": "collector-masters.png"
+    },
+    {
+      "id": "colress",
+      "name": "Colress",
+      "sprite": "colress.png"
+    },
+    {
+      "id": "colress-gen7",
+      "name": "Colress Gen7",
+      "sprite": "colress-gen7.png"
+    },
+    {
+      "id": "colza",
+      "name": "Colza",
+      "sprite": "colza.png"
+    },
+    {
+      "id": "concordia",
+      "name": "Concordia",
+      "sprite": "concordia.png"
+    },
+    {
+      "id": "cook",
+      "name": "Cook",
+      "sprite": "cook.png"
+    },
+    {
+      "id": "cook-gen7",
+      "name": "Cook Gen7",
+      "sprite": "cook-gen7.png"
+    },
+    {
+      "id": "cook-gen9",
+      "name": "Cook Gen9",
+      "sprite": "cook-gen9.png"
+    },
+    {
+      "id": "courier",
+      "name": "Courier",
+      "sprite": "courier.png"
+    },
+    {
+      "id": "courtney",
+      "name": "Courtney",
+      "sprite": "courtney.png"
+    },
+    {
+      "id": "courtney-gen3",
+      "name": "Courtney Gen3",
+      "sprite": "courtney-gen3.png"
+    },
+    {
+      "id": "cowgirl",
+      "name": "Cowgirl",
+      "sprite": "cowgirl.png"
+    },
+    {
+      "id": "crasherwake",
+      "name": "Crasherwake",
+      "sprite": "crasherwake.png"
+    },
+    {
+      "id": "cress",
+      "name": "Cress",
+      "sprite": "cress.png"
+    },
+    {
+      "id": "crispin",
+      "name": "Crispin",
+      "sprite": "crispin.png"
+    },
+    {
+      "id": "crushgirl-gen3",
+      "name": "Crushgirl Gen3",
+      "sprite": "crushgirl-gen3.png"
+    },
+    {
+      "id": "crushkin-gen3",
+      "name": "Crushkin Gen3",
+      "sprite": "crushkin-gen3.png"
+    },
+    {
+      "id": "cueball-gen1",
+      "name": "Cueball Gen1",
+      "sprite": "cueball-gen1.png"
+    },
+    {
+      "id": "cueball-gen1rb",
+      "name": "Cueball Gen1rb",
+      "sprite": "cueball-gen1rb.png"
+    },
+    {
+      "id": "cueball-gen3",
+      "name": "Cueball Gen3",
+      "sprite": "cueball-gen3.png"
+    },
+    {
+      "id": "curtis",
+      "name": "Curtis",
+      "sprite": "curtis.png"
+    },
+    {
+      "id": "cyclist",
+      "name": "Cyclist",
+      "sprite": "cyclist.png"
+    },
+    {
+      "id": "cyclist-gen4",
+      "name": "Cyclist Gen4",
+      "sprite": "cyclist-gen4.png"
+    },
+    {
+      "id": "cyclistf",
+      "name": "Cyclistf",
+      "sprite": "cyclistf.png"
+    },
+    {
+      "id": "cyclistf-gen4",
+      "name": "Cyclistf Gen4",
+      "sprite": "cyclistf-gen4.png"
+    },
+    {
+      "id": "cyllene",
+      "name": "Cyllene",
+      "sprite": "cyllene.png"
+    },
+    {
+      "id": "cynthia",
+      "name": "Cynthia",
+      "sprite": "cynthia.png"
+    },
+    {
+      "id": "cynthia-anime",
+      "name": "Cynthia Anime",
+      "sprite": "cynthia-anime.png"
+    },
+    {
+      "id": "cynthia-anime2",
+      "name": "Cynthia Anime2",
+      "sprite": "cynthia-anime2.png"
+    },
+    {
+      "id": "cynthia-gen4",
+      "name": "Cynthia Gen4",
+      "sprite": "cynthia-gen4.png"
+    },
+    {
+      "id": "cynthia-gen7",
+      "name": "Cynthia Gen7",
+      "sprite": "cynthia-gen7.png"
+    },
+    {
+      "id": "cynthia-masters",
+      "name": "Cynthia Masters",
+      "sprite": "cynthia-masters.png"
+    },
+    {
+      "id": "cynthia-masters2",
+      "name": "Cynthia Masters2",
+      "sprite": "cynthia-masters2.png"
+    },
+    {
+      "id": "cynthia-masters3",
+      "name": "Cynthia Masters3",
+      "sprite": "cynthia-masters3.png"
+    },
+    {
+      "id": "cynthia-masters4",
+      "name": "Cynthia Masters4",
+      "sprite": "cynthia-masters4.png"
+    },
+    {
+      "id": "cyrano",
+      "name": "Cyrano",
+      "sprite": "cyrano.png"
+    },
+    {
+      "id": "cyrus",
+      "name": "Cyrus",
+      "sprite": "cyrus.png"
+    },
+    {
+      "id": "cyrus-masters",
+      "name": "Cyrus Masters",
+      "sprite": "cyrus-masters.png"
+    },
+    {
+      "id": "dagero",
+      "name": "Dagero",
+      "sprite": "dagero.png"
+    },
+    {
+      "id": "dahlia",
+      "name": "Dahlia",
+      "sprite": "dahlia.png"
+    },
+    {
+      "id": "daisy",
+      "name": "Daisy",
+      "sprite": "daisy.png"
+    },
+    {
+      "id": "daisy-gen3",
+      "name": "Daisy Gen3",
+      "sprite": "daisy-gen3.png"
+    },
+    {
+      "id": "dana",
+      "name": "Dana",
+      "sprite": "dana.png"
+    },
+    {
+      "id": "dancer",
+      "name": "Dancer",
+      "sprite": "dancer.png"
+    },
+    {
+      "id": "dancer-gen7",
+      "name": "Dancer Gen7",
+      "sprite": "dancer-gen7.png"
+    },
+    {
+      "id": "dancer-gen8",
+      "name": "Dancer Gen8",
+      "sprite": "dancer-gen8.png"
+    },
+    {
+      "id": "darach",
+      "name": "Darach",
+      "sprite": "darach.png"
+    },
+    {
+      "id": "darach-caitlin",
+      "name": "Darach Caitlin",
+      "sprite": "darach-caitlin.png"
+    },
+    {
+      "id": "dawn",
+      "name": "Dawn",
+      "sprite": "dawn.png"
+    },
+    {
+      "id": "dawn-contest",
+      "name": "Dawn Contest",
+      "sprite": "dawn-contest.png"
+    },
+    {
+      "id": "dawn-gen4pt",
+      "name": "Dawn Gen4pt",
+      "sprite": "dawn-gen4pt.png"
+    },
+    {
+      "id": "dawn-masters",
+      "name": "Dawn Masters",
+      "sprite": "dawn-masters.png"
+    },
+    {
+      "id": "dawn-masters2",
+      "name": "Dawn Masters2",
+      "sprite": "dawn-masters2.png"
+    },
+    {
+      "id": "dawn-masters3",
+      "name": "Dawn Masters3",
+      "sprite": "dawn-masters3.png"
+    },
+    {
+      "id": "delinquent",
+      "name": "Delinquent",
+      "sprite": "delinquent.png"
+    },
+    {
+      "id": "delinquent-gen9",
+      "name": "Delinquent Gen9",
+      "sprite": "delinquent-gen9.png"
+    },
+    {
+      "id": "delinquentf-gen9",
+      "name": "Delinquentf Gen9",
+      "sprite": "delinquentf-gen9.png"
+    },
+    {
+      "id": "delinquentf2-gen9",
+      "name": "Delinquentf2 Gen9",
+      "sprite": "delinquentf2-gen9.png"
+    },
+    {
+      "id": "dendra",
+      "name": "Dendra",
+      "sprite": "dendra.png"
+    },
+    {
+      "id": "depotagent",
+      "name": "Depotagent",
+      "sprite": "depotagent.png"
+    },
+    {
+      "id": "dexio",
+      "name": "Dexio",
+      "sprite": "dexio.png"
+    },
+    {
+      "id": "dexio-gen6",
+      "name": "Dexio Gen6",
+      "sprite": "dexio-gen6.png"
+    },
+    {
+      "id": "diamondclanmember",
+      "name": "Diamondclanmember",
+      "sprite": "diamondclanmember.png"
+    },
+    {
+      "id": "diantha",
+      "name": "Diantha",
+      "sprite": "diantha.png"
+    },
+    {
+      "id": "diantha-masters",
+      "name": "Diantha Masters",
+      "sprite": "diantha-masters.png"
+    },
+    {
+      "id": "diantha-masters2",
+      "name": "Diantha Masters2",
+      "sprite": "diantha-masters2.png"
+    },
+    {
+      "id": "doctor",
+      "name": "Doctor",
+      "sprite": "doctor.png"
+    },
+    {
+      "id": "doctor-gen8",
+      "name": "Doctor Gen8",
+      "sprite": "doctor-gen8.png"
+    },
+    {
+      "id": "doctorf-gen8",
+      "name": "Doctorf Gen8",
+      "sprite": "doctorf-gen8.png"
+    },
+    {
+      "id": "doubleteam",
+      "name": "Doubleteam",
+      "sprite": "doubleteam.png"
+    },
+    {
+      "id": "dragontamer",
+      "name": "Dragontamer",
+      "sprite": "dragontamer.png"
+    },
+    {
+      "id": "dragontamer-gen3",
+      "name": "Dragontamer Gen3",
+      "sprite": "dragontamer-gen3.png"
+    },
+    {
+      "id": "dragontamer-gen6",
+      "name": "Dragontamer Gen6",
+      "sprite": "dragontamer-gen6.png"
+    },
+    {
+      "id": "dragontamer-gen9",
+      "name": "Dragontamer Gen9",
+      "sprite": "dragontamer-gen9.png"
+    },
+    {
+      "id": "drake-gen3",
+      "name": "Drake Gen3",
+      "sprite": "drake-gen3.png"
+    },
+    {
+      "id": "drasna",
+      "name": "Drasna",
+      "sprite": "drasna.png"
+    },
+    {
+      "id": "drayden",
+      "name": "Drayden",
+      "sprite": "drayden.png"
+    },
+    {
+      "id": "drayton",
+      "name": "Drayton",
+      "sprite": "drayton.png"
+    },
+    {
+      "id": "dulse",
+      "name": "Dulse",
+      "sprite": "dulse.png"
+    },
+    {
+      "id": "elaine",
+      "name": "Elaine",
+      "sprite": "elaine.png"
+    },
+    {
+      "id": "elesa",
+      "name": "Elesa",
+      "sprite": "elesa.png"
+    },
+    {
+      "id": "elesa-gen5bw2",
+      "name": "Elesa Gen5bw2",
+      "sprite": "elesa-gen5bw2.png"
+    },
+    {
+      "id": "elesa-masters",
+      "name": "Elesa Masters",
+      "sprite": "elesa-masters.png"
+    },
+    {
+      "id": "elesa-masters2",
+      "name": "Elesa Masters2",
+      "sprite": "elesa-masters2.png"
+    },
+    {
+      "id": "elesa-masters3",
+      "name": "Elesa Masters3",
+      "sprite": "elesa-masters3.png"
+    },
+    {
+      "id": "elio",
+      "name": "Elio",
+      "sprite": "elio.png"
+    },
+    {
+      "id": "elio-masters",
+      "name": "Elio Masters",
+      "sprite": "elio-masters.png"
+    },
+    {
+      "id": "elio-usum",
+      "name": "Elio Usum",
+      "sprite": "elio-usum.png"
+    },
+    {
+      "id": "elm",
+      "name": "Elm",
+      "sprite": "elm.png"
+    },
+    {
+      "id": "emma",
+      "name": "Emma",
+      "sprite": "emma.png"
+    },
+    {
+      "id": "emma-lza",
+      "name": "Emma Lza",
+      "sprite": "emma-lza.png"
+    },
+    {
+      "id": "emmet",
+      "name": "Emmet",
+      "sprite": "emmet.png"
+    },
+    {
+      "id": "emmet-masters",
+      "name": "Emmet Masters",
+      "sprite": "emmet-masters.png"
+    },
+    {
+      "id": "engineer-gen1",
+      "name": "Engineer Gen1",
+      "sprite": "engineer-gen1.png"
+    },
+    {
+      "id": "engineer-gen1rb",
+      "name": "Engineer Gen1rb",
+      "sprite": "engineer-gen1rb.png"
+    },
+    {
+      "id": "engineer-gen3",
+      "name": "Engineer Gen3",
+      "sprite": "engineer-gen3.png"
+    },
+    {
+      "id": "erbie-unite",
+      "name": "Erbie Unite",
+      "sprite": "erbie-unite.png"
+    },
+    {
+      "id": "eri",
+      "name": "Eri",
+      "sprite": "eri.png"
+    },
+    {
+      "id": "erika",
+      "name": "Erika",
+      "sprite": "erika.png"
+    },
+    {
+      "id": "erika-gen1",
+      "name": "Erika Gen1",
+      "sprite": "erika-gen1.png"
+    },
+    {
+      "id": "erika-gen1rb",
+      "name": "Erika Gen1rb",
+      "sprite": "erika-gen1rb.png"
+    },
+    {
+      "id": "erika-gen2",
+      "name": "Erika Gen2",
+      "sprite": "erika-gen2.png"
+    },
+    {
+      "id": "erika-gen3",
+      "name": "Erika Gen3",
+      "sprite": "erika-gen3.png"
+    },
+    {
+      "id": "erika-lgpe",
+      "name": "Erika Lgpe",
+      "sprite": "erika-lgpe.png"
+    },
+    {
+      "id": "erika-masters",
+      "name": "Erika Masters",
+      "sprite": "erika-masters.png"
+    },
+    {
+      "id": "erika-masters2",
+      "name": "Erika Masters2",
+      "sprite": "erika-masters2.png"
+    },
+    {
+      "id": "erika-masters3",
+      "name": "Erika Masters3",
+      "sprite": "erika-masters3.png"
+    },
+    {
+      "id": "essentia",
+      "name": "Essentia",
+      "sprite": "essentia.png"
+    },
+    {
+      "id": "ethan",
+      "name": "Ethan",
+      "sprite": "ethan.png"
+    },
+    {
+      "id": "ethan-gen2",
+      "name": "Ethan Gen2",
+      "sprite": "ethan-gen2.png"
+    },
+    {
+      "id": "ethan-gen2c",
+      "name": "Ethan Gen2c",
+      "sprite": "ethan-gen2c.png"
+    },
+    {
+      "id": "ethan-masters",
+      "name": "Ethan Masters",
+      "sprite": "ethan-masters.png"
+    },
+    {
+      "id": "ethan-pokeathlon",
+      "name": "Ethan Pokeathlon",
+      "sprite": "ethan-pokeathlon.png"
+    },
+    {
+      "id": "eusine",
+      "name": "Eusine",
+      "sprite": "eusine.png"
+    },
+    {
+      "id": "eusine-gen2",
+      "name": "Eusine Gen2",
+      "sprite": "eusine-gen2.png"
+    },
+    {
+      "id": "evelyn",
+      "name": "Evelyn",
+      "sprite": "evelyn.png"
+    },
+    {
+      "id": "expert-gen3",
+      "name": "Expert Gen3",
+      "sprite": "expert-gen3.png"
+    },
+    {
+      "id": "expert-gen6",
+      "name": "Expert Gen6",
+      "sprite": "expert-gen6.png"
+    },
+    {
+      "id": "expertf-gen3",
+      "name": "Expertf Gen3",
+      "sprite": "expertf-gen3.png"
+    },
+    {
+      "id": "expertf-gen6",
+      "name": "Expertf Gen6",
+      "sprite": "expertf-gen6.png"
+    },
+    {
+      "id": "faba",
+      "name": "Faba",
+      "sprite": "faba.png"
+    },
+    {
+      "id": "fairytalegirl",
+      "name": "Fairytalegirl",
+      "sprite": "fairytalegirl.png"
+    },
+    {
+      "id": "falkner",
+      "name": "Falkner",
+      "sprite": "falkner.png"
+    },
+    {
+      "id": "falkner-gen2",
+      "name": "Falkner Gen2",
+      "sprite": "falkner-gen2.png"
+    },
+    {
+      "id": "fantina",
+      "name": "Fantina",
+      "sprite": "fantina.png"
+    },
+    {
+      "id": "fennel",
+      "name": "Fennel",
+      "sprite": "fennel.png"
+    },
+    {
+      "id": "firebreather",
+      "name": "Firebreather",
+      "sprite": "firebreather.png"
+    },
+    {
+      "id": "firebreather-gen2",
+      "name": "Firebreather Gen2",
+      "sprite": "firebreather-gen2.png"
+    },
+    {
+      "id": "firefighter",
+      "name": "Firefighter",
+      "sprite": "firefighter.png"
+    },
+    {
+      "id": "fisher-gen8",
+      "name": "Fisher Gen8",
+      "sprite": "fisher-gen8.png"
+    },
+    {
+      "id": "fisherman",
+      "name": "Fisherman",
+      "sprite": "fisherman.png"
+    },
+    {
+      "id": "fisherman-gen1",
+      "name": "Fisherman Gen1",
+      "sprite": "fisherman-gen1.png"
+    },
+    {
+      "id": "fisherman-gen1rb",
+      "name": "Fisherman Gen1rb",
+      "sprite": "fisherman-gen1rb.png"
+    },
+    {
+      "id": "fisherman-gen2jp",
+      "name": "Fisherman Gen2jp",
+      "sprite": "fisherman-gen2jp.png"
+    },
+    {
+      "id": "fisherman-gen3",
+      "name": "Fisherman Gen3",
+      "sprite": "fisherman-gen3.png"
+    },
+    {
+      "id": "fisherman-gen3rs",
+      "name": "Fisherman Gen3rs",
+      "sprite": "fisherman-gen3rs.png"
+    },
+    {
+      "id": "fisherman-gen4",
+      "name": "Fisherman Gen4",
+      "sprite": "fisherman-gen4.png"
+    },
+    {
+      "id": "fisherman-gen6",
+      "name": "Fisherman Gen6",
+      "sprite": "fisherman-gen6.png"
+    },
+    {
+      "id": "fisherman-gen6xy",
+      "name": "Fisherman Gen6xy",
+      "sprite": "fisherman-gen6xy.png"
+    },
+    {
+      "id": "fisherman-gen7",
+      "name": "Fisherman Gen7",
+      "sprite": "fisherman-gen7.png"
+    },
+    {
+      "id": "flannery",
+      "name": "Flannery",
+      "sprite": "flannery.png"
+    },
+    {
+      "id": "flannery-gen3",
+      "name": "Flannery Gen3",
+      "sprite": "flannery-gen3.png"
+    },
+    {
+      "id": "flannery-gen6",
+      "name": "Flannery Gen6",
+      "sprite": "flannery-gen6.png"
+    },
+    {
+      "id": "flaregrunt",
+      "name": "Flaregrunt",
+      "sprite": "flaregrunt.png"
+    },
+    {
+      "id": "flaregruntf",
+      "name": "Flaregruntf",
+      "sprite": "flaregruntf.png"
+    },
+    {
+      "id": "flint",
+      "name": "Flint",
+      "sprite": "flint.png"
+    },
+    {
+      "id": "florian-bb",
+      "name": "Florian Bb",
+      "sprite": "florian-bb.png"
+    },
+    {
+      "id": "florian-festival",
+      "name": "Florian Festival",
+      "sprite": "florian-festival.png"
+    },
+    {
+      "id": "florian-s",
+      "name": "Florian S",
+      "sprite": "florian-s.png"
+    },
+    {
+      "id": "freediver",
+      "name": "Freediver",
+      "sprite": "freediver.png"
+    },
+    {
+      "id": "furisodegirl-black",
+      "name": "Furisodegirl Black",
+      "sprite": "furisodegirl-black.png"
+    },
+    {
+      "id": "furisodegirl-blue",
+      "name": "Furisodegirl Blue",
+      "sprite": "furisodegirl-blue.png"
+    },
+    {
+      "id": "furisodegirl-pink",
+      "name": "Furisodegirl Pink",
+      "sprite": "furisodegirl-pink.png"
+    },
+    {
+      "id": "furisodegirl-white",
+      "name": "Furisodegirl White",
+      "sprite": "furisodegirl-white.png"
+    },
+    {
+      "id": "gaeric",
+      "name": "Gaeric",
+      "sprite": "gaeric.png"
+    },
+    {
+      "id": "galacticgrunt",
+      "name": "Galacticgrunt",
+      "sprite": "galacticgrunt.png"
+    },
+    {
+      "id": "galacticgruntf",
+      "name": "Galacticgruntf",
+      "sprite": "galacticgruntf.png"
+    },
+    {
+      "id": "gambler",
+      "name": "Gambler",
+      "sprite": "gambler.png"
+    },
+    {
+      "id": "gambler-gen1",
+      "name": "Gambler Gen1",
+      "sprite": "gambler-gen1.png"
+    },
+    {
+      "id": "gambler-gen1rb",
+      "name": "Gambler Gen1rb",
+      "sprite": "gambler-gen1rb.png"
+    },
+    {
+      "id": "gamer-gen3",
+      "name": "Gamer Gen3",
+      "sprite": "gamer-gen3.png"
+    },
+    {
+      "id": "garcon",
+      "name": "Garcon",
+      "sprite": "garcon.png"
+    },
+    {
+      "id": "gardener",
+      "name": "Gardener",
+      "sprite": "gardener.png"
+    },
+    {
+      "id": "gardenia",
+      "name": "Gardenia",
+      "sprite": "gardenia.png"
+    },
+    {
+      "id": "gardenia-masters",
+      "name": "Gardenia Masters",
+      "sprite": "gardenia-masters.png"
+    },
+    {
+      "id": "geeta",
+      "name": "Geeta",
+      "sprite": "geeta.png"
+    },
+    {
+      "id": "gentleman",
+      "name": "Gentleman",
+      "sprite": "gentleman.png"
+    },
+    {
+      "id": "gentleman-gen1",
+      "name": "Gentleman Gen1",
+      "sprite": "gentleman-gen1.png"
+    },
+    {
+      "id": "gentleman-gen1rb",
+      "name": "Gentleman Gen1rb",
+      "sprite": "gentleman-gen1rb.png"
+    },
+    {
+      "id": "gentleman-gen2",
+      "name": "Gentleman Gen2",
+      "sprite": "gentleman-gen2.png"
+    },
+    {
+      "id": "gentleman-gen3",
+      "name": "Gentleman Gen3",
+      "sprite": "gentleman-gen3.png"
+    },
+    {
+      "id": "gentleman-gen3rs",
+      "name": "Gentleman Gen3rs",
+      "sprite": "gentleman-gen3rs.png"
+    },
+    {
+      "id": "gentleman-gen4",
+      "name": "Gentleman Gen4",
+      "sprite": "gentleman-gen4.png"
+    },
+    {
+      "id": "gentleman-gen4dp",
+      "name": "Gentleman Gen4dp",
+      "sprite": "gentleman-gen4dp.png"
+    },
+    {
+      "id": "gentleman-gen6",
+      "name": "Gentleman Gen6",
+      "sprite": "gentleman-gen6.png"
+    },
+    {
+      "id": "gentleman-gen6xy",
+      "name": "Gentleman Gen6xy",
+      "sprite": "gentleman-gen6xy.png"
+    },
+    {
+      "id": "gentleman-gen7",
+      "name": "Gentleman Gen7",
+      "sprite": "gentleman-gen7.png"
+    },
+    {
+      "id": "gentleman-gen8",
+      "name": "Gentleman Gen8",
+      "sprite": "gentleman-gen8.png"
+    },
+    {
+      "id": "gentleman-lgpe",
+      "name": "Gentleman Lgpe",
+      "sprite": "gentleman-lgpe.png"
+    },
+    {
+      "id": "ghetsis",
+      "name": "Ghetsis",
+      "sprite": "ghetsis.png"
+    },
+    {
+      "id": "ghetsis-gen5bw",
+      "name": "Ghetsis Gen5bw",
+      "sprite": "ghetsis-gen5bw.png"
+    },
+    {
+      "id": "giacomo",
+      "name": "Giacomo",
+      "sprite": "giacomo.png"
+    },
+    {
+      "id": "ginchiyo-conquest",
+      "name": "Ginchiyo Conquest",
+      "sprite": "ginchiyo-conquest.png"
+    },
+    {
+      "id": "ginter",
+      "name": "Ginter",
+      "sprite": "ginter.png"
+    },
+    {
+      "id": "giovanni",
+      "name": "Giovanni",
+      "sprite": "giovanni.png"
+    },
+    {
+      "id": "giovanni-gen1",
+      "name": "Giovanni Gen1",
+      "sprite": "giovanni-gen1.png"
+    },
+    {
+      "id": "giovanni-gen1rb",
+      "name": "Giovanni Gen1rb",
+      "sprite": "giovanni-gen1rb.png"
+    },
+    {
+      "id": "giovanni-gen3",
+      "name": "Giovanni Gen3",
+      "sprite": "giovanni-gen3.png"
+    },
+    {
+      "id": "giovanni-lgpe",
+      "name": "Giovanni Lgpe",
+      "sprite": "giovanni-lgpe.png"
+    },
+    {
+      "id": "giovanni-masters",
+      "name": "Giovanni Masters",
+      "sprite": "giovanni-masters.png"
+    },
+    {
+      "id": "glacia",
+      "name": "Glacia",
+      "sprite": "glacia.png"
+    },
+    {
+      "id": "glacia-gen3",
+      "name": "Glacia Gen3",
+      "sprite": "glacia-gen3.png"
+    },
+    {
+      "id": "gladion",
+      "name": "Gladion",
+      "sprite": "gladion.png"
+    },
+    {
+      "id": "gladion-masters",
+      "name": "Gladion Masters",
+      "sprite": "gladion-masters.png"
+    },
+    {
+      "id": "gladion-stance",
+      "name": "Gladion Stance",
+      "sprite": "gladion-stance.png"
+    },
+    {
+      "id": "gloria",
+      "name": "Gloria",
+      "sprite": "gloria.png"
+    },
+    {
+      "id": "gloria-dojo",
+      "name": "Gloria Dojo",
+      "sprite": "gloria-dojo.png"
+    },
+    {
+      "id": "gloria-league",
+      "name": "Gloria League",
+      "sprite": "gloria-league.png"
+    },
+    {
+      "id": "gloria-masters",
+      "name": "Gloria Masters",
+      "sprite": "gloria-masters.png"
+    },
+    {
+      "id": "gloria-tundra",
+      "name": "Gloria Tundra",
+      "sprite": "gloria-tundra.png"
+    },
+    {
+      "id": "golfer",
+      "name": "Golfer",
+      "sprite": "golfer.png"
+    },
+    {
+      "id": "gordie",
+      "name": "Gordie",
+      "sprite": "gordie.png"
+    },
+    {
+      "id": "grace",
+      "name": "Grace",
+      "sprite": "grace.png"
+    },
+    {
+      "id": "grant",
+      "name": "Grant",
+      "sprite": "grant.png"
+    },
+    {
+      "id": "green",
+      "name": "Green",
+      "sprite": "green.png"
+    },
+    {
+      "id": "greta",
+      "name": "Greta",
+      "sprite": "greta.png"
+    },
+    {
+      "id": "greta-gen3",
+      "name": "Greta Gen3",
+      "sprite": "greta-gen3.png"
+    },
+    {
+      "id": "grimsley",
+      "name": "Grimsley",
+      "sprite": "grimsley.png"
+    },
+    {
+      "id": "grimsley-gen7",
+      "name": "Grimsley Gen7",
+      "sprite": "grimsley-gen7.png"
+    },
+    {
+      "id": "grimsley-masters",
+      "name": "Grimsley Masters",
+      "sprite": "grimsley-masters.png"
+    },
+    {
+      "id": "grusha",
+      "name": "Grusha",
+      "sprite": "grusha.png"
+    },
+    {
+      "id": "guitarist",
+      "name": "Guitarist",
+      "sprite": "guitarist.png"
+    },
+    {
+      "id": "guitarist-gen2",
+      "name": "Guitarist Gen2",
+      "sprite": "guitarist-gen2.png"
+    },
+    {
+      "id": "guitarist-gen3",
+      "name": "Guitarist Gen3",
+      "sprite": "guitarist-gen3.png"
+    },
+    {
+      "id": "guitarist-gen4",
+      "name": "Guitarist Gen4",
+      "sprite": "guitarist-gen4.png"
+    },
+    {
+      "id": "guitarist-gen6",
+      "name": "Guitarist Gen6",
+      "sprite": "guitarist-gen6.png"
+    },
+    {
+      "id": "gurkinn",
+      "name": "Gurkinn",
+      "sprite": "gurkinn.png"
+    },
+    {
+      "id": "guzma",
+      "name": "Guzma",
+      "sprite": "guzma.png"
+    },
+    {
+      "id": "guzma-masters",
+      "name": "Guzma Masters",
+      "sprite": "guzma-masters.png"
+    },
+    {
+      "id": "hala",
+      "name": "Hala",
+      "sprite": "hala.png"
+    },
+    {
+      "id": "hanbei-conquest",
+      "name": "Hanbei Conquest",
+      "sprite": "hanbei-conquest.png"
+    },
+    {
+      "id": "hapu",
+      "name": "Hapu",
+      "sprite": "hapu.png"
+    },
+    {
+      "id": "harlequin",
+      "name": "Harlequin",
+      "sprite": "harlequin.png"
+    },
+    {
+      "id": "harmony",
+      "name": "Harmony",
+      "sprite": "harmony.png"
+    },
+    {
+      "id": "hassel",
+      "name": "Hassel",
+      "sprite": "hassel.png"
+    },
+    {
+      "id": "hau",
+      "name": "Hau",
+      "sprite": "hau.png"
+    },
+    {
+      "id": "hau-masters",
+      "name": "Hau Masters",
+      "sprite": "hau-masters.png"
+    },
+    {
+      "id": "hau-stance",
+      "name": "Hau Stance",
+      "sprite": "hau-stance.png"
+    },
+    {
+      "id": "hayley",
+      "name": "Hayley",
+      "sprite": "hayley.png"
+    },
+    {
+      "id": "heath",
+      "name": "Heath",
+      "sprite": "heath.png"
+    },
+    {
+      "id": "hero-conquest",
+      "name": "Hero Conquest",
+      "sprite": "hero-conquest.png"
+    },
+    {
+      "id": "hero2-conquest",
+      "name": "Hero2 Conquest",
+      "sprite": "hero2-conquest.png"
+    },
+    {
+      "id": "heroine-conquest",
+      "name": "Heroine Conquest",
+      "sprite": "heroine-conquest.png"
+    },
+    {
+      "id": "heroine2-conquest",
+      "name": "Heroine2 Conquest",
+      "sprite": "heroine2-conquest.png"
+    },
+    {
+      "id": "hexmaniac-gen3",
+      "name": "Hexmaniac Gen3",
+      "sprite": "hexmaniac-gen3.png"
+    },
+    {
+      "id": "hexmaniac-gen3jp",
+      "name": "Hexmaniac Gen3jp",
+      "sprite": "hexmaniac-gen3jp.png"
+    },
+    {
+      "id": "hexmaniac-gen6",
+      "name": "Hexmaniac Gen6",
+      "sprite": "hexmaniac-gen6.png"
+    },
+    {
+      "id": "hiker",
+      "name": "Hiker",
+      "sprite": "hiker.png"
+    },
+    {
+      "id": "hiker-gen1",
+      "name": "Hiker Gen1",
+      "sprite": "hiker-gen1.png"
+    },
+    {
+      "id": "hiker-gen1rb",
+      "name": "Hiker Gen1rb",
+      "sprite": "hiker-gen1rb.png"
+    },
+    {
+      "id": "hiker-gen2",
+      "name": "Hiker Gen2",
+      "sprite": "hiker-gen2.png"
+    },
+    {
+      "id": "hiker-gen3",
+      "name": "Hiker Gen3",
+      "sprite": "hiker-gen3.png"
+    },
+    {
+      "id": "hiker-gen3rs",
+      "name": "Hiker Gen3rs",
+      "sprite": "hiker-gen3rs.png"
+    },
+    {
+      "id": "hiker-gen4",
+      "name": "Hiker Gen4",
+      "sprite": "hiker-gen4.png"
+    },
+    {
+      "id": "hiker-gen6",
+      "name": "Hiker Gen6",
+      "sprite": "hiker-gen6.png"
+    },
+    {
+      "id": "hiker-gen7",
+      "name": "Hiker Gen7",
+      "sprite": "hiker-gen7.png"
+    },
+    {
+      "id": "hiker-gen8",
+      "name": "Hiker Gen8",
+      "sprite": "hiker-gen8.png"
+    },
+    {
+      "id": "hiker-gen9",
+      "name": "Hiker Gen9",
+      "sprite": "hiker-gen9.png"
+    },
+    {
+      "id": "hilbert",
+      "name": "Hilbert",
+      "sprite": "hilbert.png"
+    },
+    {
+      "id": "hilbert-masters",
+      "name": "Hilbert Masters",
+      "sprite": "hilbert-masters.png"
+    },
+    {
+      "id": "hilbert-masters2",
+      "name": "Hilbert Masters2",
+      "sprite": "hilbert-masters2.png"
+    },
+    {
+      "id": "hilbert-wonderlauncher",
+      "name": "Hilbert Wonderlauncher",
+      "sprite": "hilbert-wonderlauncher.png"
+    },
+    {
+      "id": "hilda",
+      "name": "Hilda",
+      "sprite": "hilda.png"
+    },
+    {
+      "id": "hilda-masters",
+      "name": "Hilda Masters",
+      "sprite": "hilda-masters.png"
+    },
+    {
+      "id": "hilda-masters2",
+      "name": "Hilda Masters2",
+      "sprite": "hilda-masters2.png"
+    },
+    {
+      "id": "hilda-masters3",
+      "name": "Hilda Masters3",
+      "sprite": "hilda-masters3.png"
+    },
+    {
+      "id": "hilda-wonderlauncher",
+      "name": "Hilda Wonderlauncher",
+      "sprite": "hilda-wonderlauncher.png"
+    },
+    {
+      "id": "hooligans",
+      "name": "Hooligans",
+      "sprite": "hooligans.png"
+    },
+    {
+      "id": "hoopster",
+      "name": "Hoopster",
+      "sprite": "hoopster.png"
+    },
+    {
+      "id": "hop",
+      "name": "Hop",
+      "sprite": "hop.png"
+    },
+    {
+      "id": "hop-masters",
+      "name": "Hop Masters",
+      "sprite": "hop-masters.png"
+    },
+    {
+      "id": "hugh",
+      "name": "Hugh",
+      "sprite": "hugh.png"
+    },
+    {
+      "id": "hyde",
+      "name": "Hyde",
+      "sprite": "hyde.png"
+    },
+    {
+      "id": "idol",
+      "name": "Idol",
+      "sprite": "idol.png"
+    },
+    {
+      "id": "ilima",
+      "name": "Ilima",
+      "sprite": "ilima.png"
+    },
+    {
+      "id": "infielder",
+      "name": "Infielder",
+      "sprite": "infielder.png"
+    },
+    {
+      "id": "ingo",
+      "name": "Ingo",
+      "sprite": "ingo.png"
+    },
+    {
+      "id": "ingo-hisui",
+      "name": "Ingo Hisui",
+      "sprite": "ingo-hisui.png"
+    },
+    {
+      "id": "ingo-masters",
+      "name": "Ingo Masters",
+      "sprite": "ingo-masters.png"
+    },
+    {
+      "id": "interviewers",
+      "name": "Interviewers",
+      "sprite": "interviewers.png"
+    },
+    {
+      "id": "interviewers-gen3",
+      "name": "Interviewers Gen3",
+      "sprite": "interviewers-gen3.png"
+    },
+    {
+      "id": "interviewers-gen6",
+      "name": "Interviewers Gen6",
+      "sprite": "interviewers-gen6.png"
+    },
+    {
+      "id": "iono",
+      "name": "Iono",
+      "sprite": "iono.png"
+    },
+    {
+      "id": "iono-masters",
+      "name": "Iono Masters",
+      "sprite": "iono-masters.png"
+    },
+    {
+      "id": "iono-masters2",
+      "name": "Iono Masters2",
+      "sprite": "iono-masters2.png"
+    },
+    {
+      "id": "irida",
+      "name": "Irida",
+      "sprite": "irida.png"
+    },
+    {
+      "id": "irida-masters",
+      "name": "Irida Masters",
+      "sprite": "irida-masters.png"
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "sprite": "iris.png"
+    },
+    {
+      "id": "iris-gen5bw2",
+      "name": "Iris Gen5bw2",
+      "sprite": "iris-gen5bw2.png"
+    },
+    {
+      "id": "iris-masters",
+      "name": "Iris Masters",
+      "sprite": "iris-masters.png"
+    },
+    {
+      "id": "iscan",
+      "name": "Iscan",
+      "sprite": "iscan.png"
+    },
+    {
+      "id": "jacq",
+      "name": "Jacq",
+      "sprite": "jacq.png"
+    },
+    {
+      "id": "jamie",
+      "name": "Jamie",
+      "sprite": "jamie.png"
+    },
+    {
+      "id": "janine",
+      "name": "Janine",
+      "sprite": "janine.png"
+    },
+    {
+      "id": "janine-gen2",
+      "name": "Janine Gen2",
+      "sprite": "janine-gen2.png"
+    },
+    {
+      "id": "janitor",
+      "name": "Janitor",
+      "sprite": "janitor.png"
+    },
+    {
+      "id": "janitor-gen7",
+      "name": "Janitor Gen7",
+      "sprite": "janitor-gen7.png"
+    },
+    {
+      "id": "janitor-gen9",
+      "name": "Janitor Gen9",
+      "sprite": "janitor-gen9.png"
+    },
+    {
+      "id": "jasmine",
+      "name": "Jasmine",
+      "sprite": "jasmine.png"
+    },
+    {
+      "id": "jasmine-contest",
+      "name": "Jasmine Contest",
+      "sprite": "jasmine-contest.png"
+    },
+    {
+      "id": "jasmine-gen2",
+      "name": "Jasmine Gen2",
+      "sprite": "jasmine-gen2.png"
+    },
+    {
+      "id": "jasmine-masters",
+      "name": "Jasmine Masters",
+      "sprite": "jasmine-masters.png"
+    },
+    {
+      "id": "jasmine-masters2",
+      "name": "Jasmine Masters2",
+      "sprite": "jasmine-masters2.png"
+    },
+    {
+      "id": "jessiejames-gen1",
+      "name": "Jessiejames Gen1",
+      "sprite": "jessiejames-gen1.png"
+    },
+    {
+      "id": "jogger",
+      "name": "Jogger",
+      "sprite": "jogger.png"
+    },
+    {
+      "id": "johanna",
+      "name": "Johanna",
+      "sprite": "johanna.png"
+    },
+    {
+      "id": "johanna-contest",
+      "name": "Johanna Contest",
+      "sprite": "johanna-contest.png"
+    },
+    {
+      "id": "jrtrainer-gen1",
+      "name": "Jrtrainer Gen1",
+      "sprite": "jrtrainer-gen1.png"
+    },
+    {
+      "id": "jrtrainer-gen1rb",
+      "name": "Jrtrainer Gen1rb",
+      "sprite": "jrtrainer-gen1rb.png"
+    },
+    {
+      "id": "jrtrainerf-gen1",
+      "name": "Jrtrainerf Gen1",
+      "sprite": "jrtrainerf-gen1.png"
+    },
+    {
+      "id": "jrtrainerf-gen1rb",
+      "name": "Jrtrainerf Gen1rb",
+      "sprite": "jrtrainerf-gen1rb.png"
+    },
+    {
+      "id": "juan",
+      "name": "Juan",
+      "sprite": "juan.png"
+    },
+    {
+      "id": "juan-gen3",
+      "name": "Juan Gen3",
+      "sprite": "juan-gen3.png"
+    },
+    {
+      "id": "juggler",
+      "name": "Juggler",
+      "sprite": "juggler.png"
+    },
+    {
+      "id": "juggler-gen1",
+      "name": "Juggler Gen1",
+      "sprite": "juggler-gen1.png"
+    },
+    {
+      "id": "juggler-gen1rb",
+      "name": "Juggler Gen1rb",
+      "sprite": "juggler-gen1rb.png"
+    },
+    {
+      "id": "juggler-gen2",
+      "name": "Juggler Gen2",
+      "sprite": "juggler-gen2.png"
+    },
+    {
+      "id": "juggler-gen3",
+      "name": "Juggler Gen3",
+      "sprite": "juggler-gen3.png"
+    },
+    {
+      "id": "juliana-bb",
+      "name": "Juliana Bb",
+      "sprite": "juliana-bb.png"
+    },
+    {
+      "id": "juliana-festival",
+      "name": "Juliana Festival",
+      "sprite": "juliana-festival.png"
+    },
+    {
+      "id": "juliana-s",
+      "name": "Juliana S",
+      "sprite": "juliana-s.png"
+    },
+    {
+      "id": "juniper",
+      "name": "Juniper",
+      "sprite": "juniper.png"
+    },
+    {
+      "id": "jupiter",
+      "name": "Jupiter",
+      "sprite": "jupiter.png"
+    },
+    {
+      "id": "kabu",
+      "name": "Kabu",
+      "sprite": "kabu.png"
+    },
+    {
+      "id": "kahili",
+      "name": "Kahili",
+      "sprite": "kahili.png"
+    },
+    {
+      "id": "kamado",
+      "name": "Kamado",
+      "sprite": "kamado.png"
+    },
+    {
+      "id": "kamado-armor",
+      "name": "Kamado Armor",
+      "sprite": "kamado-armor.png"
+    },
+    {
+      "id": "karen",
+      "name": "Karen",
+      "sprite": "karen.png"
+    },
+    {
+      "id": "karen-gen2",
+      "name": "Karen Gen2",
+      "sprite": "karen-gen2.png"
+    },
+    {
+      "id": "katy",
+      "name": "Katy",
+      "sprite": "katy.png"
+    },
+    {
+      "id": "kiawe",
+      "name": "Kiawe",
+      "sprite": "kiawe.png"
+    },
+    {
+      "id": "kieran",
+      "name": "Kieran",
+      "sprite": "kieran.png"
+    },
+    {
+      "id": "kieran-champion",
+      "name": "Kieran Champion",
+      "sprite": "kieran-champion.png"
+    },
+    {
+      "id": "kieran-festival",
+      "name": "Kieran Festival",
+      "sprite": "kieran-festival.png"
+    },
+    {
+      "id": "kimonogirl",
+      "name": "Kimonogirl",
+      "sprite": "kimonogirl.png"
+    },
+    {
+      "id": "kimonogirl-gen2",
+      "name": "Kimonogirl Gen2",
+      "sprite": "kimonogirl-gen2.png"
+    },
+    {
+      "id": "kindler-gen3",
+      "name": "Kindler Gen3",
+      "sprite": "kindler-gen3.png"
+    },
+    {
+      "id": "kindler-gen6",
+      "name": "Kindler Gen6",
+      "sprite": "kindler-gen6.png"
+    },
+    {
+      "id": "klara",
+      "name": "Klara",
+      "sprite": "klara.png"
+    },
+    {
+      "id": "kofu",
+      "name": "Kofu",
+      "sprite": "kofu.png"
+    },
+    {
+      "id": "koga",
+      "name": "Koga",
+      "sprite": "koga.png"
+    },
+    {
+      "id": "koga-gen1",
+      "name": "Koga Gen1",
+      "sprite": "koga-gen1.png"
+    },
+    {
+      "id": "koga-gen1rb",
+      "name": "Koga Gen1rb",
+      "sprite": "koga-gen1rb.png"
+    },
+    {
+      "id": "koga-gen2",
+      "name": "Koga Gen2",
+      "sprite": "koga-gen2.png"
+    },
+    {
+      "id": "koga-gen3",
+      "name": "Koga Gen3",
+      "sprite": "koga-gen3.png"
+    },
+    {
+      "id": "koga-lgpe",
+      "name": "Koga Lgpe",
+      "sprite": "koga-lgpe.png"
+    },
+    {
+      "id": "korrina",
+      "name": "Korrina",
+      "sprite": "korrina.png"
+    },
+    {
+      "id": "korrina-masters",
+      "name": "Korrina Masters",
+      "sprite": "korrina-masters.png"
+    },
+    {
+      "id": "kris",
+      "name": "Kris",
+      "sprite": "kris.png"
+    },
+    {
+      "id": "kris-gen2",
+      "name": "Kris Gen2",
+      "sprite": "kris-gen2.png"
+    },
+    {
+      "id": "kris-masters",
+      "name": "Kris Masters",
+      "sprite": "kris-masters.png"
+    },
+    {
+      "id": "kukui",
+      "name": "Kukui",
+      "sprite": "kukui.png"
+    },
+    {
+      "id": "kukui-stand",
+      "name": "Kukui Stand",
+      "sprite": "kukui-stand.png"
+    },
+    {
+      "id": "kunoichi-conquest",
+      "name": "Kunoichi Conquest",
+      "sprite": "kunoichi-conquest.png"
+    },
+    {
+      "id": "kunoichi2-conquest",
+      "name": "Kunoichi2 Conquest",
+      "sprite": "kunoichi2-conquest.png"
+    },
+    {
+      "id": "kurt",
+      "name": "Kurt",
+      "sprite": "kurt.png"
+    },
+    {
+      "id": "lacey",
+      "name": "Lacey",
+      "sprite": "lacey.png"
+    },
+    {
+      "id": "lady",
+      "name": "Lady",
+      "sprite": "lady.png"
+    },
+    {
+      "id": "lady-gen3",
+      "name": "Lady Gen3",
+      "sprite": "lady-gen3.png"
+    },
+    {
+      "id": "lady-gen3rs",
+      "name": "Lady Gen3rs",
+      "sprite": "lady-gen3rs.png"
+    },
+    {
+      "id": "lady-gen4",
+      "name": "Lady Gen4",
+      "sprite": "lady-gen4.png"
+    },
+    {
+      "id": "lady-gen6",
+      "name": "Lady Gen6",
+      "sprite": "lady-gen6.png"
+    },
+    {
+      "id": "lady-gen6oras",
+      "name": "Lady Gen6oras",
+      "sprite": "lady-gen6oras.png"
+    },
+    {
+      "id": "lana",
+      "name": "Lana",
+      "sprite": "lana.png"
+    },
+    {
+      "id": "lana-masters",
+      "name": "Lana Masters",
+      "sprite": "lana-masters.png"
+    },
+    {
+      "id": "lance",
+      "name": "Lance",
+      "sprite": "lance.png"
+    },
+    {
+      "id": "lance-gen1",
+      "name": "Lance Gen1",
+      "sprite": "lance-gen1.png"
+    },
+    {
+      "id": "lance-gen1rb",
+      "name": "Lance Gen1rb",
+      "sprite": "lance-gen1rb.png"
+    },
+    {
+      "id": "lance-gen2",
+      "name": "Lance Gen2",
+      "sprite": "lance-gen2.png"
+    },
+    {
+      "id": "lance-gen3",
+      "name": "Lance Gen3",
+      "sprite": "lance-gen3.png"
+    },
+    {
+      "id": "lance-lgpe",
+      "name": "Lance Lgpe",
+      "sprite": "lance-lgpe.png"
+    },
+    {
+      "id": "lance-masters",
+      "name": "Lance Masters",
+      "sprite": "lance-masters.png"
+    },
+    {
+      "id": "lance-masters2",
+      "name": "Lance Masters2",
+      "sprite": "lance-masters2.png"
+    },
+    {
+      "id": "lanette",
+      "name": "Lanette",
+      "sprite": "lanette.png"
+    },
+    {
+      "id": "larry",
+      "name": "Larry",
+      "sprite": "larry.png"
+    },
+    {
+      "id": "lass",
+      "name": "Lass",
+      "sprite": "lass.png"
+    },
+    {
+      "id": "lass-gen1",
+      "name": "Lass Gen1",
+      "sprite": "lass-gen1.png"
+    },
+    {
+      "id": "lass-gen1rb",
+      "name": "Lass Gen1rb",
+      "sprite": "lass-gen1rb.png"
+    },
+    {
+      "id": "lass-gen2",
+      "name": "Lass Gen2",
+      "sprite": "lass-gen2.png"
+    },
+    {
+      "id": "lass-gen3",
+      "name": "Lass Gen3",
+      "sprite": "lass-gen3.png"
+    },
+    {
+      "id": "lass-gen3rs",
+      "name": "Lass Gen3rs",
+      "sprite": "lass-gen3rs.png"
+    },
+    {
+      "id": "lass-gen4",
+      "name": "Lass Gen4",
+      "sprite": "lass-gen4.png"
+    },
+    {
+      "id": "lass-gen4dp",
+      "name": "Lass Gen4dp",
+      "sprite": "lass-gen4dp.png"
+    },
+    {
+      "id": "lass-gen6",
+      "name": "Lass Gen6",
+      "sprite": "lass-gen6.png"
+    },
+    {
+      "id": "lass-gen6oras",
+      "name": "Lass Gen6oras",
+      "sprite": "lass-gen6oras.png"
+    },
+    {
+      "id": "lass-gen7",
+      "name": "Lass Gen7",
+      "sprite": "lass-gen7.png"
+    },
+    {
+      "id": "lass-gen8",
+      "name": "Lass Gen8",
+      "sprite": "lass-gen8.png"
+    },
+    {
+      "id": "laventon",
+      "name": "Laventon",
+      "sprite": "laventon.png"
+    },
+    {
+      "id": "laventon2",
+      "name": "Laventon2",
+      "sprite": "laventon2.png"
+    },
+    {
+      "id": "leaf-gen3",
+      "name": "Leaf Gen3",
+      "sprite": "leaf-gen3.png"
+    },
+    {
+      "id": "leaf-masters",
+      "name": "Leaf Masters",
+      "sprite": "leaf-masters.png"
+    },
+    {
+      "id": "leaf-masters2",
+      "name": "Leaf Masters2",
+      "sprite": "leaf-masters2.png"
+    },
+    {
+      "id": "leaguestaff",
+      "name": "Leaguestaff",
+      "sprite": "leaguestaff.png"
+    },
+    {
+      "id": "leaguestafff",
+      "name": "Leaguestafff",
+      "sprite": "leaguestafff.png"
+    },
+    {
+      "id": "lenora",
+      "name": "Lenora",
+      "sprite": "lenora.png"
+    },
+    {
+      "id": "leon",
+      "name": "Leon",
+      "sprite": "leon.png"
+    },
+    {
+      "id": "leon-masters",
+      "name": "Leon Masters",
+      "sprite": "leon-masters.png"
+    },
+    {
+      "id": "leon-masters2",
+      "name": "Leon Masters2",
+      "sprite": "leon-masters2.png"
+    },
+    {
+      "id": "leon-tower",
+      "name": "Leon Tower",
+      "sprite": "leon-tower.png"
+    },
+    {
+      "id": "li",
+      "name": "Li",
+      "sprite": "li.png"
+    },
+    {
+      "id": "lian",
+      "name": "Lian",
+      "sprite": "lian.png"
+    },
+    {
+      "id": "lida",
+      "name": "Lida",
+      "sprite": "lida.png"
+    },
+    {
+      "id": "liko",
+      "name": "Liko",
+      "sprite": "liko.png"
+    },
+    {
+      "id": "lillie",
+      "name": "Lillie",
+      "sprite": "lillie.png"
+    },
+    {
+      "id": "lillie-masters",
+      "name": "Lillie Masters",
+      "sprite": "lillie-masters.png"
+    },
+    {
+      "id": "lillie-masters2",
+      "name": "Lillie Masters2",
+      "sprite": "lillie-masters2.png"
+    },
+    {
+      "id": "lillie-masters3",
+      "name": "Lillie Masters3",
+      "sprite": "lillie-masters3.png"
+    },
+    {
+      "id": "lillie-z",
+      "name": "Lillie Z",
+      "sprite": "lillie-z.png"
+    },
+    {
+      "id": "linebacker",
+      "name": "Linebacker",
+      "sprite": "linebacker.png"
+    },
+    {
+      "id": "lisia",
+      "name": "Lisia",
+      "sprite": "lisia.png"
+    },
+    {
+      "id": "lisia-masters",
+      "name": "Lisia Masters",
+      "sprite": "lisia-masters.png"
+    },
+    {
+      "id": "liza",
+      "name": "Liza",
+      "sprite": "liza.png"
+    },
+    {
+      "id": "liza-gen6",
+      "name": "Liza Gen6",
+      "sprite": "liza-gen6.png"
+    },
+    {
+      "id": "liza-masters",
+      "name": "Liza Masters",
+      "sprite": "liza-masters.png"
+    },
+    {
+      "id": "lorelei-gen1",
+      "name": "Lorelei Gen1",
+      "sprite": "lorelei-gen1.png"
+    },
+    {
+      "id": "lorelei-gen1rb",
+      "name": "Lorelei Gen1rb",
+      "sprite": "lorelei-gen1rb.png"
+    },
+    {
+      "id": "lorelei-gen3",
+      "name": "Lorelei Gen3",
+      "sprite": "lorelei-gen3.png"
+    },
+    {
+      "id": "lorelei-lgpe",
+      "name": "Lorelei Lgpe",
+      "sprite": "lorelei-lgpe.png"
+    },
+    {
+      "id": "ltsurge",
+      "name": "Ltsurge",
+      "sprite": "ltsurge.png"
+    },
+    {
+      "id": "ltsurge-gen1",
+      "name": "Ltsurge Gen1",
+      "sprite": "ltsurge-gen1.png"
+    },
+    {
+      "id": "ltsurge-gen1rb",
+      "name": "Ltsurge Gen1rb",
+      "sprite": "ltsurge-gen1rb.png"
+    },
+    {
+      "id": "ltsurge-gen2",
+      "name": "Ltsurge Gen2",
+      "sprite": "ltsurge-gen2.png"
+    },
+    {
+      "id": "ltsurge-gen3",
+      "name": "Ltsurge Gen3",
+      "sprite": "ltsurge-gen3.png"
+    },
+    {
+      "id": "lucas",
+      "name": "Lucas",
+      "sprite": "lucas.png"
+    },
+    {
+      "id": "lucas-contest",
+      "name": "Lucas Contest",
+      "sprite": "lucas-contest.png"
+    },
+    {
+      "id": "lucas-gen4pt",
+      "name": "Lucas Gen4pt",
+      "sprite": "lucas-gen4pt.png"
+    },
+    {
+      "id": "lucian",
+      "name": "Lucian",
+      "sprite": "lucian.png"
+    },
+    {
+      "id": "lucy",
+      "name": "Lucy",
+      "sprite": "lucy.png"
+    },
+    {
+      "id": "lucy-gen3",
+      "name": "Lucy Gen3",
+      "sprite": "lucy-gen3.png"
+    },
+    {
+      "id": "lusamine",
+      "name": "Lusamine",
+      "sprite": "lusamine.png"
+    },
+    {
+      "id": "lusamine-masters",
+      "name": "Lusamine Masters",
+      "sprite": "lusamine-masters.png"
+    },
+    {
+      "id": "lusamine-nihilego",
+      "name": "Lusamine Nihilego",
+      "sprite": "lusamine-nihilego.png"
+    },
+    {
+      "id": "lyra",
+      "name": "Lyra",
+      "sprite": "lyra.png"
+    },
+    {
+      "id": "lyra-masters",
+      "name": "Lyra Masters",
+      "sprite": "lyra-masters.png"
+    },
+    {
+      "id": "lyra-masters2",
+      "name": "Lyra Masters2",
+      "sprite": "lyra-masters2.png"
+    },
+    {
+      "id": "lyra-pokeathlon",
+      "name": "Lyra Pokeathlon",
+      "sprite": "lyra-pokeathlon.png"
+    },
+    {
+      "id": "lysandre",
+      "name": "Lysandre",
+      "sprite": "lysandre.png"
+    },
+    {
+      "id": "lysandre-masters",
+      "name": "Lysandre Masters",
+      "sprite": "lysandre-masters.png"
+    },
+    {
+      "id": "mable",
+      "name": "Mable",
+      "sprite": "mable.png"
+    },
+    {
+      "id": "madame",
+      "name": "Madame",
+      "sprite": "madame.png"
+    },
+    {
+      "id": "madame-gen4",
+      "name": "Madame Gen4",
+      "sprite": "madame-gen4.png"
+    },
+    {
+      "id": "madame-gen4dp",
+      "name": "Madame Gen4dp",
+      "sprite": "madame-gen4dp.png"
+    },
+    {
+      "id": "madame-gen6",
+      "name": "Madame Gen6",
+      "sprite": "madame-gen6.png"
+    },
+    {
+      "id": "madame-gen7",
+      "name": "Madame Gen7",
+      "sprite": "madame-gen7.png"
+    },
+    {
+      "id": "madame-gen8",
+      "name": "Madame Gen8",
+      "sprite": "madame-gen8.png"
+    },
+    {
+      "id": "magmagrunt",
+      "name": "Magmagrunt",
+      "sprite": "magmagrunt.png"
+    },
+    {
+      "id": "magmagrunt-rse",
+      "name": "Magmagrunt Rse",
+      "sprite": "magmagrunt-rse.png"
+    },
+    {
+      "id": "magmagruntf",
+      "name": "Magmagruntf",
+      "sprite": "magmagruntf.png"
+    },
+    {
+      "id": "magmagruntf-rse",
+      "name": "Magmagruntf Rse",
+      "sprite": "magmagruntf-rse.png"
+    },
+    {
+      "id": "magmasuit",
+      "name": "Magmasuit",
+      "sprite": "magmasuit.png"
+    },
+    {
+      "id": "magnolia",
+      "name": "Magnolia",
+      "sprite": "magnolia.png"
+    },
+    {
+      "id": "magnus",
+      "name": "Magnus",
+      "sprite": "magnus.png"
+    },
+    {
+      "id": "mai",
+      "name": "Mai",
+      "sprite": "mai.png"
+    },
+    {
+      "id": "maid",
+      "name": "Maid",
+      "sprite": "maid.png"
+    },
+    {
+      "id": "maid-gen4",
+      "name": "Maid Gen4",
+      "sprite": "maid-gen4.png"
+    },
+    {
+      "id": "maid-gen6",
+      "name": "Maid Gen6",
+      "sprite": "maid-gen6.png"
+    },
+    {
+      "id": "mallow",
+      "name": "Mallow",
+      "sprite": "mallow.png"
+    },
+    {
+      "id": "mallow-masters",
+      "name": "Mallow Masters",
+      "sprite": "mallow-masters.png"
+    },
+    {
+      "id": "malva",
+      "name": "Malva",
+      "sprite": "malva.png"
+    },
+    {
+      "id": "marley",
+      "name": "Marley",
+      "sprite": "marley.png"
+    },
+    {
+      "id": "marley-masters",
+      "name": "Marley Masters",
+      "sprite": "marley-masters.png"
+    },
+    {
+      "id": "marlon",
+      "name": "Marlon",
+      "sprite": "marlon.png"
+    },
+    {
+      "id": "marnie",
+      "name": "Marnie",
+      "sprite": "marnie.png"
+    },
+    {
+      "id": "marnie-league",
+      "name": "Marnie League",
+      "sprite": "marnie-league.png"
+    },
+    {
+      "id": "marnie-masters",
+      "name": "Marnie Masters",
+      "sprite": "marnie-masters.png"
+    },
+    {
+      "id": "marnie-masters2",
+      "name": "Marnie Masters2",
+      "sprite": "marnie-masters2.png"
+    },
+    {
+      "id": "marnie-masters3",
+      "name": "Marnie Masters3",
+      "sprite": "marnie-masters3.png"
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "sprite": "mars.png"
+    },
+    {
+      "id": "marshal",
+      "name": "Marshal",
+      "sprite": "marshal.png"
+    },
+    {
+      "id": "masamune-conquest",
+      "name": "Masamune Conquest",
+      "sprite": "masamune-conquest.png"
+    },
+    {
+      "id": "mateo",
+      "name": "Mateo",
+      "sprite": "mateo.png"
+    },
+    {
+      "id": "matt",
+      "name": "Matt",
+      "sprite": "matt.png"
+    },
+    {
+      "id": "matt-gen3",
+      "name": "Matt Gen3",
+      "sprite": "matt-gen3.png"
+    },
+    {
+      "id": "maxie-gen3",
+      "name": "Maxie Gen3",
+      "sprite": "maxie-gen3.png"
+    },
+    {
+      "id": "maxie-gen6",
+      "name": "Maxie Gen6",
+      "sprite": "maxie-gen6.png"
+    },
+    {
+      "id": "may",
+      "name": "May",
+      "sprite": "may.png"
+    },
+    {
+      "id": "may-contest",
+      "name": "May Contest",
+      "sprite": "may-contest.png"
+    },
+    {
+      "id": "may-e",
+      "name": "May E",
+      "sprite": "may-e.png"
+    },
+    {
+      "id": "may-gen3",
+      "name": "May Gen3",
+      "sprite": "may-gen3.png"
+    },
+    {
+      "id": "may-gen3rs",
+      "name": "May Gen3rs",
+      "sprite": "may-gen3rs.png"
+    },
+    {
+      "id": "may-masters",
+      "name": "May Masters",
+      "sprite": "may-masters.png"
+    },
+    {
+      "id": "may-masters2",
+      "name": "May Masters2",
+      "sprite": "may-masters2.png"
+    },
+    {
+      "id": "may-masters3",
+      "name": "May Masters3",
+      "sprite": "may-masters3.png"
+    },
+    {
+      "id": "may-masters4",
+      "name": "May Masters4",
+      "sprite": "may-masters4.png"
+    },
+    {
+      "id": "may-rs",
+      "name": "May Rs",
+      "sprite": "may-rs.png"
+    },
+    {
+      "id": "maylene",
+      "name": "Maylene",
+      "sprite": "maylene.png"
+    },
+    {
+      "id": "medium",
+      "name": "Medium",
+      "sprite": "medium.png"
+    },
+    {
+      "id": "medium-gen2jp",
+      "name": "Medium Gen2jp",
+      "sprite": "medium-gen2jp.png"
+    },
+    {
+      "id": "mela",
+      "name": "Mela",
+      "sprite": "mela.png"
+    },
+    {
+      "id": "melli",
+      "name": "Melli",
+      "sprite": "melli.png"
+    },
+    {
+      "id": "melony",
+      "name": "Melony",
+      "sprite": "melony.png"
+    },
+    {
+      "id": "miku-fairy",
+      "name": "Miku Fairy",
+      "sprite": "miku-fairy.png"
+    },
+    {
+      "id": "miku-fire",
+      "name": "Miku Fire",
+      "sprite": "miku-fire.png"
+    },
+    {
+      "id": "miku-flying",
+      "name": "Miku Flying",
+      "sprite": "miku-flying.png"
+    },
+    {
+      "id": "miku-ghost",
+      "name": "Miku Ghost",
+      "sprite": "miku-ghost.png"
+    },
+    {
+      "id": "miku-grass",
+      "name": "Miku Grass",
+      "sprite": "miku-grass.png"
+    },
+    {
+      "id": "miku-ground",
+      "name": "Miku Ground",
+      "sprite": "miku-ground.png"
+    },
+    {
+      "id": "miku-ice",
+      "name": "Miku Ice",
+      "sprite": "miku-ice.png"
+    },
+    {
+      "id": "miku-psychic",
+      "name": "Miku Psychic",
+      "sprite": "miku-psychic.png"
+    },
+    {
+      "id": "miku-water",
+      "name": "Miku Water",
+      "sprite": "miku-water.png"
+    },
+    {
+      "id": "milo",
+      "name": "Milo",
+      "sprite": "milo.png"
+    },
+    {
+      "id": "mina",
+      "name": "Mina",
+      "sprite": "mina.png"
+    },
+    {
+      "id": "mina-lgpe",
+      "name": "Mina Lgpe",
+      "sprite": "mina-lgpe.png"
+    },
+    {
+      "id": "mina-masters",
+      "name": "Mina Masters",
+      "sprite": "mina-masters.png"
+    },
+    {
+      "id": "mira",
+      "name": "Mira",
+      "sprite": "mira.png"
+    },
+    {
+      "id": "miriam",
+      "name": "Miriam",
+      "sprite": "miriam.png"
+    },
+    {
+      "id": "mirror",
+      "name": "Mirror",
+      "sprite": "mirror.png"
+    },
+    {
+      "id": "misty",
+      "name": "Misty",
+      "sprite": "misty.png"
+    },
+    {
+      "id": "misty-gen1",
+      "name": "Misty Gen1",
+      "sprite": "misty-gen1.png"
+    },
+    {
+      "id": "misty-gen1rb",
+      "name": "Misty Gen1rb",
+      "sprite": "misty-gen1rb.png"
+    },
+    {
+      "id": "misty-gen2",
+      "name": "Misty Gen2",
+      "sprite": "misty-gen2.png"
+    },
+    {
+      "id": "misty-gen3",
+      "name": "Misty Gen3",
+      "sprite": "misty-gen3.png"
+    },
+    {
+      "id": "misty-lgpe",
+      "name": "Misty Lgpe",
+      "sprite": "misty-lgpe.png"
+    },
+    {
+      "id": "misty-masters",
+      "name": "Misty Masters",
+      "sprite": "misty-masters.png"
+    },
+    {
+      "id": "model-gen8",
+      "name": "Model Gen8",
+      "sprite": "model-gen8.png"
+    },
+    {
+      "id": "mohn",
+      "name": "Mohn",
+      "sprite": "mohn.png"
+    },
+    {
+      "id": "mohn-anime",
+      "name": "Mohn Anime",
+      "sprite": "mohn-anime.png"
+    },
+    {
+      "id": "molayne",
+      "name": "Molayne",
+      "sprite": "molayne.png"
+    },
+    {
+      "id": "mom-alola",
+      "name": "Mom Alola",
+      "sprite": "mom-alola.png"
+    },
+    {
+      "id": "mom-hoenn",
+      "name": "Mom Hoenn",
+      "sprite": "mom-hoenn.png"
+    },
+    {
+      "id": "mom-johto",
+      "name": "Mom Johto",
+      "sprite": "mom-johto.png"
+    },
+    {
+      "id": "mom-paldea",
+      "name": "Mom Paldea",
+      "sprite": "mom-paldea.png"
+    },
+    {
+      "id": "mom-unova",
+      "name": "Mom Unova",
+      "sprite": "mom-unova.png"
+    },
+    {
+      "id": "mom-unova2",
+      "name": "Mom Unova2",
+      "sprite": "mom-unova2.png"
+    },
+    {
+      "id": "morgan",
+      "name": "Morgan",
+      "sprite": "morgan.png"
+    },
+    {
+      "id": "morty",
+      "name": "Morty",
+      "sprite": "morty.png"
+    },
+    {
+      "id": "morty-gen2",
+      "name": "Morty Gen2",
+      "sprite": "morty-gen2.png"
+    },
+    {
+      "id": "morty-masters",
+      "name": "Morty Masters",
+      "sprite": "morty-masters.png"
+    },
+    {
+      "id": "morty-masters2",
+      "name": "Morty Masters2",
+      "sprite": "morty-masters2.png"
+    },
+    {
+      "id": "morty-masters3",
+      "name": "Morty Masters3",
+      "sprite": "morty-masters3.png"
+    },
+    {
+      "id": "mrbriney",
+      "name": "Mrbriney",
+      "sprite": "mrbriney.png"
+    },
+    {
+      "id": "mrfuji-gen3",
+      "name": "Mrfuji Gen3",
+      "sprite": "mrfuji-gen3.png"
+    },
+    {
+      "id": "mrstone",
+      "name": "Mrstone",
+      "sprite": "mrstone.png"
+    },
+    {
+      "id": "musician",
+      "name": "Musician",
+      "sprite": "musician.png"
+    },
+    {
+      "id": "musician-gen8",
+      "name": "Musician Gen8",
+      "sprite": "musician-gen8.png"
+    },
+    {
+      "id": "musician-gen9",
+      "name": "Musician Gen9",
+      "sprite": "musician-gen9.png"
+    },
+    {
+      "id": "mustard",
+      "name": "Mustard",
+      "sprite": "mustard.png"
+    },
+    {
+      "id": "mustard-champion",
+      "name": "Mustard Champion",
+      "sprite": "mustard-champion.png"
+    },
+    {
+      "id": "mustard-master",
+      "name": "Mustard Master",
+      "sprite": "mustard-master.png"
+    },
+    {
+      "id": "n",
+      "name": "N",
+      "sprite": "n.png"
+    },
+    {
+      "id": "n-masters",
+      "name": "N Masters",
+      "sprite": "n-masters.png"
+    },
+    {
+      "id": "n-masters2",
+      "name": "N Masters2",
+      "sprite": "n-masters2.png"
+    },
+    {
+      "id": "n-masters3",
+      "name": "N Masters3",
+      "sprite": "n-masters3.png"
+    },
+    {
+      "id": "nancy",
+      "name": "Nancy",
+      "sprite": "nancy.png"
+    },
+    {
+      "id": "nanu",
+      "name": "Nanu",
+      "sprite": "nanu.png"
+    },
+    {
+      "id": "nate",
+      "name": "Nate",
+      "sprite": "nate.png"
+    },
+    {
+      "id": "nate-masters",
+      "name": "Nate Masters",
+      "sprite": "nate-masters.png"
+    },
+    {
+      "id": "nate-pokestar",
+      "name": "Nate Pokestar",
+      "sprite": "nate-pokestar.png"
+    },
+    {
+      "id": "nate-pokestar3",
+      "name": "Nate Pokestar3",
+      "sprite": "nate-pokestar3.png"
+    },
+    {
+      "id": "nate-wonderlauncher",
+      "name": "Nate Wonderlauncher",
+      "sprite": "nate-wonderlauncher.png"
+    },
+    {
+      "id": "naveen",
+      "name": "Naveen",
+      "sprite": "naveen.png"
+    },
+    {
+      "id": "nemona-masters",
+      "name": "Nemona Masters",
+      "sprite": "nemona-masters.png"
+    },
+    {
+      "id": "nemona-s",
+      "name": "Nemona S",
+      "sprite": "nemona-s.png"
+    },
+    {
+      "id": "nemona-v",
+      "name": "Nemona V",
+      "sprite": "nemona-v.png"
+    },
+    {
+      "id": "neroli",
+      "name": "Neroli",
+      "sprite": "neroli.png"
+    },
+    {
+      "id": "nessa",
+      "name": "Nessa",
+      "sprite": "nessa.png"
+    },
+    {
+      "id": "nessa-masters",
+      "name": "Nessa Masters",
+      "sprite": "nessa-masters.png"
+    },
+    {
+      "id": "ninjaboy",
+      "name": "Ninjaboy",
+      "sprite": "ninjaboy.png"
+    },
+    {
+      "id": "ninjaboy-gen3",
+      "name": "Ninjaboy Gen3",
+      "sprite": "ninjaboy-gen3.png"
+    },
+    {
+      "id": "ninjaboy-gen6",
+      "name": "Ninjaboy Gen6",
+      "sprite": "ninjaboy-gen6.png"
+    },
+    {
+      "id": "nita",
+      "name": "Nita",
+      "sprite": "nita.png"
+    },
+    {
+      "id": "nobunaga-conquest",
+      "name": "Nobunaga Conquest",
+      "sprite": "nobunaga-conquest.png"
+    },
+    {
+      "id": "noland",
+      "name": "Noland",
+      "sprite": "noland.png"
+    },
+    {
+      "id": "noland-gen3",
+      "name": "Noland Gen3",
+      "sprite": "noland-gen3.png"
+    },
+    {
+      "id": "norman",
+      "name": "Norman",
+      "sprite": "norman.png"
+    },
+    {
+      "id": "norman-gen3",
+      "name": "Norman Gen3",
+      "sprite": "norman-gen3.png"
+    },
+    {
+      "id": "norman-gen6",
+      "name": "Norman Gen6",
+      "sprite": "norman-gen6.png"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "sprite": "nurse.png"
+    },
+    {
+      "id": "nurseryaide",
+      "name": "Nurseryaide",
+      "sprite": "nurseryaide.png"
+    },
+    {
+      "id": "oak",
+      "name": "Oak",
+      "sprite": "oak.png"
+    },
+    {
+      "id": "oak-gen1",
+      "name": "Oak Gen1",
+      "sprite": "oak-gen1.png"
+    },
+    {
+      "id": "oak-gen1rb",
+      "name": "Oak Gen1rb",
+      "sprite": "oak-gen1rb.png"
+    },
+    {
+      "id": "oak-gen2",
+      "name": "Oak Gen2",
+      "sprite": "oak-gen2.png"
+    },
+    {
+      "id": "oak-gen3",
+      "name": "Oak Gen3",
+      "sprite": "oak-gen3.png"
+    },
+    {
+      "id": "officer-gen2",
+      "name": "Officer Gen2",
+      "sprite": "officer-gen2.png"
+    },
+    {
+      "id": "officeworker",
+      "name": "Officeworker",
+      "sprite": "officeworker.png"
+    },
+    {
+      "id": "officeworker-gen9",
+      "name": "Officeworker Gen9",
+      "sprite": "officeworker-gen9.png"
+    },
+    {
+      "id": "officeworkerf",
+      "name": "Officeworkerf",
+      "sprite": "officeworkerf.png"
+    },
+    {
+      "id": "officeworkerf-gen9",
+      "name": "Officeworkerf Gen9",
+      "sprite": "officeworkerf-gen9.png"
+    },
+    {
+      "id": "ogreclan",
+      "name": "Ogreclan",
+      "sprite": "ogreclan.png"
+    },
+    {
+      "id": "oichi-conquest",
+      "name": "Oichi Conquest",
+      "sprite": "oichi-conquest.png"
+    },
+    {
+      "id": "oldcouple-gen3",
+      "name": "Oldcouple Gen3",
+      "sprite": "oldcouple-gen3.png"
+    },
+    {
+      "id": "oleana",
+      "name": "Oleana",
+      "sprite": "oleana.png"
+    },
+    {
+      "id": "olivia",
+      "name": "Olivia",
+      "sprite": "olivia.png"
+    },
+    {
+      "id": "olympia",
+      "name": "Olympia",
+      "sprite": "olympia.png"
+    },
+    {
+      "id": "opal",
+      "name": "Opal",
+      "sprite": "opal.png"
+    },
+    {
+      "id": "ortega",
+      "name": "Ortega",
+      "sprite": "ortega.png"
+    },
+    {
+      "id": "owner",
+      "name": "Owner",
+      "sprite": "owner.png"
+    },
+    {
+      "id": "painter-gen3",
+      "name": "Painter Gen3",
+      "sprite": "painter-gen3.png"
+    },
+    {
+      "id": "palina",
+      "name": "Palina",
+      "sprite": "palina.png"
+    },
+    {
+      "id": "palmer",
+      "name": "Palmer",
+      "sprite": "palmer.png"
+    },
+    {
+      "id": "parasollady",
+      "name": "Parasollady",
+      "sprite": "parasollady.png"
+    },
+    {
+      "id": "parasollady-gen3",
+      "name": "Parasollady Gen3",
+      "sprite": "parasollady-gen3.png"
+    },
+    {
+      "id": "parasollady-gen4",
+      "name": "Parasollady Gen4",
+      "sprite": "parasollady-gen4.png"
+    },
+    {
+      "id": "parasollady-gen6",
+      "name": "Parasollady Gen6",
+      "sprite": "parasollady-gen6.png"
+    },
+    {
+      "id": "paulo-masters",
+      "name": "Paulo Masters",
+      "sprite": "paulo-masters.png"
+    },
+    {
+      "id": "paxton",
+      "name": "Paxton",
+      "sprite": "paxton.png"
+    },
+    {
+      "id": "pearlclanmember",
+      "name": "Pearlclanmember",
+      "sprite": "pearlclanmember.png"
+    },
+    {
+      "id": "penny",
+      "name": "Penny",
+      "sprite": "penny.png"
+    },
+    {
+      "id": "peonia",
+      "name": "Peonia",
+      "sprite": "peonia.png"
+    },
+    {
+      "id": "peony",
+      "name": "Peony",
+      "sprite": "peony.png"
+    },
+    {
+      "id": "peony-league",
+      "name": "Peony League",
+      "sprite": "peony-league.png"
+    },
+    {
+      "id": "perrin",
+      "name": "Perrin",
+      "sprite": "perrin.png"
+    },
+    {
+      "id": "pesselle",
+      "name": "Pesselle",
+      "sprite": "pesselle.png"
+    },
+    {
+      "id": "petrel",
+      "name": "Petrel",
+      "sprite": "petrel.png"
+    },
+    {
+      "id": "phil",
+      "name": "Phil",
+      "sprite": "phil.png"
+    },
+    {
+      "id": "phoebe-gen3",
+      "name": "Phoebe Gen3",
+      "sprite": "phoebe-gen3.png"
+    },
+    {
+      "id": "phoebe-gen6",
+      "name": "Phoebe Gen6",
+      "sprite": "phoebe-gen6.png"
+    },
+    {
+      "id": "phoebe-masters",
+      "name": "Phoebe Masters",
+      "sprite": "phoebe-masters.png"
+    },
+    {
+      "id": "phorus-unite",
+      "name": "Phorus Unite",
+      "sprite": "phorus-unite.png"
+    },
+    {
+      "id": "phyco",
+      "name": "Phyco",
+      "sprite": "phyco.png"
+    },
+    {
+      "id": "picnicker",
+      "name": "Picnicker",
+      "sprite": "picnicker.png"
+    },
+    {
+      "id": "picnicker-gen2",
+      "name": "Picnicker Gen2",
+      "sprite": "picnicker-gen2.png"
+    },
+    {
+      "id": "picnicker-gen3",
+      "name": "Picnicker Gen3",
+      "sprite": "picnicker-gen3.png"
+    },
+    {
+      "id": "picnicker-gen3rs",
+      "name": "Picnicker Gen3rs",
+      "sprite": "picnicker-gen3rs.png"
+    },
+    {
+      "id": "picnicker-gen6",
+      "name": "Picnicker Gen6",
+      "sprite": "picnicker-gen6.png"
+    },
+    {
+      "id": "piers",
+      "name": "Piers",
+      "sprite": "piers.png"
+    },
+    {
+      "id": "piers-league",
+      "name": "Piers League",
+      "sprite": "piers-league.png"
+    },
+    {
+      "id": "piers-masters",
+      "name": "Piers Masters",
+      "sprite": "piers-masters.png"
+    },
+    {
+      "id": "pilot",
+      "name": "Pilot",
+      "sprite": "pilot.png"
+    },
+    {
+      "id": "plasmagrunt",
+      "name": "Plasmagrunt",
+      "sprite": "plasmagrunt.png"
+    },
+    {
+      "id": "plasmagrunt-gen5bw",
+      "name": "Plasmagrunt Gen5bw",
+      "sprite": "plasmagrunt-gen5bw.png"
+    },
+    {
+      "id": "plasmagruntf",
+      "name": "Plasmagruntf",
+      "sprite": "plasmagruntf.png"
+    },
+    {
+      "id": "plasmagruntf-gen5bw",
+      "name": "Plasmagruntf Gen5bw",
+      "sprite": "plasmagruntf-gen5bw.png"
+    },
+    {
+      "id": "player-go",
+      "name": "Player Go",
+      "sprite": "player-go.png"
+    },
+    {
+      "id": "playerf-go",
+      "name": "Playerf Go",
+      "sprite": "playerf-go.png"
+    },
+    {
+      "id": "plumeria",
+      "name": "Plumeria",
+      "sprite": "plumeria.png"
+    },
+    {
+      "id": "plumeria-league",
+      "name": "Plumeria League",
+      "sprite": "plumeria-league.png"
+    },
+    {
+      "id": "pokefan",
+      "name": "Pokefan",
+      "sprite": "pokefan.png"
+    },
+    {
+      "id": "pokefan-gen2",
+      "name": "Pokefan Gen2",
+      "sprite": "pokefan-gen2.png"
+    },
+    {
+      "id": "pokefan-gen3",
+      "name": "Pokefan Gen3",
+      "sprite": "pokefan-gen3.png"
+    },
+    {
+      "id": "pokefan-gen4",
+      "name": "Pokefan Gen4",
+      "sprite": "pokefan-gen4.png"
+    },
+    {
+      "id": "pokefan-gen6",
+      "name": "Pokefan Gen6",
+      "sprite": "pokefan-gen6.png"
+    },
+    {
+      "id": "pokefan-gen6xy",
+      "name": "Pokefan Gen6xy",
+      "sprite": "pokefan-gen6xy.png"
+    },
+    {
+      "id": "pokefanf",
+      "name": "Pokefanf",
+      "sprite": "pokefanf.png"
+    },
+    {
+      "id": "pokefanf-gen2",
+      "name": "Pokefanf Gen2",
+      "sprite": "pokefanf-gen2.png"
+    },
+    {
+      "id": "pokefanf-gen3",
+      "name": "Pokefanf Gen3",
+      "sprite": "pokefanf-gen3.png"
+    },
+    {
+      "id": "pokefanf-gen4",
+      "name": "Pokefanf Gen4",
+      "sprite": "pokefanf-gen4.png"
+    },
+    {
+      "id": "pokefanf-gen6",
+      "name": "Pokefanf Gen6",
+      "sprite": "pokefanf-gen6.png"
+    },
+    {
+      "id": "pokefanf-gen6xy",
+      "name": "Pokefanf Gen6xy",
+      "sprite": "pokefanf-gen6xy.png"
+    },
+    {
+      "id": "pokekid",
+      "name": "Pokekid",
+      "sprite": "pokekid.png"
+    },
+    {
+      "id": "pokekid-gen8",
+      "name": "Pokekid Gen8",
+      "sprite": "pokekid-gen8.png"
+    },
+    {
+      "id": "pokekidf-gen8",
+      "name": "Pokekidf Gen8",
+      "sprite": "pokekidf-gen8.png"
+    },
+    {
+      "id": "pokemaniac",
+      "name": "Pokemaniac",
+      "sprite": "pokemaniac.png"
+    },
+    {
+      "id": "pokemaniac-gen1",
+      "name": "Pokemaniac Gen1",
+      "sprite": "pokemaniac-gen1.png"
+    },
+    {
+      "id": "pokemaniac-gen1rb",
+      "name": "Pokemaniac Gen1rb",
+      "sprite": "pokemaniac-gen1rb.png"
+    },
+    {
+      "id": "pokemaniac-gen2",
+      "name": "Pokemaniac Gen2",
+      "sprite": "pokemaniac-gen2.png"
+    },
+    {
+      "id": "pokemaniac-gen3",
+      "name": "Pokemaniac Gen3",
+      "sprite": "pokemaniac-gen3.png"
+    },
+    {
+      "id": "pokemaniac-gen3rs",
+      "name": "Pokemaniac Gen3rs",
+      "sprite": "pokemaniac-gen3rs.png"
+    },
+    {
+      "id": "pokemaniac-gen6",
+      "name": "Pokemaniac Gen6",
+      "sprite": "pokemaniac-gen6.png"
+    },
+    {
+      "id": "pokemaniac-gen9",
+      "name": "Pokemaniac Gen9",
+      "sprite": "pokemaniac-gen9.png"
+    },
+    {
+      "id": "pokemonbreeder",
+      "name": "Pokemonbreeder",
+      "sprite": "pokemonbreeder.png"
+    },
+    {
+      "id": "pokemonbreeder-gen3",
+      "name": "Pokemonbreeder Gen3",
+      "sprite": "pokemonbreeder-gen3.png"
+    },
+    {
+      "id": "pokemonbreeder-gen4",
+      "name": "Pokemonbreeder Gen4",
+      "sprite": "pokemonbreeder-gen4.png"
+    },
+    {
+      "id": "pokemonbreeder-gen6",
+      "name": "Pokemonbreeder Gen6",
+      "sprite": "pokemonbreeder-gen6.png"
+    },
+    {
+      "id": "pokemonbreeder-gen6xy",
+      "name": "Pokemonbreeder Gen6xy",
+      "sprite": "pokemonbreeder-gen6xy.png"
+    },
+    {
+      "id": "pokemonbreeder-gen7",
+      "name": "Pokemonbreeder Gen7",
+      "sprite": "pokemonbreeder-gen7.png"
+    },
+    {
+      "id": "pokemonbreeder-gen8",
+      "name": "Pokemonbreeder Gen8",
+      "sprite": "pokemonbreeder-gen8.png"
+    },
+    {
+      "id": "pokemonbreederf",
+      "name": "Pokemonbreederf",
+      "sprite": "pokemonbreederf.png"
+    },
+    {
+      "id": "pokemonbreederf-gen3",
+      "name": "Pokemonbreederf Gen3",
+      "sprite": "pokemonbreederf-gen3.png"
+    },
+    {
+      "id": "pokemonbreederf-gen3frlg",
+      "name": "Pokemonbreederf Gen3frlg",
+      "sprite": "pokemonbreederf-gen3frlg.png"
+    },
+    {
+      "id": "pokemonbreederf-gen4",
+      "name": "Pokemonbreederf Gen4",
+      "sprite": "pokemonbreederf-gen4.png"
+    },
+    {
+      "id": "pokemonbreederf-gen6",
+      "name": "Pokemonbreederf Gen6",
+      "sprite": "pokemonbreederf-gen6.png"
+    },
+    {
+      "id": "pokemonbreederf-gen6xy",
+      "name": "Pokemonbreederf Gen6xy",
+      "sprite": "pokemonbreederf-gen6xy.png"
+    },
+    {
+      "id": "pokemonbreederf-gen7",
+      "name": "Pokemonbreederf Gen7",
+      "sprite": "pokemonbreederf-gen7.png"
+    },
+    {
+      "id": "pokemonbreederf-gen8",
+      "name": "Pokemonbreederf Gen8",
+      "sprite": "pokemonbreederf-gen8.png"
+    },
+    {
+      "id": "pokemoncenterlady",
+      "name": "Pokemoncenterlady",
+      "sprite": "pokemoncenterlady.png"
+    },
+    {
+      "id": "pokemonranger",
+      "name": "Pokemonranger",
+      "sprite": "pokemonranger.png"
+    },
+    {
+      "id": "pokemonranger-gen3",
+      "name": "Pokemonranger Gen3",
+      "sprite": "pokemonranger-gen3.png"
+    },
+    {
+      "id": "pokemonranger-gen3rs",
+      "name": "Pokemonranger Gen3rs",
+      "sprite": "pokemonranger-gen3rs.png"
+    },
+    {
+      "id": "pokemonranger-gen4",
+      "name": "Pokemonranger Gen4",
+      "sprite": "pokemonranger-gen4.png"
+    },
+    {
+      "id": "pokemonranger-gen6",
+      "name": "Pokemonranger Gen6",
+      "sprite": "pokemonranger-gen6.png"
+    },
+    {
+      "id": "pokemonranger-gen6xy",
+      "name": "Pokemonranger Gen6xy",
+      "sprite": "pokemonranger-gen6xy.png"
+    },
+    {
+      "id": "pokemonrangerf",
+      "name": "Pokemonrangerf",
+      "sprite": "pokemonrangerf.png"
+    },
+    {
+      "id": "pokemonrangerf-gen3",
+      "name": "Pokemonrangerf Gen3",
+      "sprite": "pokemonrangerf-gen3.png"
+    },
+    {
+      "id": "pokemonrangerf-gen3rs",
+      "name": "Pokemonrangerf Gen3rs",
+      "sprite": "pokemonrangerf-gen3rs.png"
+    },
+    {
+      "id": "pokemonrangerf-gen4",
+      "name": "Pokemonrangerf Gen4",
+      "sprite": "pokemonrangerf-gen4.png"
+    },
+    {
+      "id": "pokemonrangerf-gen6",
+      "name": "Pokemonrangerf Gen6",
+      "sprite": "pokemonrangerf-gen6.png"
+    },
+    {
+      "id": "pokemonrangerf-gen6xy",
+      "name": "Pokemonrangerf Gen6xy",
+      "sprite": "pokemonrangerf-gen6xy.png"
+    },
+    {
+      "id": "policeman",
+      "name": "Policeman",
+      "sprite": "policeman.png"
+    },
+    {
+      "id": "policeman-gen4",
+      "name": "Policeman Gen4",
+      "sprite": "policeman-gen4.png"
+    },
+    {
+      "id": "policeman-gen7",
+      "name": "Policeman Gen7",
+      "sprite": "policeman-gen7.png"
+    },
+    {
+      "id": "policeman-gen8",
+      "name": "Policeman Gen8",
+      "sprite": "policeman-gen8.png"
+    },
+    {
+      "id": "poppy",
+      "name": "Poppy",
+      "sprite": "poppy.png"
+    },
+    {
+      "id": "postman",
+      "name": "Postman",
+      "sprite": "postman.png"
+    },
+    {
+      "id": "preschooler",
+      "name": "Preschooler",
+      "sprite": "preschooler.png"
+    },
+    {
+      "id": "preschooler-gen6",
+      "name": "Preschooler Gen6",
+      "sprite": "preschooler-gen6.png"
+    },
+    {
+      "id": "preschooler-gen7",
+      "name": "Preschooler Gen7",
+      "sprite": "preschooler-gen7.png"
+    },
+    {
+      "id": "preschoolerf",
+      "name": "Preschoolerf",
+      "sprite": "preschoolerf.png"
+    },
+    {
+      "id": "preschoolerf-gen6",
+      "name": "Preschoolerf Gen6",
+      "sprite": "preschoolerf-gen6.png"
+    },
+    {
+      "id": "preschoolerf-gen7",
+      "name": "Preschoolerf Gen7",
+      "sprite": "preschoolerf-gen7.png"
+    },
+    {
+      "id": "preschoolers",
+      "name": "Preschoolers",
+      "sprite": "preschoolers.png"
+    },
+    {
+      "id": "proton",
+      "name": "Proton",
+      "sprite": "proton.png"
+    },
+    {
+      "id": "pryce",
+      "name": "Pryce",
+      "sprite": "pryce.png"
+    },
+    {
+      "id": "pryce-gen2",
+      "name": "Pryce Gen2",
+      "sprite": "pryce-gen2.png"
+    },
+    {
+      "id": "psychic",
+      "name": "Psychic",
+      "sprite": "psychic.png"
+    },
+    {
+      "id": "psychic-gen1",
+      "name": "Psychic Gen1",
+      "sprite": "psychic-gen1.png"
+    },
+    {
+      "id": "psychic-gen1rb",
+      "name": "Psychic Gen1rb",
+      "sprite": "psychic-gen1rb.png"
+    },
+    {
+      "id": "psychic-gen2",
+      "name": "Psychic Gen2",
+      "sprite": "psychic-gen2.png"
+    },
+    {
+      "id": "psychic-gen3",
+      "name": "Psychic Gen3",
+      "sprite": "psychic-gen3.png"
+    },
+    {
+      "id": "psychic-gen3rs",
+      "name": "Psychic Gen3rs",
+      "sprite": "psychic-gen3rs.png"
+    },
+    {
+      "id": "psychic-gen4",
+      "name": "Psychic Gen4",
+      "sprite": "psychic-gen4.png"
+    },
+    {
+      "id": "psychic-gen6",
+      "name": "Psychic Gen6",
+      "sprite": "psychic-gen6.png"
+    },
+    {
+      "id": "psychic-lgpe",
+      "name": "Psychic Lgpe",
+      "sprite": "psychic-lgpe.png"
+    },
+    {
+      "id": "psychicf",
+      "name": "Psychicf",
+      "sprite": "psychicf.png"
+    },
+    {
+      "id": "psychicf-gen3",
+      "name": "Psychicf Gen3",
+      "sprite": "psychicf-gen3.png"
+    },
+    {
+      "id": "psychicf-gen3rs",
+      "name": "Psychicf Gen3rs",
+      "sprite": "psychicf-gen3rs.png"
+    },
+    {
+      "id": "psychicf-gen4",
+      "name": "Psychicf Gen4",
+      "sprite": "psychicf-gen4.png"
+    },
+    {
+      "id": "psychicfjp-gen3",
+      "name": "Psychicfjp Gen3",
+      "sprite": "psychicfjp-gen3.png"
+    },
+    {
+      "id": "punkgirl",
+      "name": "Punkgirl",
+      "sprite": "punkgirl.png"
+    },
+    {
+      "id": "punkgirl-gen7",
+      "name": "Punkgirl Gen7",
+      "sprite": "punkgirl-gen7.png"
+    },
+    {
+      "id": "punkgirl-masters",
+      "name": "Punkgirl Masters",
+      "sprite": "punkgirl-masters.png"
+    },
+    {
+      "id": "punkguy",
+      "name": "Punkguy",
+      "sprite": "punkguy.png"
+    },
+    {
+      "id": "punkguy-gen7",
+      "name": "Punkguy Gen7",
+      "sprite": "punkguy-gen7.png"
+    },
+    {
+      "id": "raifort",
+      "name": "Raifort",
+      "sprite": "raifort.png"
+    },
+    {
+      "id": "raihan",
+      "name": "Raihan",
+      "sprite": "raihan.png"
+    },
+    {
+      "id": "raihan-masters",
+      "name": "Raihan Masters",
+      "sprite": "raihan-masters.png"
+    },
+    {
+      "id": "railstaff",
+      "name": "Railstaff",
+      "sprite": "railstaff.png"
+    },
+    {
+      "id": "ramos",
+      "name": "Ramos",
+      "sprite": "ramos.png"
+    },
+    {
+      "id": "rancher",
+      "name": "Rancher",
+      "sprite": "rancher.png"
+    },
+    {
+      "id": "ranmaru-conquest",
+      "name": "Ranmaru Conquest",
+      "sprite": "ranmaru-conquest.png"
+    },
+    {
+      "id": "red",
+      "name": "Red",
+      "sprite": "red.png"
+    },
+    {
+      "id": "red-gen1",
+      "name": "Red Gen1",
+      "sprite": "red-gen1.png"
+    },
+    {
+      "id": "red-gen1main",
+      "name": "Red Gen1main",
+      "sprite": "red-gen1main.png"
+    },
+    {
+      "id": "red-gen1rb",
+      "name": "Red Gen1rb",
+      "sprite": "red-gen1rb.png"
+    },
+    {
+      "id": "red-gen1title",
+      "name": "Red Gen1title",
+      "sprite": "red-gen1title.png"
+    },
+    {
+      "id": "red-gen2",
+      "name": "Red Gen2",
+      "sprite": "red-gen2.png"
+    },
+    {
+      "id": "red-gen3",
+      "name": "Red Gen3",
+      "sprite": "red-gen3.png"
+    },
+    {
+      "id": "red-gen7",
+      "name": "Red Gen7",
+      "sprite": "red-gen7.png"
+    },
+    {
+      "id": "red-lgpe",
+      "name": "Red Lgpe",
+      "sprite": "red-lgpe.png"
+    },
+    {
+      "id": "red-masters",
+      "name": "Red Masters",
+      "sprite": "red-masters.png"
+    },
+    {
+      "id": "red-masters2",
+      "name": "Red Masters2",
+      "sprite": "red-masters2.png"
+    },
+    {
+      "id": "red-masters3",
+      "name": "Red Masters3",
+      "sprite": "red-masters3.png"
+    },
+    {
+      "id": "rei",
+      "name": "Rei",
+      "sprite": "rei.png"
+    },
+    {
+      "id": "rei-isekai",
+      "name": "Rei Isekai",
+      "sprite": "rei-isekai.png"
+    },
+    {
+      "id": "reporter",
+      "name": "Reporter",
+      "sprite": "reporter.png"
+    },
+    {
+      "id": "reporter-gen6",
+      "name": "Reporter Gen6",
+      "sprite": "reporter-gen6.png"
+    },
+    {
+      "id": "reporter-gen8",
+      "name": "Reporter Gen8",
+      "sprite": "reporter-gen8.png"
+    },
+    {
+      "id": "rhi",
+      "name": "Rhi",
+      "sprite": "rhi.png"
+    },
+    {
+      "id": "richboy",
+      "name": "Richboy",
+      "sprite": "richboy.png"
+    },
+    {
+      "id": "richboy-gen3",
+      "name": "Richboy Gen3",
+      "sprite": "richboy-gen3.png"
+    },
+    {
+      "id": "richboy-gen4",
+      "name": "Richboy Gen4",
+      "sprite": "richboy-gen4.png"
+    },
+    {
+      "id": "richboy-gen6",
+      "name": "Richboy Gen6",
+      "sprite": "richboy-gen6.png"
+    },
+    {
+      "id": "richboy-gen6xy",
+      "name": "Richboy Gen6xy",
+      "sprite": "richboy-gen6xy.png"
+    },
+    {
+      "id": "rika",
+      "name": "Rika",
+      "sprite": "rika.png"
+    },
+    {
+      "id": "riley",
+      "name": "Riley",
+      "sprite": "riley.png"
+    },
+    {
+      "id": "risingstar",
+      "name": "Risingstar",
+      "sprite": "risingstar.png"
+    },
+    {
+      "id": "risingstar-gen6",
+      "name": "Risingstar Gen6",
+      "sprite": "risingstar-gen6.png"
+    },
+    {
+      "id": "risingstarf",
+      "name": "Risingstarf",
+      "sprite": "risingstarf.png"
+    },
+    {
+      "id": "risingstarf-gen6",
+      "name": "Risingstarf Gen6",
+      "sprite": "risingstarf-gen6.png"
+    },
+    {
+      "id": "rita",
+      "name": "Rita",
+      "sprite": "rita.png"
+    },
+    {
+      "id": "river",
+      "name": "River",
+      "sprite": "river.png"
+    },
+    {
+      "id": "roark",
+      "name": "Roark",
+      "sprite": "roark.png"
+    },
+    {
+      "id": "rocker-gen1",
+      "name": "Rocker Gen1",
+      "sprite": "rocker-gen1.png"
+    },
+    {
+      "id": "rocker-gen1rb",
+      "name": "Rocker Gen1rb",
+      "sprite": "rocker-gen1rb.png"
+    },
+    {
+      "id": "rocker-gen3",
+      "name": "Rocker Gen3",
+      "sprite": "rocker-gen3.png"
+    },
+    {
+      "id": "rocket-gen1",
+      "name": "Rocket Gen1",
+      "sprite": "rocket-gen1.png"
+    },
+    {
+      "id": "rocket-gen1rb",
+      "name": "Rocket Gen1rb",
+      "sprite": "rocket-gen1rb.png"
+    },
+    {
+      "id": "rocketexecutive-gen2",
+      "name": "Rocketexecutive Gen2",
+      "sprite": "rocketexecutive-gen2.png"
+    },
+    {
+      "id": "rocketexecutivef-gen2",
+      "name": "Rocketexecutivef Gen2",
+      "sprite": "rocketexecutivef-gen2.png"
+    },
+    {
+      "id": "rocketgrunt",
+      "name": "Rocketgrunt",
+      "sprite": "rocketgrunt.png"
+    },
+    {
+      "id": "rocketgrunt-gen2",
+      "name": "Rocketgrunt Gen2",
+      "sprite": "rocketgrunt-gen2.png"
+    },
+    {
+      "id": "rocketgruntf",
+      "name": "Rocketgruntf",
+      "sprite": "rocketgruntf.png"
+    },
+    {
+      "id": "rocketgruntf-gen2",
+      "name": "Rocketgruntf Gen2",
+      "sprite": "rocketgruntf-gen2.png"
+    },
+    {
+      "id": "rollerskater",
+      "name": "Rollerskater",
+      "sprite": "rollerskater.png"
+    },
+    {
+      "id": "rollerskaterf",
+      "name": "Rollerskaterf",
+      "sprite": "rollerskaterf.png"
+    },
+    {
+      "id": "rood",
+      "name": "Rood",
+      "sprite": "rood.png"
+    },
+    {
+      "id": "rosa",
+      "name": "Rosa",
+      "sprite": "rosa.png"
+    },
+    {
+      "id": "rosa-masters",
+      "name": "Rosa Masters",
+      "sprite": "rosa-masters.png"
+    },
+    {
+      "id": "rosa-masters2",
+      "name": "Rosa Masters2",
+      "sprite": "rosa-masters2.png"
+    },
+    {
+      "id": "rosa-masters3",
+      "name": "Rosa Masters3",
+      "sprite": "rosa-masters3.png"
+    },
+    {
+      "id": "rosa-pokestar",
+      "name": "Rosa Pokestar",
+      "sprite": "rosa-pokestar.png"
+    },
+    {
+      "id": "rosa-pokestar2",
+      "name": "Rosa Pokestar2",
+      "sprite": "rosa-pokestar2.png"
+    },
+    {
+      "id": "rosa-pokestar3",
+      "name": "Rosa Pokestar3",
+      "sprite": "rosa-pokestar3.png"
+    },
+    {
+      "id": "rosa-wonderlauncher",
+      "name": "Rosa Wonderlauncher",
+      "sprite": "rosa-wonderlauncher.png"
+    },
+    {
+      "id": "rose",
+      "name": "Rose",
+      "sprite": "rose.png"
+    },
+    {
+      "id": "rose-zerosuit",
+      "name": "Rose Zerosuit",
+      "sprite": "rose-zerosuit.png"
+    },
+    {
+      "id": "roughneck",
+      "name": "Roughneck",
+      "sprite": "roughneck.png"
+    },
+    {
+      "id": "roughneck-gen4",
+      "name": "Roughneck Gen4",
+      "sprite": "roughneck-gen4.png"
+    },
+    {
+      "id": "rowan",
+      "name": "Rowan",
+      "sprite": "rowan.png"
+    },
+    {
+      "id": "roxanne",
+      "name": "Roxanne",
+      "sprite": "roxanne.png"
+    },
+    {
+      "id": "roxanne-gen3",
+      "name": "Roxanne Gen3",
+      "sprite": "roxanne-gen3.png"
+    },
+    {
+      "id": "roxanne-gen6",
+      "name": "Roxanne Gen6",
+      "sprite": "roxanne-gen6.png"
+    },
+    {
+      "id": "roxanne-masters",
+      "name": "Roxanne Masters",
+      "sprite": "roxanne-masters.png"
+    },
+    {
+      "id": "roxie",
+      "name": "Roxie",
+      "sprite": "roxie.png"
+    },
+    {
+      "id": "roxie-masters",
+      "name": "Roxie Masters",
+      "sprite": "roxie-masters.png"
+    },
+    {
+      "id": "roy",
+      "name": "Roy",
+      "sprite": "roy.png"
+    },
+    {
+      "id": "ruffian",
+      "name": "Ruffian",
+      "sprite": "ruffian.png"
+    },
+    {
+      "id": "ruinmaniac",
+      "name": "Ruinmaniac",
+      "sprite": "ruinmaniac.png"
+    },
+    {
+      "id": "ruinmaniac-gen3",
+      "name": "Ruinmaniac Gen3",
+      "sprite": "ruinmaniac-gen3.png"
+    },
+    {
+      "id": "ruinmaniac-gen3rs",
+      "name": "Ruinmaniac Gen3rs",
+      "sprite": "ruinmaniac-gen3rs.png"
+    },
+    {
+      "id": "ruinmaniac-gen6",
+      "name": "Ruinmaniac Gen6",
+      "sprite": "ruinmaniac-gen6.png"
+    },
+    {
+      "id": "rye",
+      "name": "Rye",
+      "sprite": "rye.png"
+    },
+    {
+      "id": "ryme",
+      "name": "Ryme",
+      "sprite": "ryme.png"
+    },
+    {
+      "id": "ryuki",
+      "name": "Ryuki",
+      "sprite": "ryuki.png"
+    },
+    {
+      "id": "sabi",
+      "name": "Sabi",
+      "sprite": "sabi.png"
+    },
+    {
+      "id": "sabrina",
+      "name": "Sabrina",
+      "sprite": "sabrina.png"
+    },
+    {
+      "id": "sabrina-frlg",
+      "name": "Sabrina Frlg",
+      "sprite": "sabrina-frlg.png"
+    },
+    {
+      "id": "sabrina-gen1",
+      "name": "Sabrina Gen1",
+      "sprite": "sabrina-gen1.png"
+    },
+    {
+      "id": "sabrina-gen1rb",
+      "name": "Sabrina Gen1rb",
+      "sprite": "sabrina-gen1rb.png"
+    },
+    {
+      "id": "sabrina-gen2",
+      "name": "Sabrina Gen2",
+      "sprite": "sabrina-gen2.png"
+    },
+    {
+      "id": "sabrina-gen3",
+      "name": "Sabrina Gen3",
+      "sprite": "sabrina-gen3.png"
+    },
+    {
+      "id": "sabrina-lgpe",
+      "name": "Sabrina Lgpe",
+      "sprite": "sabrina-lgpe.png"
+    },
+    {
+      "id": "sabrina-masters",
+      "name": "Sabrina Masters",
+      "sprite": "sabrina-masters.png"
+    },
+    {
+      "id": "sada",
+      "name": "Sada",
+      "sprite": "sada.png"
+    },
+    {
+      "id": "sada-ai",
+      "name": "Sada Ai",
+      "sprite": "sada-ai.png"
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "sprite": "sage.png"
+    },
+    {
+      "id": "sage-gen2",
+      "name": "Sage Gen2",
+      "sprite": "sage-gen2.png"
+    },
+    {
+      "id": "sage-gen2jp",
+      "name": "Sage Gen2jp",
+      "sprite": "sage-gen2jp.png"
+    },
+    {
+      "id": "saguaro",
+      "name": "Saguaro",
+      "sprite": "saguaro.png"
+    },
+    {
+      "id": "sailor",
+      "name": "Sailor",
+      "sprite": "sailor.png"
+    },
+    {
+      "id": "sailor-gen1",
+      "name": "Sailor Gen1",
+      "sprite": "sailor-gen1.png"
+    },
+    {
+      "id": "sailor-gen1rb",
+      "name": "Sailor Gen1rb",
+      "sprite": "sailor-gen1rb.png"
+    },
+    {
+      "id": "sailor-gen2",
+      "name": "Sailor Gen2",
+      "sprite": "sailor-gen2.png"
+    },
+    {
+      "id": "sailor-gen3",
+      "name": "Sailor Gen3",
+      "sprite": "sailor-gen3.png"
+    },
+    {
+      "id": "sailor-gen3jp",
+      "name": "Sailor Gen3jp",
+      "sprite": "sailor-gen3jp.png"
+    },
+    {
+      "id": "sailor-gen3rs",
+      "name": "Sailor Gen3rs",
+      "sprite": "sailor-gen3rs.png"
+    },
+    {
+      "id": "sailor-gen6",
+      "name": "Sailor Gen6",
+      "sprite": "sailor-gen6.png"
+    },
+    {
+      "id": "salvatore",
+      "name": "Salvatore",
+      "sprite": "salvatore.png"
+    },
+    {
+      "id": "samsonoak",
+      "name": "Samsonoak",
+      "sprite": "samsonoak.png"
+    },
+    {
+      "id": "sanqua",
+      "name": "Sanqua",
+      "sprite": "sanqua.png"
+    },
+    {
+      "id": "saturn",
+      "name": "Saturn",
+      "sprite": "saturn.png"
+    },
+    {
+      "id": "schoolboy",
+      "name": "Schoolboy",
+      "sprite": "schoolboy.png"
+    },
+    {
+      "id": "schoolboy-gen2",
+      "name": "Schoolboy Gen2",
+      "sprite": "schoolboy-gen2.png"
+    },
+    {
+      "id": "schoolgirl",
+      "name": "Schoolgirl",
+      "sprite": "schoolgirl.png"
+    },
+    {
+      "id": "schoolkid",
+      "name": "Schoolkid",
+      "sprite": "schoolkid.png"
+    },
+    {
+      "id": "schoolkid-gen3",
+      "name": "Schoolkid Gen3",
+      "sprite": "schoolkid-gen3.png"
+    },
+    {
+      "id": "schoolkid-gen4",
+      "name": "Schoolkid Gen4",
+      "sprite": "schoolkid-gen4.png"
+    },
+    {
+      "id": "schoolkid-gen4dp",
+      "name": "Schoolkid Gen4dp",
+      "sprite": "schoolkid-gen4dp.png"
+    },
+    {
+      "id": "schoolkid-gen6",
+      "name": "Schoolkid Gen6",
+      "sprite": "schoolkid-gen6.png"
+    },
+    {
+      "id": "schoolkid-gen8",
+      "name": "Schoolkid Gen8",
+      "sprite": "schoolkid-gen8.png"
+    },
+    {
+      "id": "schoolkidf",
+      "name": "Schoolkidf",
+      "sprite": "schoolkidf.png"
+    },
+    {
+      "id": "schoolkidf-gen3",
+      "name": "Schoolkidf Gen3",
+      "sprite": "schoolkidf-gen3.png"
+    },
+    {
+      "id": "schoolkidf-gen4",
+      "name": "Schoolkidf Gen4",
+      "sprite": "schoolkidf-gen4.png"
+    },
+    {
+      "id": "schoolkidf-gen6",
+      "name": "Schoolkidf Gen6",
+      "sprite": "schoolkidf-gen6.png"
+    },
+    {
+      "id": "schoolkidf-gen8",
+      "name": "Schoolkidf Gen8",
+      "sprite": "schoolkidf-gen8.png"
+    },
+    {
+      "id": "scientist",
+      "name": "Scientist",
+      "sprite": "scientist.png"
+    },
+    {
+      "id": "scientist-gen1",
+      "name": "Scientist Gen1",
+      "sprite": "scientist-gen1.png"
+    },
+    {
+      "id": "scientist-gen1rb",
+      "name": "Scientist Gen1rb",
+      "sprite": "scientist-gen1rb.png"
+    },
+    {
+      "id": "scientist-gen2",
+      "name": "Scientist Gen2",
+      "sprite": "scientist-gen2.png"
+    },
+    {
+      "id": "scientist-gen3",
+      "name": "Scientist Gen3",
+      "sprite": "scientist-gen3.png"
+    },
+    {
+      "id": "scientist-gen4",
+      "name": "Scientist Gen4",
+      "sprite": "scientist-gen4.png"
+    },
+    {
+      "id": "scientist-gen4dp",
+      "name": "Scientist Gen4dp",
+      "sprite": "scientist-gen4dp.png"
+    },
+    {
+      "id": "scientist-gen6",
+      "name": "Scientist Gen6",
+      "sprite": "scientist-gen6.png"
+    },
+    {
+      "id": "scientist-gen7",
+      "name": "Scientist Gen7",
+      "sprite": "scientist-gen7.png"
+    },
+    {
+      "id": "scientist-gen9",
+      "name": "Scientist Gen9",
+      "sprite": "scientist-gen9.png"
+    },
+    {
+      "id": "scientistf",
+      "name": "Scientistf",
+      "sprite": "scientistf.png"
+    },
+    {
+      "id": "scientistf-gen6",
+      "name": "Scientistf Gen6",
+      "sprite": "scientistf-gen6.png"
+    },
+    {
+      "id": "scott",
+      "name": "Scott",
+      "sprite": "scott.png"
+    },
+    {
+      "id": "scottie-masters",
+      "name": "Scottie Masters",
+      "sprite": "scottie-masters.png"
+    },
+    {
+      "id": "scubadiver",
+      "name": "Scubadiver",
+      "sprite": "scubadiver.png"
+    },
+    {
+      "id": "securitycorps",
+      "name": "Securitycorps",
+      "sprite": "securitycorps.png"
+    },
+    {
+      "id": "securitycorpsf",
+      "name": "Securitycorpsf",
+      "sprite": "securitycorpsf.png"
+    },
+    {
+      "id": "selene",
+      "name": "Selene",
+      "sprite": "selene.png"
+    },
+    {
+      "id": "selene-masters",
+      "name": "Selene Masters",
+      "sprite": "selene-masters.png"
+    },
+    {
+      "id": "selene-masters2",
+      "name": "Selene Masters2",
+      "sprite": "selene-masters2.png"
+    },
+    {
+      "id": "selene-usum",
+      "name": "Selene Usum",
+      "sprite": "selene-usum.png"
+    },
+    {
+      "id": "serena",
+      "name": "Serena",
+      "sprite": "serena.png"
+    },
+    {
+      "id": "serena-anime",
+      "name": "Serena Anime",
+      "sprite": "serena-anime.png"
+    },
+    {
+      "id": "serena-masters",
+      "name": "Serena Masters",
+      "sprite": "serena-masters.png"
+    },
+    {
+      "id": "serena-masters2",
+      "name": "Serena Masters2",
+      "sprite": "serena-masters2.png"
+    },
+    {
+      "id": "serena-masters3",
+      "name": "Serena Masters3",
+      "sprite": "serena-masters3.png"
+    },
+    {
+      "id": "shadowtriad",
+      "name": "Shadowtriad",
+      "sprite": "shadowtriad.png"
+    },
+    {
+      "id": "shauna",
+      "name": "Shauna",
+      "sprite": "shauna.png"
+    },
+    {
+      "id": "shauna-masters",
+      "name": "Shauna Masters",
+      "sprite": "shauna-masters.png"
+    },
+    {
+      "id": "shauntal",
+      "name": "Shauntal",
+      "sprite": "shauntal.png"
+    },
+    {
+      "id": "shauntal-masters",
+      "name": "Shauntal Masters",
+      "sprite": "shauntal-masters.png"
+    },
+    {
+      "id": "shelly",
+      "name": "Shelly",
+      "sprite": "shelly.png"
+    },
+    {
+      "id": "shelly-gen3",
+      "name": "Shelly Gen3",
+      "sprite": "shelly-gen3.png"
+    },
+    {
+      "id": "shielbert",
+      "name": "Shielbert",
+      "sprite": "shielbert.png"
+    },
+    {
+      "id": "sidney",
+      "name": "Sidney",
+      "sprite": "sidney.png"
+    },
+    {
+      "id": "sidney-gen3",
+      "name": "Sidney Gen3",
+      "sprite": "sidney-gen3.png"
+    },
+    {
+      "id": "siebold",
+      "name": "Siebold",
+      "sprite": "siebold.png"
+    },
+    {
+      "id": "siebold-masters",
+      "name": "Siebold Masters",
+      "sprite": "siebold-masters.png"
+    },
+    {
+      "id": "sierra",
+      "name": "Sierra",
+      "sprite": "sierra.png"
+    },
+    {
+      "id": "sightseer",
+      "name": "Sightseer",
+      "sprite": "sightseer.png"
+    },
+    {
+      "id": "sightseerf",
+      "name": "Sightseerf",
+      "sprite": "sightseerf.png"
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "sprite": "silver.png"
+    },
+    {
+      "id": "silver-gen2",
+      "name": "Silver Gen2",
+      "sprite": "silver-gen2.png"
+    },
+    {
+      "id": "silver-gen2kanto",
+      "name": "Silver Gen2kanto",
+      "sprite": "silver-gen2kanto.png"
+    },
+    {
+      "id": "silver-masters",
+      "name": "Silver Masters",
+      "sprite": "silver-masters.png"
+    },
+    {
+      "id": "sina",
+      "name": "Sina",
+      "sprite": "sina.png"
+    },
+    {
+      "id": "sina-gen6",
+      "name": "Sina Gen6",
+      "sprite": "sina-gen6.png"
+    },
+    {
+      "id": "sisandbro",
+      "name": "Sisandbro",
+      "sprite": "sisandbro.png"
+    },
+    {
+      "id": "sisandbro-gen3",
+      "name": "Sisandbro Gen3",
+      "sprite": "sisandbro-gen3.png"
+    },
+    {
+      "id": "sisandbro-gen3rs",
+      "name": "Sisandbro Gen3rs",
+      "sprite": "sisandbro-gen3rs.png"
+    },
+    {
+      "id": "skier",
+      "name": "Skier",
+      "sprite": "skier.png"
+    },
+    {
+      "id": "skier-gen2",
+      "name": "Skier Gen2",
+      "sprite": "skier-gen2.png"
+    },
+    {
+      "id": "skierf",
+      "name": "Skierf",
+      "sprite": "skierf.png"
+    },
+    {
+      "id": "skierf-gen4dp",
+      "name": "Skierf Gen4dp",
+      "sprite": "skierf-gen4dp.png"
+    },
+    {
+      "id": "skullgrunt",
+      "name": "Skullgrunt",
+      "sprite": "skullgrunt.png"
+    },
+    {
+      "id": "skullgruntf",
+      "name": "Skullgruntf",
+      "sprite": "skullgruntf.png"
+    },
+    {
+      "id": "skyla",
+      "name": "Skyla",
+      "sprite": "skyla.png"
+    },
+    {
+      "id": "skyla-masters",
+      "name": "Skyla Masters",
+      "sprite": "skyla-masters.png"
+    },
+    {
+      "id": "skyla-masters2",
+      "name": "Skyla Masters2",
+      "sprite": "skyla-masters2.png"
+    },
+    {
+      "id": "skytrainer",
+      "name": "Skytrainer",
+      "sprite": "skytrainer.png"
+    },
+    {
+      "id": "skytrainerf",
+      "name": "Skytrainerf",
+      "sprite": "skytrainerf.png"
+    },
+    {
+      "id": "smasher",
+      "name": "Smasher",
+      "sprite": "smasher.png"
+    },
+    {
+      "id": "soliera",
+      "name": "Soliera",
+      "sprite": "soliera.png"
+    },
+    {
+      "id": "sonia",
+      "name": "Sonia",
+      "sprite": "sonia.png"
+    },
+    {
+      "id": "sonia-masters",
+      "name": "Sonia Masters",
+      "sprite": "sonia-masters.png"
+    },
+    {
+      "id": "sonia-professor",
+      "name": "Sonia Professor",
+      "sprite": "sonia-professor.png"
+    },
+    {
+      "id": "sophocles",
+      "name": "Sophocles",
+      "sprite": "sophocles.png"
+    },
+    {
+      "id": "sordward",
+      "name": "Sordward",
+      "sprite": "sordward.png"
+    },
+    {
+      "id": "sordward-shielbert",
+      "name": "Sordward Shielbert",
+      "sprite": "sordward-shielbert.png"
+    },
+    {
+      "id": "spark",
+      "name": "Spark",
+      "sprite": "spark.png"
+    },
+    {
+      "id": "spark-casual",
+      "name": "Spark Casual",
+      "sprite": "spark-casual.png"
+    },
+    {
+      "id": "spenser",
+      "name": "Spenser",
+      "sprite": "spenser.png"
+    },
+    {
+      "id": "spenser-gen3",
+      "name": "Spenser Gen3",
+      "sprite": "spenser-gen3.png"
+    },
+    {
+      "id": "srandjr-gen3",
+      "name": "Srandjr Gen3",
+      "sprite": "srandjr-gen3.png"
+    },
+    {
+      "id": "stargrunt-s",
+      "name": "Stargrunt S",
+      "sprite": "stargrunt-s.png"
+    },
+    {
+      "id": "stargrunt-v",
+      "name": "Stargrunt V",
+      "sprite": "stargrunt-v.png"
+    },
+    {
+      "id": "stargruntf-s",
+      "name": "Stargruntf S",
+      "sprite": "stargruntf-s.png"
+    },
+    {
+      "id": "stargruntf-v",
+      "name": "Stargruntf V",
+      "sprite": "stargruntf-v.png"
+    },
+    {
+      "id": "steven",
+      "name": "Steven",
+      "sprite": "steven.png"
+    },
+    {
+      "id": "steven-gen3",
+      "name": "Steven Gen3",
+      "sprite": "steven-gen3.png"
+    },
+    {
+      "id": "steven-gen6",
+      "name": "Steven Gen6",
+      "sprite": "steven-gen6.png"
+    },
+    {
+      "id": "steven-masters",
+      "name": "Steven Masters",
+      "sprite": "steven-masters.png"
+    },
+    {
+      "id": "steven-masters2",
+      "name": "Steven Masters2",
+      "sprite": "steven-masters2.png"
+    },
+    {
+      "id": "steven-masters3",
+      "name": "Steven Masters3",
+      "sprite": "steven-masters3.png"
+    },
+    {
+      "id": "steven-masters4",
+      "name": "Steven Masters4",
+      "sprite": "steven-masters4.png"
+    },
+    {
+      "id": "streetthug",
+      "name": "Streetthug",
+      "sprite": "streetthug.png"
+    },
+    {
+      "id": "streetthug-masters",
+      "name": "Streetthug Masters",
+      "sprite": "streetthug-masters.png"
+    },
+    {
+      "id": "striker",
+      "name": "Striker",
+      "sprite": "striker.png"
+    },
+    {
+      "id": "supernerd",
+      "name": "Supernerd",
+      "sprite": "supernerd.png"
+    },
+    {
+      "id": "supernerd-gen1",
+      "name": "Supernerd Gen1",
+      "sprite": "supernerd-gen1.png"
+    },
+    {
+      "id": "supernerd-gen1rb",
+      "name": "Supernerd Gen1rb",
+      "sprite": "supernerd-gen1rb.png"
+    },
+    {
+      "id": "supernerd-gen2",
+      "name": "Supernerd Gen2",
+      "sprite": "supernerd-gen2.png"
+    },
+    {
+      "id": "supernerd-gen3",
+      "name": "Supernerd Gen3",
+      "sprite": "supernerd-gen3.png"
+    },
+    {
+      "id": "surfer",
+      "name": "Surfer",
+      "sprite": "surfer.png"
+    },
+    {
+      "id": "swimmer",
+      "name": "Swimmer",
+      "sprite": "swimmer.png"
+    },
+    {
+      "id": "swimmer-gen1",
+      "name": "Swimmer Gen1",
+      "sprite": "swimmer-gen1.png"
+    },
+    {
+      "id": "swimmer-gen1rb",
+      "name": "Swimmer Gen1rb",
+      "sprite": "swimmer-gen1rb.png"
+    },
+    {
+      "id": "swimmer-gen4",
+      "name": "Swimmer Gen4",
+      "sprite": "swimmer-gen4.png"
+    },
+    {
+      "id": "swimmer-gen4dp",
+      "name": "Swimmer Gen4dp",
+      "sprite": "swimmer-gen4dp.png"
+    },
+    {
+      "id": "swimmer-gen4jp",
+      "name": "Swimmer Gen4jp",
+      "sprite": "swimmer-gen4jp.png"
+    },
+    {
+      "id": "swimmer-gen6",
+      "name": "Swimmer Gen6",
+      "sprite": "swimmer-gen6.png"
+    },
+    {
+      "id": "swimmer-gen7",
+      "name": "Swimmer Gen7",
+      "sprite": "swimmer-gen7.png"
+    },
+    {
+      "id": "swimmer-gen8",
+      "name": "Swimmer Gen8",
+      "sprite": "swimmer-gen8.png"
+    },
+    {
+      "id": "swimmer-masters",
+      "name": "Swimmer Masters",
+      "sprite": "swimmer-masters.png"
+    },
+    {
+      "id": "swimmerf",
+      "name": "Swimmerf",
+      "sprite": "swimmerf.png"
+    },
+    {
+      "id": "swimmerf-gen2",
+      "name": "Swimmerf Gen2",
+      "sprite": "swimmerf-gen2.png"
+    },
+    {
+      "id": "swimmerf-gen3",
+      "name": "Swimmerf Gen3",
+      "sprite": "swimmerf-gen3.png"
+    },
+    {
+      "id": "swimmerf-gen3rs",
+      "name": "Swimmerf Gen3rs",
+      "sprite": "swimmerf-gen3rs.png"
+    },
+    {
+      "id": "swimmerf-gen4",
+      "name": "Swimmerf Gen4",
+      "sprite": "swimmerf-gen4.png"
+    },
+    {
+      "id": "swimmerf-gen4dp",
+      "name": "Swimmerf Gen4dp",
+      "sprite": "swimmerf-gen4dp.png"
+    },
+    {
+      "id": "swimmerf-gen6",
+      "name": "Swimmerf Gen6",
+      "sprite": "swimmerf-gen6.png"
+    },
+    {
+      "id": "swimmerf-gen7",
+      "name": "Swimmerf Gen7",
+      "sprite": "swimmerf-gen7.png"
+    },
+    {
+      "id": "swimmerf-gen8",
+      "name": "Swimmerf Gen8",
+      "sprite": "swimmerf-gen8.png"
+    },
+    {
+      "id": "swimmerf2-gen6",
+      "name": "Swimmerf2 Gen6",
+      "sprite": "swimmerf2-gen6.png"
+    },
+    {
+      "id": "swimmerf2-gen7",
+      "name": "Swimmerf2 Gen7",
+      "sprite": "swimmerf2-gen7.png"
+    },
+    {
+      "id": "swimmerfjp-gen2",
+      "name": "Swimmerfjp Gen2",
+      "sprite": "swimmerfjp-gen2.png"
+    },
+    {
+      "id": "swimmerm-gen2",
+      "name": "Swimmerm Gen2",
+      "sprite": "swimmerm-gen2.png"
+    },
+    {
+      "id": "swimmerm-gen3",
+      "name": "Swimmerm Gen3",
+      "sprite": "swimmerm-gen3.png"
+    },
+    {
+      "id": "swimmerm-gen3rs",
+      "name": "Swimmerm Gen3rs",
+      "sprite": "swimmerm-gen3rs.png"
+    },
+    {
+      "id": "sycamore",
+      "name": "Sycamore",
+      "sprite": "sycamore.png"
+    },
+    {
+      "id": "sycamore-masters",
+      "name": "Sycamore Masters",
+      "sprite": "sycamore-masters.png"
+    },
+    {
+      "id": "tabitha",
+      "name": "Tabitha",
+      "sprite": "tabitha.png"
+    },
+    {
+      "id": "tabitha-gen3",
+      "name": "Tabitha Gen3",
+      "sprite": "tabitha-gen3.png"
+    },
+    {
+      "id": "tamer-gen1",
+      "name": "Tamer Gen1",
+      "sprite": "tamer-gen1.png"
+    },
+    {
+      "id": "tamer-gen1rb",
+      "name": "Tamer Gen1rb",
+      "sprite": "tamer-gen1rb.png"
+    },
+    {
+      "id": "tamer-gen3",
+      "name": "Tamer Gen3",
+      "sprite": "tamer-gen3.png"
+    },
+    {
+      "id": "taohua",
+      "name": "Taohua",
+      "sprite": "taohua.png"
+    },
+    {
+      "id": "tate",
+      "name": "Tate",
+      "sprite": "tate.png"
+    },
+    {
+      "id": "tate-gen6",
+      "name": "Tate Gen6",
+      "sprite": "tate-gen6.png"
+    },
+    {
+      "id": "tate-masters",
+      "name": "Tate Masters",
+      "sprite": "tate-masters.png"
+    },
+    {
+      "id": "tateandliza-gen3",
+      "name": "Tateandliza Gen3",
+      "sprite": "tateandliza-gen3.png"
+    },
+    {
+      "id": "tateandliza-gen6",
+      "name": "Tateandliza Gen6",
+      "sprite": "tateandliza-gen6.png"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "sprite": "teacher.png"
+    },
+    {
+      "id": "teacher-gen2",
+      "name": "Teacher Gen2",
+      "sprite": "teacher-gen2.png"
+    },
+    {
+      "id": "teacher-gen7",
+      "name": "Teacher Gen7",
+      "sprite": "teacher-gen7.png"
+    },
+    {
+      "id": "teamaquabeta-gen3",
+      "name": "Teamaquabeta Gen3",
+      "sprite": "teamaquabeta-gen3.png"
+    },
+    {
+      "id": "teamaquagruntf-gen3",
+      "name": "Teamaquagruntf Gen3",
+      "sprite": "teamaquagruntf-gen3.png"
+    },
+    {
+      "id": "teamaquagruntm-gen3",
+      "name": "Teamaquagruntm Gen3",
+      "sprite": "teamaquagruntm-gen3.png"
+    },
+    {
+      "id": "teammagmagruntf-gen3",
+      "name": "Teammagmagruntf Gen3",
+      "sprite": "teammagmagruntf-gen3.png"
+    },
+    {
+      "id": "teammagmagruntm-gen3",
+      "name": "Teammagmagruntm Gen3",
+      "sprite": "teammagmagruntm-gen3.png"
+    },
+    {
+      "id": "teammates",
+      "name": "Teammates",
+      "sprite": "teammates.png"
+    },
+    {
+      "id": "teamrocket",
+      "name": "Teamrocket",
+      "sprite": "teamrocket.png"
+    },
+    {
+      "id": "teamrocketgruntf-gen3",
+      "name": "Teamrocketgruntf Gen3",
+      "sprite": "teamrocketgruntf-gen3.png"
+    },
+    {
+      "id": "teamrocketgruntm-gen3",
+      "name": "Teamrocketgruntm Gen3",
+      "sprite": "teamrocketgruntm-gen3.png"
+    },
+    {
+      "id": "theroyal",
+      "name": "Theroyal",
+      "sprite": "theroyal.png"
+    },
+    {
+      "id": "thorton",
+      "name": "Thorton",
+      "sprite": "thorton.png"
+    },
+    {
+      "id": "tierno",
+      "name": "Tierno",
+      "sprite": "tierno.png"
+    },
+    {
+      "id": "tina-masters",
+      "name": "Tina Masters",
+      "sprite": "tina-masters.png"
+    },
+    {
+      "id": "toddsnap",
+      "name": "Toddsnap",
+      "sprite": "toddsnap.png"
+    },
+    {
+      "id": "toddsnap2",
+      "name": "Toddsnap2",
+      "sprite": "toddsnap2.png"
+    },
+    {
+      "id": "tourist",
+      "name": "Tourist",
+      "sprite": "tourist.png"
+    },
+    {
+      "id": "touristf",
+      "name": "Touristf",
+      "sprite": "touristf.png"
+    },
+    {
+      "id": "touristf2",
+      "name": "Touristf2",
+      "sprite": "touristf2.png"
+    },
+    {
+      "id": "trace",
+      "name": "Trace",
+      "sprite": "trace.png"
+    },
+    {
+      "id": "trevor",
+      "name": "Trevor",
+      "sprite": "trevor.png"
+    },
+    {
+      "id": "trialguide",
+      "name": "Trialguide",
+      "sprite": "trialguide.png"
+    },
+    {
+      "id": "trialguidef",
+      "name": "Trialguidef",
+      "sprite": "trialguidef.png"
+    },
+    {
+      "id": "triathletebiker-gen6",
+      "name": "Triathletebiker Gen6",
+      "sprite": "triathletebiker-gen6.png"
+    },
+    {
+      "id": "triathletebikerf-gen3",
+      "name": "Triathletebikerf Gen3",
+      "sprite": "triathletebikerf-gen3.png"
+    },
+    {
+      "id": "triathletebikerm-gen3",
+      "name": "Triathletebikerm Gen3",
+      "sprite": "triathletebikerm-gen3.png"
+    },
+    {
+      "id": "triathleterunner-gen6",
+      "name": "Triathleterunner Gen6",
+      "sprite": "triathleterunner-gen6.png"
+    },
+    {
+      "id": "triathleterunnerf-gen3",
+      "name": "Triathleterunnerf Gen3",
+      "sprite": "triathleterunnerf-gen3.png"
+    },
+    {
+      "id": "triathleterunnerm-gen3",
+      "name": "Triathleterunnerm Gen3",
+      "sprite": "triathleterunnerm-gen3.png"
+    },
+    {
+      "id": "triathleteswimmer-gen6",
+      "name": "Triathleteswimmer Gen6",
+      "sprite": "triathleteswimmer-gen6.png"
+    },
+    {
+      "id": "triathleteswimmerf-gen3",
+      "name": "Triathleteswimmerf Gen3",
+      "sprite": "triathleteswimmerf-gen3.png"
+    },
+    {
+      "id": "triathleteswimmerm-gen3",
+      "name": "Triathleteswimmerm Gen3",
+      "sprite": "triathleteswimmerm-gen3.png"
+    },
+    {
+      "id": "tuber",
+      "name": "Tuber",
+      "sprite": "tuber.png"
+    },
+    {
+      "id": "tuber-gen3",
+      "name": "Tuber Gen3",
+      "sprite": "tuber-gen3.png"
+    },
+    {
+      "id": "tuber-gen6",
+      "name": "Tuber Gen6",
+      "sprite": "tuber-gen6.png"
+    },
+    {
+      "id": "tuberf",
+      "name": "Tuberf",
+      "sprite": "tuberf.png"
+    },
+    {
+      "id": "tuberf-gen3",
+      "name": "Tuberf Gen3",
+      "sprite": "tuberf-gen3.png"
+    },
+    {
+      "id": "tuberf-gen3rs",
+      "name": "Tuberf Gen3rs",
+      "sprite": "tuberf-gen3rs.png"
+    },
+    {
+      "id": "tuberf-gen6",
+      "name": "Tuberf Gen6",
+      "sprite": "tuberf-gen6.png"
+    },
+    {
+      "id": "tucker",
+      "name": "Tucker",
+      "sprite": "tucker.png"
+    },
+    {
+      "id": "tucker-gen3",
+      "name": "Tucker Gen3",
+      "sprite": "tucker-gen3.png"
+    },
+    {
+      "id": "tuli",
+      "name": "Tuli",
+      "sprite": "tuli.png"
+    },
+    {
+      "id": "tulip",
+      "name": "Tulip",
+      "sprite": "tulip.png"
+    },
+    {
+      "id": "turo",
+      "name": "Turo",
+      "sprite": "turo.png"
+    },
+    {
+      "id": "turo-ai",
+      "name": "Turo Ai",
+      "sprite": "turo-ai.png"
+    },
+    {
+      "id": "twins",
+      "name": "Twins",
+      "sprite": "twins.png"
+    },
+    {
+      "id": "twins-gen2",
+      "name": "Twins Gen2",
+      "sprite": "twins-gen2.png"
+    },
+    {
+      "id": "twins-gen3",
+      "name": "Twins Gen3",
+      "sprite": "twins-gen3.png"
+    },
+    {
+      "id": "twins-gen3rs",
+      "name": "Twins Gen3rs",
+      "sprite": "twins-gen3rs.png"
+    },
+    {
+      "id": "twins-gen4",
+      "name": "Twins Gen4",
+      "sprite": "twins-gen4.png"
+    },
+    {
+      "id": "twins-gen4dp",
+      "name": "Twins Gen4dp",
+      "sprite": "twins-gen4dp.png"
+    },
+    {
+      "id": "twins-gen6",
+      "name": "Twins Gen6",
+      "sprite": "twins-gen6.png"
+    },
+    {
+      "id": "tyme",
+      "name": "Tyme",
+      "sprite": "tyme.png"
+    },
+    {
+      "id": "ultraforestkartenvoy",
+      "name": "Ultraforestkartenvoy",
+      "sprite": "ultraforestkartenvoy.png"
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown",
+      "sprite": "unknown.png"
+    },
+    {
+      "id": "unknownf",
+      "name": "Unknownf",
+      "sprite": "unknownf.png"
+    },
+    {
+      "id": "valerie",
+      "name": "Valerie",
+      "sprite": "valerie.png"
+    },
+    {
+      "id": "vessa",
+      "name": "Vessa",
+      "sprite": "vessa.png"
+    },
+    {
+      "id": "veteran",
+      "name": "Veteran",
+      "sprite": "veteran.png"
+    },
+    {
+      "id": "veteran-gen4",
+      "name": "Veteran Gen4",
+      "sprite": "veteran-gen4.png"
+    },
+    {
+      "id": "veteran-gen6",
+      "name": "Veteran Gen6",
+      "sprite": "veteran-gen6.png"
+    },
+    {
+      "id": "veteran-gen7",
+      "name": "Veteran Gen7",
+      "sprite": "veteran-gen7.png"
+    },
+    {
+      "id": "veteranf",
+      "name": "Veteranf",
+      "sprite": "veteranf.png"
+    },
+    {
+      "id": "veteranf-gen6",
+      "name": "Veteranf Gen6",
+      "sprite": "veteranf-gen6.png"
+    },
+    {
+      "id": "veteranf-gen7",
+      "name": "Veteranf Gen7",
+      "sprite": "veteranf-gen7.png"
+    },
+    {
+      "id": "victor",
+      "name": "Victor",
+      "sprite": "victor.png"
+    },
+    {
+      "id": "victor-dojo",
+      "name": "Victor Dojo",
+      "sprite": "victor-dojo.png"
+    },
+    {
+      "id": "victor-league",
+      "name": "Victor League",
+      "sprite": "victor-league.png"
+    },
+    {
+      "id": "victor-masters",
+      "name": "Victor Masters",
+      "sprite": "victor-masters.png"
+    },
+    {
+      "id": "victor-tundra",
+      "name": "Victor Tundra",
+      "sprite": "victor-tundra.png"
+    },
+    {
+      "id": "vince",
+      "name": "Vince",
+      "sprite": "vince.png"
+    },
+    {
+      "id": "viola",
+      "name": "Viola",
+      "sprite": "viola.png"
+    },
+    {
+      "id": "viola-masters",
+      "name": "Viola Masters",
+      "sprite": "viola-masters.png"
+    },
+    {
+      "id": "volkner",
+      "name": "Volkner",
+      "sprite": "volkner.png"
+    },
+    {
+      "id": "volkner-masters",
+      "name": "Volkner Masters",
+      "sprite": "volkner-masters.png"
+    },
+    {
+      "id": "volo",
+      "name": "Volo",
+      "sprite": "volo.png"
+    },
+    {
+      "id": "volo-ginkgo",
+      "name": "Volo Ginkgo",
+      "sprite": "volo-ginkgo.png"
+    },
+    {
+      "id": "waiter",
+      "name": "Waiter",
+      "sprite": "waiter.png"
+    },
+    {
+      "id": "waiter-gen4",
+      "name": "Waiter Gen4",
+      "sprite": "waiter-gen4.png"
+    },
+    {
+      "id": "waiter-gen4dp",
+      "name": "Waiter Gen4dp",
+      "sprite": "waiter-gen4dp.png"
+    },
+    {
+      "id": "waiter-gen9",
+      "name": "Waiter Gen9",
+      "sprite": "waiter-gen9.png"
+    },
+    {
+      "id": "waitress",
+      "name": "Waitress",
+      "sprite": "waitress.png"
+    },
+    {
+      "id": "waitress-gen4",
+      "name": "Waitress Gen4",
+      "sprite": "waitress-gen4.png"
+    },
+    {
+      "id": "waitress-gen6",
+      "name": "Waitress Gen6",
+      "sprite": "waitress-gen6.png"
+    },
+    {
+      "id": "waitress-gen9",
+      "name": "Waitress Gen9",
+      "sprite": "waitress-gen9.png"
+    },
+    {
+      "id": "wallace",
+      "name": "Wallace",
+      "sprite": "wallace.png"
+    },
+    {
+      "id": "wallace-gen3",
+      "name": "Wallace Gen3",
+      "sprite": "wallace-gen3.png"
+    },
+    {
+      "id": "wallace-gen3rs",
+      "name": "Wallace Gen3rs",
+      "sprite": "wallace-gen3rs.png"
+    },
+    {
+      "id": "wallace-gen6",
+      "name": "Wallace Gen6",
+      "sprite": "wallace-gen6.png"
+    },
+    {
+      "id": "wallace-masters",
+      "name": "Wallace Masters",
+      "sprite": "wallace-masters.png"
+    },
+    {
+      "id": "wally",
+      "name": "Wally",
+      "sprite": "wally.png"
+    },
+    {
+      "id": "wally-gen3",
+      "name": "Wally Gen3",
+      "sprite": "wally-gen3.png"
+    },
+    {
+      "id": "wally-masters",
+      "name": "Wally Masters",
+      "sprite": "wally-masters.png"
+    },
+    {
+      "id": "wally-rse",
+      "name": "Wally Rse",
+      "sprite": "wally-rse.png"
+    },
+    {
+      "id": "wattson",
+      "name": "Wattson",
+      "sprite": "wattson.png"
+    },
+    {
+      "id": "wattson-gen3",
+      "name": "Wattson Gen3",
+      "sprite": "wattson-gen3.png"
+    },
+    {
+      "id": "whitney",
+      "name": "Whitney",
+      "sprite": "whitney.png"
+    },
+    {
+      "id": "whitney-gen2",
+      "name": "Whitney Gen2",
+      "sprite": "whitney-gen2.png"
+    },
+    {
+      "id": "whitney-masters",
+      "name": "Whitney Masters",
+      "sprite": "whitney-masters.png"
+    },
+    {
+      "id": "wicke",
+      "name": "Wicke",
+      "sprite": "wicke.png"
+    },
+    {
+      "id": "wikstrom",
+      "name": "Wikstrom",
+      "sprite": "wikstrom.png"
+    },
+    {
+      "id": "will",
+      "name": "Will",
+      "sprite": "will.png"
+    },
+    {
+      "id": "will-gen2",
+      "name": "Will Gen2",
+      "sprite": "will-gen2.png"
+    },
+    {
+      "id": "willow",
+      "name": "Willow",
+      "sprite": "willow.png"
+    },
+    {
+      "id": "willow-casual",
+      "name": "Willow Casual",
+      "sprite": "willow-casual.png"
+    },
+    {
+      "id": "winona",
+      "name": "Winona",
+      "sprite": "winona.png"
+    },
+    {
+      "id": "winona-gen3",
+      "name": "Winona Gen3",
+      "sprite": "winona-gen3.png"
+    },
+    {
+      "id": "winona-gen6",
+      "name": "Winona Gen6",
+      "sprite": "winona-gen6.png"
+    },
+    {
+      "id": "worker",
+      "name": "Worker",
+      "sprite": "worker.png"
+    },
+    {
+      "id": "worker-gen4",
+      "name": "Worker Gen4",
+      "sprite": "worker-gen4.png"
+    },
+    {
+      "id": "worker-gen6",
+      "name": "Worker Gen6",
+      "sprite": "worker-gen6.png"
+    },
+    {
+      "id": "worker-gen7",
+      "name": "Worker Gen7",
+      "sprite": "worker-gen7.png"
+    },
+    {
+      "id": "worker-gen8",
+      "name": "Worker Gen8",
+      "sprite": "worker-gen8.png"
+    },
+    {
+      "id": "worker-gen9",
+      "name": "Worker Gen9",
+      "sprite": "worker-gen9.png"
+    },
+    {
+      "id": "worker-lgpe",
+      "name": "Worker Lgpe",
+      "sprite": "worker-lgpe.png"
+    },
+    {
+      "id": "worker2-gen6",
+      "name": "Worker2 Gen6",
+      "sprite": "worker2-gen6.png"
+    },
+    {
+      "id": "workerf-gen8",
+      "name": "Workerf Gen8",
+      "sprite": "workerf-gen8.png"
+    },
+    {
+      "id": "workerice",
+      "name": "Workerice",
+      "sprite": "workerice.png"
+    },
+    {
+      "id": "wulfric",
+      "name": "Wulfric",
+      "sprite": "wulfric.png"
+    },
+    {
+      "id": "xerosic",
+      "name": "Xerosic",
+      "sprite": "xerosic.png"
+    },
+    {
+      "id": "yancy",
+      "name": "Yancy",
+      "sprite": "yancy.png"
+    },
+    {
+      "id": "yellgrunt",
+      "name": "Yellgrunt",
+      "sprite": "yellgrunt.png"
+    },
+    {
+      "id": "yellgruntf",
+      "name": "Yellgruntf",
+      "sprite": "yellgruntf.png"
+    },
+    {
+      "id": "yellow",
+      "name": "Yellow",
+      "sprite": "yellow.png"
+    },
+    {
+      "id": "youngathlete",
+      "name": "Youngathlete",
+      "sprite": "youngathlete.png"
+    },
+    {
+      "id": "youngathletef",
+      "name": "Youngathletef",
+      "sprite": "youngathletef.png"
+    },
+    {
+      "id": "youngcouple",
+      "name": "Youngcouple",
+      "sprite": "youngcouple.png"
+    },
+    {
+      "id": "youngcouple-gen3",
+      "name": "Youngcouple Gen3",
+      "sprite": "youngcouple-gen3.png"
+    },
+    {
+      "id": "youngcouple-gen3rs",
+      "name": "Youngcouple Gen3rs",
+      "sprite": "youngcouple-gen3rs.png"
+    },
+    {
+      "id": "youngcouple-gen4dp",
+      "name": "Youngcouple Gen4dp",
+      "sprite": "youngcouple-gen4dp.png"
+    },
+    {
+      "id": "youngcouple-gen6",
+      "name": "Youngcouple Gen6",
+      "sprite": "youngcouple-gen6.png"
+    },
+    {
+      "id": "youngn",
+      "name": "Youngn",
+      "sprite": "youngn.png"
+    },
+    {
+      "id": "youngster",
+      "name": "Youngster",
+      "sprite": "youngster.png"
+    },
+    {
+      "id": "youngster-gen1",
+      "name": "Youngster Gen1",
+      "sprite": "youngster-gen1.png"
+    },
+    {
+      "id": "youngster-gen1rb",
+      "name": "Youngster Gen1rb",
+      "sprite": "youngster-gen1rb.png"
+    },
+    {
+      "id": "youngster-gen2",
+      "name": "Youngster Gen2",
+      "sprite": "youngster-gen2.png"
+    },
+    {
+      "id": "youngster-gen3",
+      "name": "Youngster Gen3",
+      "sprite": "youngster-gen3.png"
+    },
+    {
+      "id": "youngster-gen3rs",
+      "name": "Youngster Gen3rs",
+      "sprite": "youngster-gen3rs.png"
+    },
+    {
+      "id": "youngster-gen4",
+      "name": "Youngster Gen4",
+      "sprite": "youngster-gen4.png"
+    },
+    {
+      "id": "youngster-gen4dp",
+      "name": "Youngster Gen4dp",
+      "sprite": "youngster-gen4dp.png"
+    },
+    {
+      "id": "youngster-gen6",
+      "name": "Youngster Gen6",
+      "sprite": "youngster-gen6.png"
+    },
+    {
+      "id": "youngster-gen6xy",
+      "name": "Youngster Gen6xy",
+      "sprite": "youngster-gen6xy.png"
+    },
+    {
+      "id": "youngster-gen7",
+      "name": "Youngster Gen7",
+      "sprite": "youngster-gen7.png"
+    },
+    {
+      "id": "youngster-gen8",
+      "name": "Youngster Gen8",
+      "sprite": "youngster-gen8.png"
+    },
+    {
+      "id": "youngster-gen9",
+      "name": "Youngster Gen9",
+      "sprite": "youngster-gen9.png"
+    },
+    {
+      "id": "youngster-masters",
+      "name": "Youngster Masters",
+      "sprite": "youngster-masters.png"
+    },
+    {
+      "id": "yukito-hideko",
+      "name": "Yukito Hideko",
+      "sprite": "yukito-hideko.png"
+    },
+    {
+      "id": "zinnia",
+      "name": "Zinnia",
+      "sprite": "zinnia.png"
+    },
+    {
+      "id": "zinnia-masters",
+      "name": "Zinnia Masters",
+      "sprite": "zinnia-masters.png"
+    },
+    {
+      "id": "zinzolin",
+      "name": "Zinzolin",
+      "sprite": "zinzolin.png"
+    },
+    {
+      "id": "zirco-unite",
+      "name": "Zirco Unite",
+      "sprite": "zirco-unite.png"
+    },
+    {
+      "id": "zisu",
+      "name": "Zisu",
+      "sprite": "zisu.png"
+    },
+    {
+      "id": "zossie",
+      "name": "Zossie",
+      "sprite": "zossie.png"
+    }
+  ]
+}
