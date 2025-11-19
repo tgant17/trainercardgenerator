@@ -670,18 +670,34 @@ export default function Home() {
     return dataUrl;
   };
 
-  const triggerDownload = (dataUrl: string, filename: string) => {
+  const triggerDownload = async (dataUrl: string, filename: string) => {
+    const response = await fetch(dataUrl);
+    const blob = await response.blob();
+    const file = new File([blob], filename, { type: blob.type || "image/jpeg" });
+
+    const canShareFile = typeof navigator !== "undefined" && navigator.canShare?.({ files: [file] });
+    if (canShareFile && navigator.share) {
+      try {
+        await navigator.share({ files: [file], title: filename });
+        return;
+      } catch {
+        // If sharing fails (dismissed or not supported), fall back to download.
+      }
+    }
+
+    const blobUrl = URL.createObjectURL(file);
     const link = document.createElement("a");
     const supportsDownloadAttribute = typeof link.download !== "undefined";
-    link.href = dataUrl;
+    link.href = blobUrl;
     link.download = filename;
     link.rel = "noopener noreferrer";
     link.target = "_blank";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
+    setTimeout(() => URL.revokeObjectURL(blobUrl), 1000);
     if (!supportsDownloadAttribute) {
-      window.open(dataUrl, "_blank");
+      window.open(blobUrl, "_blank");
     }
   };
 
@@ -691,7 +707,7 @@ export default function Home() {
       setStatusMessage("Preparing your JPEG...");
       const dataUrl = await captureNode(exportFrontRef.current, "#ffffff");
       const printableName = trainerName.trim() ? trainerName.trim().toLowerCase().replace(/\s+/g, "-") : "trainer";
-      triggerDownload(dataUrl, `${printableName}-card.jpeg`);
+      await triggerDownload(dataUrl, `${printableName}-card.jpeg`);
       setStatusMessage("Card downloaded! Check your Downloads folder.");
     } catch {
       setStatusMessage("Unable to build the JPEG. Try again in a few seconds.");
@@ -704,7 +720,7 @@ export default function Home() {
       setStatusMessage("Building your print sheet...");
       const dataUrl = await captureNode(exportSheetRef.current, "#ffffff");
       const printableName = trainerName.trim() ? trainerName.trim().toLowerCase().replace(/\s+/g, "-") : "trainer";
-      triggerDownload(dataUrl, `${printableName}-card-sheet.jpeg`);
+      await triggerDownload(dataUrl, `${printableName}-card-sheet.jpeg`);
       setStatusMessage("Triple sheet downloaded! Check your Downloads folder.");
     } catch {
       setStatusMessage("Unable to build the sheet. Try again in a few seconds.");
