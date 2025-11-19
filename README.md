@@ -6,7 +6,7 @@ This app lets you design a personalized Pokémon Trainer Card to share online or
 - Search the Pokédex to add up to six Pokémon with type badges and official artwork.
 - Browse a curated trainer avatar library (plus remote sprites) to match your vibe.
 - Customize card colors, apply underprint patterns, and add favorite Pokémon, type, and game details for the back.
-- Export a high-resolution JPEG of the card front/back or a triple-sheet layout for printing.
+- Export a high-resolution PNG of the card front/back or a triple-sheet layout for printing.
 
 ### Getting started
 1. Install dependencies:
@@ -22,7 +22,7 @@ This app lets you design a personalized Pokémon Trainer Card to share online or
 ### How it works
 - Pokémon data and sprites are fetched live from the PokéAPI, while cached name lists speed up autocomplete suggestions.
 - Trainer avatars come from local sprites plus a remote list in `public/trainer-avatars.json`.
-- Card exports rely on `html-to-image` to generate the downloadable JPEGs at 2× resolution.
+- Card exports rely on `html-to-image` to generate the downloadable PNGs at 2× resolution.
 
 ### Project structure
 - `src/app/page.tsx`: Main UI and card logic.
