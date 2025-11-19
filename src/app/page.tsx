@@ -1,6 +1,6 @@
 "use client";
 
-import { toJpeg } from "html-to-image";
+import { toPng } from "html-to-image";
 import { FormEvent, ReactNode, useEffect, useMemo, useRef, useState } from "react";
 
 type PokemonApiResponse = {
@@ -655,8 +655,7 @@ export default function Home() {
     node.style.pointerEvents = "none";
     node.style.zIndex = "-1";
     await waitForImages(node);
-    const dataUrl = await toJpeg(node, {
-      quality: 0.98,
+    const dataUrl = await toPng(node, {
       pixelRatio: 2,
       cacheBust: true,
       backgroundColor,
@@ -670,31 +669,47 @@ export default function Home() {
     return dataUrl;
   };
 
-  const triggerDownload = (dataUrl: string, filename: string) => {
+  const triggerDownload = async (dataUrl: string, filename: string) => {
+    const response = await fetch(dataUrl);
+    const blob = await response.blob();
+    const file = new File([blob], filename, { type: blob.type || "image/png" });
+
+    const canShareFile = typeof navigator !== "undefined" && navigator.canShare?.({ files: [file] });
+    if (canShareFile && navigator.share) {
+      try {
+        await navigator.share({ files: [file], title: filename });
+        return;
+      } catch {
+        // If sharing fails (dismissed or not supported), fall back to download.
+      }
+    }
+
+    const blobUrl = URL.createObjectURL(file);
     const link = document.createElement("a");
     const supportsDownloadAttribute = typeof link.download !== "undefined";
-    link.href = dataUrl;
+    link.href = blobUrl;
     link.download = filename;
     link.rel = "noopener noreferrer";
     link.target = "_blank";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
+    setTimeout(() => URL.revokeObjectURL(blobUrl), 1000);
     if (!supportsDownloadAttribute) {
-      window.open(dataUrl, "_blank");
+      window.open(blobUrl, "_blank");
     }
   };
 
   const handleDownload = async () => {
     if (!exportFrontRef.current) return;
     try {
-      setStatusMessage("Preparing your JPEG...");
+      setStatusMessage("Preparing your PNG...");
       const dataUrl = await captureNode(exportFrontRef.current, "#ffffff");
       const printableName = trainerName.trim() ? trainerName.trim().toLowerCase().replace(/\s+/g, "-") : "trainer";
-      triggerDownload(dataUrl, `${printableName}-card.jpeg`);
-      setStatusMessage("Card downloaded! Check your Downloads folder.");
+      await triggerDownload(dataUrl, `${printableName}-card.png`);
+      setStatusMessage("Card downloaded as PNG! Check your Downloads folder.");
     } catch {
-      setStatusMessage("Unable to build the JPEG. Try again in a few seconds.");
+      setStatusMessage("Unable to build the PNG. Try again in a few seconds.");
     }
   };
 
@@ -704,8 +719,8 @@ export default function Home() {
       setStatusMessage("Building your print sheet...");
       const dataUrl = await captureNode(exportSheetRef.current, "#ffffff");
       const printableName = trainerName.trim() ? trainerName.trim().toLowerCase().replace(/\s+/g, "-") : "trainer";
-      triggerDownload(dataUrl, `${printableName}-card-sheet.jpeg`);
-      setStatusMessage("Triple sheet downloaded! Check your Downloads folder.");
+      await triggerDownload(dataUrl, `${printableName}-card-sheet.png`);
+      setStatusMessage("Triple sheet downloaded as PNG! Check your Downloads folder.");
     } catch {
       setStatusMessage("Unable to build the sheet. Try again in a few seconds.");
     }
@@ -721,7 +736,7 @@ export default function Home() {
             <p className="text-sm uppercase tracking-[0.3em] text-indigo-200">Trainer Card Generator</p>
             <h1 className="mt-2 text-3xl font-semibold text-white">Craft your dream Pokémon team</h1>
             <p className="mt-2 text-sm text-slate-300">
-              Pick an avatar, choose up to six Pokémon using the PokéAPI, pick a color, then download a print-ready JPEG.
+              Pick an avatar, choose up to six Pokémon using the PokéAPI, pick a color, then download a print-ready PNG.
             </p>
           </header>
 
@@ -1020,7 +1035,7 @@ export default function Home() {
                 Download triple sheet
               </button>
               <p className="text-xs text-slate-400">
-                The JPEG exports at 2× resolution, perfect for sharing or printing.
+                The PNG exports at 2× resolution, perfect for sharing or printing.
               </p>
             </div>
 
